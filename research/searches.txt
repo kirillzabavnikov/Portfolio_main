@@ -1,0 +1,98 @@
+Saved searches · av.by
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Saved searches · av.by
+How we made a feature that 27 % of buyers have used and achieved their goal.
+av.by
+is an online board for car sales. 4 platforms are web mobile, web desktop, android, and ios apps. We have quite a big post base of 55 000 posts. Our company is 60 people with 1 500 000 users per month. This is the largest platform for the sale of cars in Belarus.
+Problem for users
+Search is the main tool for the classified, 80% of users start with search. People needed to fill in a lot of fields to get the result they needed (filter down by price ranges, car make and model, etc.). Support confirmed that people had to re-enter all the search criteria every time, and they wanted to be able to save it.
+Problem for the business
+As a classified, we want to be able to connect as many car sellers to as many buyers as possible so everything that will help streamline the experience of searching for a suitable car is essential.
+Audience
+Our audience is buyers. For simplicity reasons, I will unite all car buyers in Belarus with one person. His name is Vova, say hello to him!
+Success criteria
+Based on our experience with previous launches, we set as an internal target that 25% of monthly buyers should use the saved search feature.
+Research
+I did competitor analysis and then the idea came out that Vova does not need saved searches. He needs to be able to find out about new posts on his request in time. Like a push or email notification. This was confirmed in interviews. In total, there are several ideas.
+Ideas
+Surely, I met with product manager and development team. We estimated the value and complexity of implementing each idea. As a result, we refused several ideas.
+Ideas:
+Saved searches. The interface for saving and the interface for storing and managing searches. This idea is numbered zero because without saved searches it is impossible to make the following ideas.
+Subscribe to new ads based on saved searches. Like push or email notifications. The subscription could not have been done in the first iteration, but we strongly believed in its success after interviews.
+Promotion of saved searches on the first screen. Search screen.
+This is an important feature, I strongly believed in it, but due to limited technical resources, we refused it. Subscription seemed more important to us. I’ll tell you more about it later.
+Promotion of last entered searches on the first screen. Search screen.
+Due to limited technical resources, we abandoned it. I’ll tell you more about it later.
+0. Saved searches
+We needed to place the save search button in the list of ads and we don’t have many options.
+If we make the button non-sticky, then you can place the block somewhere in the feed. On the plus side, we have the opportunity to tell Vova more about the feature right away. The huge minus is block will be less noticeable with a relatively sticky button.
+If we make the button sticky, then there are two places immediately where it can be placed. The first is in the navigation bar next to the sorting. Cons — the function will be less noticeable and will constantly create information noise.
+The second is in the sticky toolbar at the bottom, next to the blue parameters button. This toolbar hides when we scroll down and appears when scrolling up. Which reduces the information noise when searching for ads. One of the advantages is the good brightness of the button.
+We chose option 3!
+After entering all the fields in the filter on the list of posts, there is a save search button in front of the parameters. This toolbar is sticky. At the first interaction after the release of saved searches, we show onboarding with a call to try saved searches.
+Let’s push the button!
+After pushing on the button, we highlight the saved searches in the navigation through animation. If Vova goes to the saved searches section, he can quickly go to the right one or delete them.
+We had doubts about the clarity of the saved search icon. We decided to test this through corridor tests. We conducted 2 tests, made changes, then conducted 5 tests and made sure that there were no problems.
+1. Subscribe to new ads based on saved searches
+Vova sees the updated onboarding about the subscription and push on it. A modal screen opens with information that the search has been saved and now you can subscribe to find out about new ads. By default, the subscription is enabled. Closes the modal screen.
+Vova closes the app and locks the phone. After a while, he hears “Pam-Pam”.
+I received a notification that a new ad for my search has appeared. We also send an email notification. Vova clicks on the notification and sees a list of ads. In this list, new ads are marked with a special blue tag. Also, Vova can go to her saved searches and turn off notifications if they get bored.
+We could have shown the ad card after clicking on the notification but decided that a list with the “new” tag would be better. Because there may be several new ads.
+It was important for us that the interface worked well. We conducted 4 corridor tests and made sure that Vova understood everything. Release!
+Results
+The result was through the roof as more than 27% of buyers use this solution. More than half of them use subscriptions. We set as an internal target that 25% of monthly buyers should use the saved search feature. Goal – achieved, Vova – pleased. We are also sure that this has had a positive impact on user engagement.
+Idea 2 and 3. Promotion of saved and last entered searches on the first screen (We didn’t do that)
+However, let me remind you that we had two additional ideas. I strongly voted for this solution. This is the placement of saved and last entered searches on the main search screen. Vova opens the application and sees an additional block with saved and last entered searches.
+I specified that this decision should be made. The product manager was of a different opinion. Development resources were very limited and had to be spent on other things.
+What experience did I get? I realized that it is important to do the features part by part. This will help deliver good solutions to the user faster. Then enhance this solution or add smth new. But I still believe that this decision will give huge value.
+And was it possible to somehow simplify the solution that eventually came out? Yes, it was possible to do only saved searches (only idea 0), without subscriptions. This has already produced a result.
+P.S. To date, we have already made this idea. The result was through the roof as more than 41% of buyers use this solution. And Vova became a happier user.
+Role
+In this project, I did competitor analysis, prototypes, mockups and tested them. Participated in the formalization of ideas. I teamed up with the product manager and engineers on this project.
+I communicated with the support service to find out about user requests, and together with the support and the product manager, we determined the metrics. With my involvement, I helped to improve the user experience and the number of requests decreased.
+Basically, all solutions work on four platforms: web, android, and ios.
+Go to av.by
+2051
+2021
+casestudy
+Next
+Design process · task
+Understanding → Analysis → Formulation of hypotheses → Low-fi prototypes → High-fi prototypes → Markup and transfer markup to development → Review of the result → Analysis of the result
+2365
+2021
+Comments in stories
+1
+7878
+2023
+Design career paths
+35398
+2023
+New feed entry point · Tinkoff
+10276
+2024
+Design process
+8347
+2022
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

@@ -1,0 +1,37 @@
+:root {
+  /* Главная: значения сняты с ivanzviahin.com. Шрифт заменён на Inter. */
+  --background: #eeedf1;
+  --ink: #04142c;
+  --accent: #393eff;
+  --font: 'Inter Variable', Inter, Arial, sans-serif;
+  --body-size: 18px;
+  --body-leading: 23px;
+  --display-size: 33px;
+  --display-leading: 32px;
+  --display-weight: 900;
+  --edge: 16px;
+  --section-gap: 50px;
+  --caption-gap: 16px;
+  --radius: 0px;
+  --mobile-width: 610px;
+  --motion-duration: 333ms;
+  --motion-easing: ease;
+  /* Внутренние страницы у референса имеют собственный белый фон и сетку. */
+  --case-background: #fff;
+  --case-ink: #000;
+  --case-link: #0580f2;
+  --case-hover: #01bf1f;
+  --case-width: 1300px;
+  --case-copy-width: 720px;
+  --case-title-size: 38px;
+  --case-title-leading: 42px;
+  --case-body-size: 16px;
+  --case-body-leading: 24px;
+}
+@supports (color: color(display-p3 1 1 1)) {
+  :root {
+    --background: color(display-p3 0.9333 0.9294 0.9451);
+    --ink: color(display-p3 0.0157 0.0784 0.1726);
+    --accent: color(display-p3 0.3001 0.31111 0.96989);
+  }
+}

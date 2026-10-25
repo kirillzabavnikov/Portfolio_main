@@ -1,0 +1,3771 @@
+{
+  "recordMap": {
+    "block": {
+      "168c40b3-b7d1-8227-8a5e-818b98edb487": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "version": 141,
+            "type": "page",
+            "properties": {
+              "title": [
+                [
+                  "Супермаркеты: промокоды"
+                ]
+              ]
+            },
+            "content": [
+              "d7cc40b3-b7d1-834a-87be-01662e7a2bec",
+              "1a4c40b3-b7d1-83e0-906e-81f74606b5ec",
+              "1c3c40b3-b7d1-8264-a976-81387f58dcd9",
+              "a90c40b3-b7d1-82f0-8a9f-81c3d747dfe5",
+              "3ffc40b3-b7d1-804b-861a-ed6bab0d7816",
+              "3ffc40b3-b7d1-8014-b311-cffd917c8518",
+              "319c40b3-b7d1-82d3-a5dd-8192cdb4a9fb",
+              "febc40b3-b7d1-8342-b69f-01a1484d6243",
+              "304c40b3-b7d1-8274-be62-015400b9eb28",
+              "b67c40b3-b7d1-8324-82f0-815189ae81c9",
+              "caac40b3-b7d1-8338-b14a-0156c0766e62",
+              "3ffc40b3-b7d1-80fd-ac04-c218b17b5cdb",
+              "3ffc40b3-b7d1-80ac-a790-eb56f6d1ea82",
+              "3ffc40b3-b7d1-8003-8917-ef75f3f2155e",
+              "3ffc40b3-b7d1-8028-b2cd-fb782ade7d7f",
+              "3ffc40b3-b7d1-8013-932a-d71143df7902",
+              "a69c40b3-b7d1-835e-922f-810020caf842",
+              "3ffc40b3-b7d1-80ff-9b2c-d5ca3e80706a",
+              "3ffc40b3-b7d1-80a8-a26a-c830732498de",
+              "3ffc40b3-b7d1-80e8-94cc-f0387576a8e3",
+              "3ffc40b3-b7d1-8068-ab56-ee2bb172b968",
+              "3ffc40b3-b7d1-801d-820a-e136038fcb56",
+              "3ffc40b3-b7d1-8025-8d32-ee484687dd31",
+              "3ffc40b3-b7d1-808d-9ed2-f5c0c1fe6dea",
+              "3ffc40b3-b7d1-8014-846e-cabaf3e0ff4f"
+            ],
+            "format": {
+              "copied_from_pointer": {
+                "id": "2dfc40b3-b7d1-804e-b567-eeb2b031f6fe",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "social_media_image_preview_url": "attachment:d85020f6-456a-4d4e-95ef-47c7345673ee:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1791225958624,
+            "last_edited_time": 1792521491635,
+            "parent_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "parent_table": "collection",
+            "alive": true,
+            "copied_from": "2dfc40b3-b7d1-804e-b567-eeb2b031f6fe",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "crdt_data": {
+              "title": {
+                "r": "Gb0l-lnSPO3S2BpY2hCUfA,\"start\",\"end\"",
+                "n": {
+                  "Gb0l-lnSPO3S2BpY2hCUfA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Gb0l-lnSPO3S2BpY2hCUfA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "xULZIur9VJPA",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -12
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "xULZIur9VJPA",
+                            13
+                          ],
+                          "o": [
+                            "xULZIur9VJPA",
+                            12
+                          ],
+                          "l": 1,
+                          "c": "С"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            27
+                          ],
+                          "o": [
+                            "xULZIur9VJPA",
+                            13
+                          ],
+                          "l": 10,
+                          "c": "упермаркет"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            39
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            36
+                          ],
+                          "l": 12,
+                          "c": "ы: промокоды"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            51
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            50
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            37
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            36
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "xULZIur9VJPA",
+                            14
+                          ],
+                          "o": [
+                            "xULZIur9VJPA",
+                            13
+                          ],
+                          "l": -13
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "4fbc40b3-b7d1-8244-bc24-01ef99019c15": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "version": 37,
+            "type": "collection_view",
+            "view_ids": [
+              "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b"
+            ],
+            "collection_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "format": {
+              "block_locked": false,
+              "block_locked_by": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+              "collection_pointer": {
+                "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "collection_pointers": [
+                {
+                  "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                  "table": "collection",
+                  "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+                }
+              ],
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8131-91d2-ecdf6e91e6e0",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "installation_imprint": {
+                "pointer": {
+                  "id": "1cdd872b-594c-81ee-9872-007bcf02ae94",
+                  "table": "marketplace_installation"
+                }
+              },
+              "hide_inline_collection_name": true,
+              "source_collection_page_count": 6,
+              "social_media_image_preview_url": "attachment:33b8390a-0878-4533-b68c-e1b20101b2ae:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1791225956696,
+            "last_edited_time": 1792697796448,
+            "parent_id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8131-91d2-ecdf6e91e6e0",
+            "file_ids": [
+              "33b8390a-0878-4533-b68c-e1b20101b2ae"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "crdt_data": {
+              "title": {
+                "r": "EQ9PtWuj39FhvOcUuwhavg,\"start\",\"end\"",
+                "n": {
+                  "EQ9PtWuj39FhvOcUuwhavg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "EQ9PtWuj39FhvOcUuwhavg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "version": 122,
+            "type": "page",
+            "properties": {
+              "title": [
+                [
+                  "Кирилл Забавников"
+                ]
+              ]
+            },
+            "content": [
+              "d86c40b3-b7d1-828f-9b06-01dacd2b6777",
+              "3b2c40b3-b7d1-835e-8ef4-819073ef0fb2",
+              "64bc40b3-b7d1-8358-80e7-81b181a04040",
+              "317c40b3-b7d1-8227-b232-01c7bbc25329",
+              "f05c40b3-b7d1-8310-bfd2-0166ad24e48a",
+              "401c40b3-b7d1-80e5-a57f-f99d31aa81e5",
+              "b13c40b3-b7d1-8217-adf1-81420aa729b1",
+              "3f0c40b3-b7d1-808f-8ace-d7868ff42602",
+              "3f0c40b3-b7d1-8057-9cf5-ed3d78132573",
+              "3f0c40b3-b7d1-803a-9c2c-f524eaa99183",
+              "3f0c40b3-b7d1-80ce-b5ec-ea773f32b943",
+              "3f0c40b3-b7d1-8011-9248-e564ef55c0f4",
+              "ab2c40b3-b7d1-83e0-a491-813691fce769",
+              "e3cc40b3-b7d1-837b-b4fa-015a400b9e63",
+              "c66c40b3-b7d1-829d-96a2-81884b7eb5c3",
+              "5e0c40b3-b7d1-83f3-a452-81ce74b52ce6",
+              "c0cc40b3-b7d1-8256-ae3e-01cf5dc9882e",
+              "253c40b3-b7d1-82a7-ae63-015d3f7a71a0",
+              "21cc40b3-b7d1-820b-ab4c-810e55eb2118",
+              "bc7c40b3-b7d1-8263-b010-01f700a8c4de",
+              "5a9c40b3-b7d1-828d-b9b5-01e84a901522",
+              "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+              "101c40b3-b7d1-8340-b1c7-0126b04ba09b",
+              "3dac40b3-b7d1-82b9-980f-016c1abd8fa4",
+              "b71c40b3-b7d1-8398-8704-010667a8ab9a",
+              "002c40b3-b7d1-8242-9e46-815f96d2cb47",
+              "7c5c40b3-b7d1-828a-9051-817923780bb8",
+              "034c40b3-b7d1-83ec-bd28-81764fb7e15e",
+              "389c40b3-b7d1-837f-a0db-818a87407eef",
+              "d43c40b3-b7d1-82fb-9ed5-816b5e650c1e",
+              "148c40b3-b7d1-82f5-b1df-01b9ccb1428e"
+            ],
+            "format": {
+              "page_icon": "attachment:4095cce3-d4d5-4924-88f5-46e34fffc577:photo_2024-11-24_11-35-34.jpg",
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8032-b512-d96857f86207",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "page_cover_position": 0.6,
+              "installation_imprint": {
+                "pointer": {
+                  "id": "1cdd872b-594c-81ee-9872-007bcf02ae94",
+                  "table": "marketplace_installation"
+                }
+              }
+            },
+            "permissions": [
+              {
+                "role": "reader",
+                "type": "public_permission",
+                "added_timestamp": 1792077330224,
+                "is_public_share_link": true
+              }
+            ],
+            "created_time": 1791225956201,
+            "last_edited_time": 1792699244412,
+            "parent_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "parent_table": "space",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8032-b512-d96857f86207",
+            "file_ids": [
+              "4095cce3-d4d5-4924-88f5-46e34fffc577"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "space",
+            "nav_parent_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_data": {
+              "title": {
+                "r": "x-KMivfVpmK8h_kJjE-JHg,\"start\",\"end\"",
+                "n": {
+                  "x-KMivfVpmK8h_kJjE-JHg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "x-KMivfVpmK8h_kJjE-JHg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vLHVfsmvyNbl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 17,
+                          "c": "Кирилл Забавников"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vLHVfsmvyNbl",
+                            18
+                          ],
+                          "o": [
+                            "vLHVfsmvyNbl",
+                            17
+                          ],
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "d7cc40b3-b7d1-834a-87be-01662e7a2bec": {
+        "value": {
+          "value": {
+            "id": "d7cc40b3-b7d1-834a-87be-01662e7a2bec",
+            "version": 14,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "955 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "dresser-Гросери.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:57113d15-1367-4522-a358-f1531a6910e1:dresser-Гросери.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 710,
+              "display_source": "attachment:57113d15-1367-4522-a358-f1531a6910e1:dresser-Гросери.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 0.5626566416040101,
+              "copied_from_pointer": {
+                "id": "2e8c40b3-b7d1-80d6-87d1-ea2e8303752c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958618,
+            "last_edited_time": 1791314120174,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "2e8c40b3-b7d1-80d6-87d1-ea2e8303752c",
+            "file_ids": [
+              "424dce8b-9ff5-4775-96a8-b945ff1d423d",
+              "57113d15-1367-4522-a358-f1531a6910e1"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "GnleBYNr9KzmgpxDQ591hw,\"start\",\"end\"",
+                "n": {
+                  "GnleBYNr9KzmgpxDQ591hw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "GnleBYNr9KzmgpxDQ591hw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YLw_QvtVCoeR",
+                            21
+                          ],
+                          "o": "start",
+                          "l": 19,
+                          "c": "dresser-Гросери.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "dre5d67piDua",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -20
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "1a4c40b3-b7d1-83e0-906e-81f74606b5ec": {
+        "value": {
+          "value": {
+            "id": "1a4c40b3-b7d1-83e0-906e-81f74606b5ec",
+            "version": 2,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Вводные"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8052-b7da-c5825738a3f9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1791225958619,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8052-b7da-c5825738a3f9",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "9n9Dv0CAtyBeotobfvewBw,\"start\",\"end\"",
+                "n": {
+                  "9n9Dv0CAtyBeotobfvewBw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "9n9Dv0CAtyBeotobfvewBw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "Bc8yI0i5jVax",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 7,
+                          "c": "Вводные"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "1c3c40b3-b7d1-8264-a976-81387f58dcd9": {
+        "value": {
+          "value": {
+            "id": "1c3c40b3-b7d1-8264-a976-81387f58dcd9",
+            "version": 18,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Задача — создать инструмент работы с промокодами на разных этапах пользовательского пути, который позволит запускать, тестировать и развивать промомеханики"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8085-9aeb-f139702b88df",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792158761053,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8085-9aeb-f139702b88df",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "60Yx-Sdn1jh9PZa3L2A_ag,\"start\",\"end\"",
+                "n": {
+                  "60Yx-Sdn1jh9PZa3L2A_ag,\"start\",\"end\"": {
+                    "s": {
+                      "x": "60Yx-Sdn1jh9PZa3L2A_ag",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "qJgfPTlYteH3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -155
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "JiR3ypnDKHjKAweML_ewPA,[\"bn7WTNnItkY5\",68],\"end\""
+                    ]
+                  },
+                  "JiR3ypnDKHjKAweML_ewPA,[\"bn7WTNnItkY5\",68],\"end\"": {
+                    "s": {
+                      "x": "JiR3ypnDKHjKAweML_ewPA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            68
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "-DCMvpHjpclZ",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -47
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "gImdRzDbz4qhhakQLpG5Rg,[\"bn7WTNnItkY5\",71],\"end\""
+                    ]
+                  },
+                  "gImdRzDbz4qhhakQLpG5Rg,[\"bn7WTNnItkY5\",71],\"end\"": {
+                    "s": {
+                      "x": "gImdRzDbz4qhhakQLpG5Rg",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            71
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "N-ZXUmLBNmmo",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -50
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "ZL-Dre1UdCToWPvr_gG7jw,[\"bn7WTNnItkY5\",106],\"end\""
+                    ]
+                  },
+                  "ZL-Dre1UdCToWPvr_gG7jw,[\"bn7WTNnItkY5\",106],\"end\"": {
+                    "s": {
+                      "x": "ZL-Dre1UdCToWPvr_gG7jw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            106
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            107
+                          ],
+                          "o": [
+                            "bn7WTNnItkY5",
+                            106
+                          ],
+                          "l": -155
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "u735yY9HTtyW",
+                            282
+                          ],
+                          "o": [
+                            "bn7WTNnItkY5",
+                            261
+                          ],
+                          "l": 155,
+                          "c": "Задача — создать инструмент работы с промокодами на разных этапах пользовательского пути, который позволит запускать, тестировать и развивать промомеханики"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            262
+                          ],
+                          "o": [
+                            "bn7WTNnItkY5",
+                            261
+                          ],
+                          "l": -20
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "tq9T0mkZZdRg",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -85
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "S-sN5OWz10YsSbfZtwoHiQ,[\"bn7WTNnItkY5\",202],\"end\""
+                    ]
+                  },
+                  "S-sN5OWz10YsSbfZtwoHiQ,[\"bn7WTNnItkY5\",202],\"end\"": {
+                    "s": {
+                      "x": "S-sN5OWz10YsSbfZtwoHiQ",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "bn7WTNnItkY5",
+                            202
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "u735yY9HTtyW",
+                            203
+                          ],
+                          "o": [
+                            "bn7WTNnItkY5",
+                            202
+                          ],
+                          "l": -7
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "u2ZEpndVf2fa",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -181
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "a90c40b3-b7d1-82f0-8a9f-81c3d747dfe5": {
+        "value": {
+          "value": {
+            "id": "a90c40b3-b7d1-82f0-8a9f-81c3d747dfe5",
+            "version": 50,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Команда и моя роль "
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8004-9ae8-c5f63c441be8",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958618,
+            "last_edited_time": 1792520831394,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8004-9ae8-c5f63c441be8",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "zZTjwtaXXn9uDN_6RcW4mQ,\"start\",\"end\"",
+                "n": {
+                  "zZTjwtaXXn9uDN_6RcW4mQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "zZTjwtaXXn9uDN_6RcW4mQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            9
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "К"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            11
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            9
+                          ],
+                          "l": 5,
+                          "c": "оманд"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            29
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            15
+                          ],
+                          "l": 1,
+                          "c": "а"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            16
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            15
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            17
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            16
+                          ],
+                          "l": 12,
+                          "c": " и моя роль "
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            10
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            9
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "w7lJpBNNYzyj",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -8
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "BaVl1x-qQqwjYATD8rC8Zw,[\"I4D750e5wLmH\",218],\"end\""
+                    ]
+                  },
+                  "BaVl1x-qQqwjYATD8rC8Zw,[\"I4D750e5wLmH\",218],\"end\"": {
+                    "s": {
+                      "x": "BaVl1x-qQqwjYATD8rC8Zw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            218
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "DL0eTHSMsa4w",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -197
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-804b-861a-ed6bab0d7816": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-804b-861a-ed6bab0d7816",
+            "version": 5,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Я отвечал за дискавери и проектирование механики промокодов — от исследования существующих решений и формирования гипотез до приоритизации плейсментов и сопровождения запуска"
+                ]
+              ]
+            },
+            "created_time": 1792520848142,
+            "last_edited_time": 1792520855376,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "BTpqQho-iOE68hCQkgpPdw,\"start\",\"end\"",
+                "n": {
+                  "BTpqQho-iOE68hCQkgpPdw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "BTpqQho-iOE68hCQkgpPdw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "2XR-tLXUfUdy",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 174,
+                          "c": "Я отвечал за дискавери и проектирование механики промокодов — от исследования существующих решений и формирования гипотез до приоритизации плейсментов и сопровождения запуска"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "2XR-tLXUfUdy",
+                            175
+                          ],
+                          "o": [
+                            "2XR-tLXUfUdy",
+                            174
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8014-b311-cffd917c8518": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8014-b311-cffd917c8518",
+            "version": 5,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "В рамках дискавери взаимодействовал с соседними командами, чтобы учесть уже реализованные и запланированные механики"
+                ]
+              ]
+            },
+            "created_time": 1792520848145,
+            "last_edited_time": 1792520853603,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "zXZgtmXzpqIY7kfDDmENfA,\"start\",\"end\"",
+                "n": {
+                  "zXZgtmXzpqIY7kfDDmENfA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "zXZgtmXzpqIY7kfDDmENfA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "-BHfCroSwaxg",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 116,
+                          "c": "В рамках дискавери взаимодействовал с соседними командами, чтобы учесть уже реализованные и запланированные механики"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "-BHfCroSwaxg",
+                            117
+                          ],
+                          "o": [
+                            "-BHfCroSwaxg",
+                            116
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "319c40b3-b7d1-82d3-a5dd-8192cdb4a9fb": {
+        "value": {
+          "value": {
+            "id": "319c40b3-b7d1-82d3-a5dd-8192cdb4a9fb",
+            "version": 13,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Проблемы, которые решали"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8079-9c74-c4b99e8a9961",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792520883122,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8079-9c74-c4b99e8a9961",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "ThmYrkCjsJ_YZa705S-k0g,\"start\",\"end\"",
+                "n": {
+                  "ThmYrkCjsJ_YZa705S-k0g,\"start\",\"end\"": {
+                    "s": {
+                      "x": "ThmYrkCjsJ_YZa705S-k0g",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            35
+                          ],
+                          "o": "start",
+                          "l": 22,
+                          "c": "Проблемы, которые реша"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            59
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            56
+                          ],
+                          "l": 2,
+                          "c": "ли"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            57
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            56
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "jy27cibBIFak",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -34
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "febc40b3-b7d1-8342-b69f-01a1484d6243": {
+        "value": {
+          "value": {
+            "id": "febc40b3-b7d1-8342-b69f-01a1484d6243",
+            "version": 6,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Бизнеса",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80e7-83ea-c93af828f420",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792520901073,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80e7-83ea-c93af828f420",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "fI0L9BuPFmYo8TA4AyragA,\"start\",\"end\"",
+                "n": {
+                  "fI0L9BuPFmYo8TA4AyragA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "fI0L9BuPFmYo8TA4AyragA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            14
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "Б",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "fI0L9BuPFmYo8TA4AyragA",
+                              "l": "",
+                              "i": [
+                                "I4D750e5wLmH",
+                                15
+                              ],
+                              "s": {
+                                "i": [
+                                  "I4D750e5wLmH",
+                                  14
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": [
+                                  "No4c_iiZtaf5",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "No4c_iiZtaf5",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -6,
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "fI0L9BuPFmYo8TA4AyragA",
+                              "l": "",
+                              "i": [
+                                "No4c_iiZtaf5",
+                                13
+                              ],
+                              "s": {
+                                "i": [
+                                  "No4c_iiZtaf5",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": "end",
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "No4c_iiZtaf5",
+                            7
+                          ],
+                          "o": [
+                            "No4c_iiZtaf5",
+                            6
+                          ],
+                          "l": 6,
+                          "c": "изнеса"
+                        },
+                        {
+                          "t": "e",
+                          "b": []
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "304c40b3-b7d1-8274-be62-015400b9eb28": {
+        "value": {
+          "value": {
+            "id": "304c40b3-b7d1-8274-be62-015400b9eb28",
+            "version": 7,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "В Супермаркетах не было системного инструмента для работы с промокодами: они почти не продвигались внутри продукта, а масштабируемые плейсменты для запуска и тестирования новых промомеханик отсутствовали"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8086-9d9c-eef21b1f5341",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792521522721,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8086-9d9c-eef21b1f5341",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "AZP6a9G6yYh7jmJCrOcIng,\"start\",\"end\"",
+                "n": {
+                  "AZP6a9G6yYh7jmJCrOcIng,\"start\",\"end\"": {
+                    "s": {
+                      "x": "AZP6a9G6yYh7jmJCrOcIng",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            218
+                          ],
+                          "o": "start",
+                          "l": 203,
+                          "c": "В Супермаркетах не было системного инструмента для работы с промокодами: они почти не продвигались внутри продукта, а масштабируемые плейсменты для запуска и тестирования новых промомеханик отсутствовали"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            421
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            420
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "58yYXf7DGO4T",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -217
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "b67c40b3-b7d1-8324-82f0-815189ae81c9": {
+        "value": {
+          "value": {
+            "id": "b67c40b3-b7d1-8324-82f0-815189ae81c9",
+            "version": 7,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Пользователя",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80ef-9e80-c6282dbfac11",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792520918305,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80ef-9e80-c6282dbfac11",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "sJ-2zsz1NP8V_i0WDe87Fw,\"start\",\"end\"",
+                "n": {
+                  "sJ-2zsz1NP8V_i0WDe87Fw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "sJ-2zsz1NP8V_i0WDe87Fw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            21
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "П",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "sJ-2zsz1NP8V_i0WDe87Fw",
+                              "l": "",
+                              "i": [
+                                "I4D750e5wLmH",
+                                22
+                              ],
+                              "s": {
+                                "i": [
+                                  "I4D750e5wLmH",
+                                  21
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": [
+                                  "bjOaL0i_RsJR",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bjOaL0i_RsJR",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -8,
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "sJ-2zsz1NP8V_i0WDe87Fw",
+                              "l": "",
+                              "i": [
+                                "bjOaL0i_RsJR",
+                                20
+                              ],
+                              "s": {
+                                "i": [
+                                  "bjOaL0i_RsJR",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": "end",
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bjOaL0i_RsJR",
+                            9
+                          ],
+                          "o": [
+                            "bjOaL0i_RsJR",
+                            8
+                          ],
+                          "l": 11,
+                          "c": "ользователя"
+                        },
+                        {
+                          "t": "e",
+                          "b": []
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "caac40b3-b7d1-8338-b14a-0156c0766e62": {
+        "value": {
+          "value": {
+            "id": "caac40b3-b7d1-8338-b14a-0156c0766e62",
+            "version": 6,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Пользователю было сложно заметить промокоды и оценить доступную выгоду"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-800f-834e-ef51853cd00a",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958618,
+            "last_edited_time": 1792520914171,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-800f-834e-ef51853cd00a",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "aN1gvhDRuRHXbpsGLvPq2A,\"start\",\"end\"",
+                "n": {
+                  "aN1gvhDRuRHXbpsGLvPq2A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "aN1gvhDRuRHXbpsGLvPq2A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "wFIPQFJ0qWwo",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -136
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "79pwcNUPgh-lC7Dhp8vteQ,[\"I4D750e5wLmH\",30],\"end\""
+                    ]
+                  },
+                  "79pwcNUPgh-lC7Dhp8vteQ,[\"I4D750e5wLmH\",30],\"end\"": {
+                    "s": {
+                      "x": "79pwcNUPgh-lC7Dhp8vteQ",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            30
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            31
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            30
+                          ],
+                          "l": 70,
+                          "c": "Пользователю было сложно заметить промокоды и оценить доступную выгоду"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "IUzemJiEtSM6",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -9
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80fd-ac04-c218b17b5cdb": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80fd-ac04-c218b17b5cdb",
+            "version": 13,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Цели"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "319c40b3-b7d1-82d3-a5dd-8192cdb4a9fb",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792520925585,
+            "last_edited_time": 1792521002928,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "319c40b3-b7d1-82d3-a5dd-8192cdb4a9fb",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "VUz2sqoZtr49IEt08cOAsA,\"start\",\"end\"",
+                "n": {
+                  "VUz2sqoZtr49IEt08cOAsA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "VUz2sqoZtr49IEt08cOAsA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            25
+                          ],
+                          "o": "start",
+                          "l": 4,
+                          "c": "Цели"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "9mX7v-q9sw0U",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -24
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80ac-a790-eb56f6d1ea82": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80ac-a790-eb56f6d1ea82",
+            "version": 8,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Бизнеса",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "created_time": 1792521004571,
+            "last_edited_time": 1792521007836,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "b4aQTqLxu6TqDTB565bcDQ,\"start\",[\"I4D750e5wLmH\",1]",
+                "n": {
+                  "b4aQTqLxu6TqDTB565bcDQ,\"start\",[\"I4D750e5wLmH\",1]": {
+                    "s": {
+                      "x": "b4aQTqLxu6TqDTB565bcDQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            2
+                          ],
+                          "o": "start",
+                          "l": 7,
+                          "c": "Бизнеса",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "b4aQTqLxu6TqDTB565bcDQ",
+                              "l": "",
+                              "i": [
+                                "I4D750e5wLmH",
+                                9
+                              ],
+                              "s": {
+                                "i": [
+                                  "I4D750e5wLmH",
+                                  2
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": [
+                                  "I4D750e5wLmH",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            1
+                          ],
+                          "o": "start",
+                          "b": []
+                        }
+                      ],
+                      "l": "L"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8003-8917-ef75f3f2155e": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8003-8917-ef75f3f2155e",
+            "version": 9,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Увеличить GMV, повторные покупки и выручку за счёт промомеханик. Создать возможность проверять маркетинговые гипотезы на разных этапах воронки и развивать наиболее эффективные сценарии"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "304c40b3-b7d1-8274-be62-015400b9eb28",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521007828,
+            "last_edited_time": 1792521520518,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "304c40b3-b7d1-8274-be62-015400b9eb28",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "nU5-K9fDgQiw5Amp6HFHQg,\"start\",\"end\"",
+                "n": {
+                  "nU5-K9fDgQiw5Amp6HFHQg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "nU5-K9fDgQiw5Amp6HFHQg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            205
+                          ],
+                          "o": "start",
+                          "l": 184,
+                          "c": "Увеличить GMV, повторные покупки и выручку за счёт промомеханик. Создать возможность проверять маркетинговые гипотезы на разных этапах воронки и развивать наиболее эффективные сценарии"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            389
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            388
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bLQGPMAv8Cam",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -204
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8028-b2cd-fb782ade7d7f": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8028-b2cd-fb782ade7d7f",
+            "version": 5,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Пользователя",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "b67c40b3-b7d1-8324-82f0-815189ae81c9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521007829,
+            "last_edited_time": 1792521007836,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "b67c40b3-b7d1-8324-82f0-815189ae81c9",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "lIwztwYcH9NoPL71NYBCMw,\"start\",\"end\"",
+                "n": {
+                  "lIwztwYcH9NoPL71NYBCMw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "lIwztwYcH9NoPL71NYBCMw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YGxqzFpSXsXU",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 12,
+                          "c": "Пользователя",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "lIwztwYcH9NoPL71NYBCMw",
+                              "l": "",
+                              "i": [
+                                "YGxqzFpSXsXU",
+                                13
+                              ],
+                              "s": {
+                                "i": [
+                                  "YGxqzFpSXsXU",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": "end",
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "e",
+                          "b": []
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8013-932a-d71143df7902": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8013-932a-d71143df7902",
+            "version": 11,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Получать скидки и дополнительные преимущества, экономить на доставке и покупать на более выгодных условиях без лишних действий"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "caac40b3-b7d1-8338-b14a-0156c0766e62",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521007830,
+            "last_edited_time": 1792521519405,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "caac40b3-b7d1-8338-b14a-0156c0766e62",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "u7MR_Uq9cS6mEDCa4IeqnA,\"start\",\"end\"",
+                "n": {
+                  "u7MR_Uq9cS6mEDCa4IeqnA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "u7MR_Uq9cS6mEDCa4IeqnA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "Jan5KuVVfPf8",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -70
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "b4aQTqLxu6TqDTB565bcDQ,[\"I4D750e5wLmH\",1],\"end\""
+                    ]
+                  },
+                  "b4aQTqLxu6TqDTB565bcDQ,[\"I4D750e5wLmH\",1],\"end\"": {
+                    "s": {
+                      "x": "b4aQTqLxu6TqDTB565bcDQ",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            1
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            10
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            1
+                          ],
+                          "l": 126,
+                          "c": "Получать скидки и дополнительные преимущества, экономить на доставке и покупать на более выгодных условиях без лишних действий"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            136
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            135
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "xmynQYm36Hwb2y8ToqNhbg,[\"I4D750e5wLmH\",180],\"end\""
+                    ]
+                  },
+                  "xmynQYm36Hwb2y8ToqNhbg,[\"I4D750e5wLmH\",180],\"end\"": {
+                    "s": {
+                      "x": "xmynQYm36Hwb2y8ToqNhbg",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            180
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "FNl1KNnZ4T9Q",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -159
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "qV5N2Rt_Jl4Q34iZeoFJpw,[\"I4D750e5wLmH\",210],\"end\""
+                    ]
+                  },
+                  "qV5N2Rt_Jl4Q34iZeoFJpw,[\"I4D750e5wLmH\",210],\"end\"": {
+                    "s": {
+                      "x": "qV5N2Rt_Jl4Q34iZeoFJpw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            210
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "xpfxnZUkLGwT",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -189
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "a69c40b3-b7d1-835e-922f-810020caf842": {
+        "value": {
+          "value": {
+            "id": "a69c40b3-b7d1-835e-922f-810020caf842",
+            "version": 6,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Итоговое решение"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8086-974a-f203409efdc0",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958619,
+            "last_edited_time": 1792521136416,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8086-974a-f203409efdc0",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "J_DEZBU2hZbSJRhus2c8xQ,\"start\",\"end\"",
+                "n": {
+                  "J_DEZBU2hZbSJRhus2c8xQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "J_DEZBU2hZbSJRhus2c8xQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            10
+                          ],
+                          "o": "start",
+                          "l": 16,
+                          "c": "Итоговое решение"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "Wnv2mE290SQ1",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -9
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "QRKb5omzxt9kQxSlupsEWw,[\"I4D750e5wLmH\",216],\"end\""
+                    ]
+                  },
+                  "QRKb5omzxt9kQxSlupsEWw,[\"I4D750e5wLmH\",216],\"end\"": {
+                    "s": {
+                      "x": "QRKb5omzxt9kQxSlupsEWw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            216
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "k--uQ7VBu7mo",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -195
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "Gr2EzxGYLs_QViM9NN7Wlg,[\"I4D750e5wLmH\",186],\"end\""
+                    ]
+                  },
+                  "Gr2EzxGYLs_QViM9NN7Wlg,[\"I4D750e5wLmH\",186],\"end\"": {
+                    "s": {
+                      "x": "Gr2EzxGYLs_QViM9NN7Wlg",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            186
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "wHDtW4-2hSD2",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -165
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "d8AOOEvsfWQuwsRiX4ilfw,[\"I4D750e5wLmH\",44],\"end\""
+                    ]
+                  },
+                  "d8AOOEvsfWQuwsRiX4ilfw,[\"I4D750e5wLmH\",44],\"end\"": {
+                    "s": {
+                      "x": "d8AOOEvsfWQuwsRiX4ilfw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            44
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "iJT6hIXBo1cK",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -23
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "d8AOOEvsfWQuwsRiX4ilfw,[\"I4D750e5wLmH\",65],[\"I4D750e5wLmH\",44]"
+                    ]
+                  },
+                  "d8AOOEvsfWQuwsRiX4ilfw,[\"I4D750e5wLmH\",65],[\"I4D750e5wLmH\",44]": {
+                    "s": {
+                      "x": "d8AOOEvsfWQuwsRiX4ilfw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            65
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            44
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "wBxgcB0mFfQKmFQRL10gTA,[\"I4D750e5wLmH\",21],\"end\""
+                    ]
+                  },
+                  "wBxgcB0mFfQKmFQRL10gTA,[\"I4D750e5wLmH\",21],\"end\"": {
+                    "s": {
+                      "x": "wBxgcB0mFfQKmFQRL10gTA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            21
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80ff-9b2c-d5ca3e80706a": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80ff-9b2c-d5ca3e80706a",
+            "version": 5,
+            "type": "column_list",
+            "content": [
+              "3ffc40b3-b7d1-806d-8d8e-c5a6f076db6f",
+              "3ffc40b3-b7d1-8051-80de-fbecb5e065ed"
+            ],
+            "created_time": 1792521351197,
+            "last_edited_time": 1792521351202,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "R_MKMeiekflmfUR7lk1DJA,\"start\",\"end\"",
+                "n": {
+                  "R_MKMeiekflmfUR7lk1DJA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "R_MKMeiekflmfUR7lk1DJA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80a8-a26a-c830732498de": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80a8-a26a-c830732498de",
+            "version": 5,
+            "type": "column_list",
+            "content": [
+              "3ffc40b3-b7d1-80a5-8deb-c8b75ed86164",
+              "3ffc40b3-b7d1-8042-806e-fc6bd84b4431"
+            ],
+            "created_time": 1792521394724,
+            "last_edited_time": 1792521394728,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "KqNRA6CoKNbeiDv5LgTm0Q,\"start\",\"end\"",
+                "n": {
+                  "KqNRA6CoKNbeiDv5LgTm0Q,\"start\",\"end\"": {
+                    "s": {
+                      "x": "KqNRA6CoKNbeiDv5LgTm0Q",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80e8-94cc-f0387576a8e3": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80e8-94cc-f0387576a8e3",
+            "version": 30,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Результат"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "a69c40b3-b7d1-835e-922f-810020caf842",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521466542,
+            "last_edited_time": 1792521472734,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "a69c40b3-b7d1-835e-922f-810020caf842",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "UqqJM10TtP4MfhfCvykhfQ,\"start\",\"end\"",
+                "n": {
+                  "UqqJM10TtP4MfhfCvykhfQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "UqqJM10TtP4MfhfCvykhfQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            17
+                          ],
+                          "o": "start",
+                          "l": 9,
+                          "c": "Результат"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "awUPhRpdmy_l",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -16
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "korVEAeIkY3ew8g8J9JWVw,[\"I4D750e5wLmH\",148],\"end\""
+                    ]
+                  },
+                  "korVEAeIkY3ew8g8J9JWVw,[\"I4D750e5wLmH\",148],\"end\"": {
+                    "s": {
+                      "x": "korVEAeIkY3ew8g8J9JWVw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            148
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "LroDGLFikeRL",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -127
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8068-ab56-ee2bb172b968": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8068-ab56-ee2bb172b968",
+            "version": 3,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "По результатам запуска зафиксировали:"
+                ]
+              ]
+            },
+            "created_time": 1792521499605,
+            "last_edited_time": 1792521499610,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "9q79pDIEjiqa7rWX3TxABw,\"start\",\"end\"",
+                "n": {
+                  "9q79pDIEjiqa7rWX3TxABw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "9q79pDIEjiqa7rWX3TxABw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "oGQhQsDi9LRj",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 37,
+                          "c": "По результатам запуска зафиксировали:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-801d-820a-e136038fcb56": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-801d-820a-e136038fcb56",
+            "version": 5,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "Рост конверсии новичков в покупку"
+                ]
+              ]
+            },
+            "created_time": 1792521499605,
+            "last_edited_time": 1792521516582,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "s45D-EkEkiNhtD-4YnBMPg,\"start\",\"end\"",
+                "n": {
+                  "s45D-EkEkiNhtD-4YnBMPg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "s45D-EkEkiNhtD-4YnBMPg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I217CqGtgWeh",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 33,
+                          "c": "Рост конверсии новичков в покупку"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I217CqGtgWeh",
+                            34
+                          ],
+                          "o": [
+                            "I217CqGtgWeh",
+                            33
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8025-8d32-ee484687dd31": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8025-8d32-ee484687dd31",
+            "version": 7,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "Положительное влияние на GMV\nТочные показатели находятся под NDA"
+                ]
+              ]
+            },
+            "created_time": 1792521499606,
+            "last_edited_time": 1792521516097,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "EpDaLQ89K8aBuM0KBAoZUw,\"start\",\"end\"",
+                "n": {
+                  "EpDaLQ89K8aBuM0KBAoZUw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "EpDaLQ89K8aBuM0KBAoZUw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YakfmvMvwwu3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 28,
+                          "c": "Положительное влияние на GMV"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YakfmvMvwwu3",
+                            29
+                          ],
+                          "o": [
+                            "YakfmvMvwwu3",
+                            28
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YakfmvMvwwu3",
+                            30
+                          ],
+                          "o": [
+                            "YakfmvMvwwu3",
+                            29
+                          ],
+                          "l": 36,
+                          "c": "\nТочные показатели находятся под NDA"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YakfmvMvwwu3",
+                            66
+                          ],
+                          "o": [
+                            "YakfmvMvwwu3",
+                            65
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-808d-9ed2-f5c0c1fe6dea": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-808d-9ed2-f5c0c1fe6dea",
+            "version": 5,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Решение также создало основу для дальнейшего тестирования и масштабирования промомеханик внутри Супермаркетов и Маркетплейса (Шопинг)"
+                ]
+              ]
+            },
+            "created_time": 1792521499607,
+            "last_edited_time": 1792521508185,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "8e5jMZoaqBtv2kO_HmthDg,\"start\",\"end\"",
+                "n": {
+                  "8e5jMZoaqBtv2kO_HmthDg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "8e5jMZoaqBtv2kO_HmthDg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "HcuKs7DWdMXP",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 132,
+                          "c": "Решение также создало основу для дальнейшего тестирования и масштабирования промомеханик внутри Супермаркетов и Маркетплейса (Шопинг"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            133
+                          ],
+                          "o": [
+                            "HcuKs7DWdMXP",
+                            132
+                          ],
+                          "l": 1,
+                          "c": ")"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8014-846e-cabaf3e0ff4f": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8014-846e-cabaf3e0ff4f",
+            "version": 12,
+            "type": "text",
+            "created_time": 1792521463374,
+            "last_edited_time": 1792521491635,
+            "parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "5RF-3WQDrVnXi_GvGZ4mxw,\"start\",\"end\"",
+                "n": {
+                  "5RF-3WQDrVnXi_GvGZ4mxw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "5RF-3WQDrVnXi_GvGZ4mxw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-806d-8d8e-c5a6f076db6f": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-806d-8d8e-c5a6f076db6f",
+            "version": 5,
+            "type": "column",
+            "content": [
+              "95ac40b3-b7d1-8319-a05c-01eb37f0d5f5"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521351196,
+            "last_edited_time": 1792521351202,
+            "parent_id": "3ffc40b3-b7d1-80ff-9b2c-d5ca3e80706a",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "YBibDm11TLu5uwarB24SUg,\"start\",\"end\"",
+                "n": {
+                  "YBibDm11TLu5uwarB24SUg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "YBibDm11TLu5uwarB24SUg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8051-80de-fbecb5e065ed": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8051-80de-fbecb5e065ed",
+            "version": 5,
+            "type": "column",
+            "content": [
+              "124c40b3-b7d1-8224-a3d2-817af28f7177"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521351199,
+            "last_edited_time": 1792521351202,
+            "parent_id": "3ffc40b3-b7d1-80ff-9b2c-d5ca3e80706a",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "ntvd200A2o8xU3zPIXShUw,\"start\",\"end\"",
+                "n": {
+                  "ntvd200A2o8xU3zPIXShUw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "ntvd200A2o8xU3zPIXShUw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "95ac40b3-b7d1-8319-a05c-01eb37f0d5f5": {
+        "value": {
+          "value": {
+            "id": "95ac40b3-b7d1-8319-a05c-01eb37f0d5f5",
+            "version": 19,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "376.8 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Промокоды_разводящая.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:4810b093-05e5-4615-bace-e8d0760b408d:Промокоды_разводящая.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 315,
+              "display_source": "attachment:4810b093-05e5-4615-bace-e8d0760b408d:Промокоды_разводящая.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8037-96a0-d388e3cd456c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958620,
+            "last_edited_time": 1792521352979,
+            "parent_id": "3ffc40b3-b7d1-806d-8d8e-c5a6f076db6f",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8037-96a0-d388e3cd456c",
+            "file_ids": [
+              "edc8bfa0-00db-4d05-99a3-80add2a24cc2",
+              "4810b093-05e5-4615-bace-e8d0760b408d"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "u2Jhbgrdh_1VaH3_dA2xmw,\"start\",\"end\"",
+                "n": {
+                  "u2Jhbgrdh_1VaH3_dA2xmw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "u2Jhbgrdh_1VaH3_dA2xmw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            12
+                          ],
+                          "o": "start",
+                          "l": 24,
+                          "c": "Промокоды_разводящая.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "mA6uREfrPEgt",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "124c40b3-b7d1-8224-a3d2-817af28f7177": {
+        "value": {
+          "value": {
+            "id": "124c40b3-b7d1-8224-a3d2-817af28f7177",
+            "version": 20,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "317.8 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Промокоды_шторка.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:6bc88df0-805c-4f23-a28e-d2253b684468:Промокоды_шторка.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 315,
+              "display_source": "attachment:6bc88df0-805c-4f23-a28e-d2253b684468:Промокоды_шторка.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-806d-97e4-ec28a9ec25c5",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958620,
+            "last_edited_time": 1792521366091,
+            "parent_id": "3ffc40b3-b7d1-8051-80de-fbecb5e065ed",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-806d-97e4-ec28a9ec25c5",
+            "file_ids": [
+              "e2929d8e-10e3-4a7b-9bd4-5f16d98ef913",
+              "6bc88df0-805c-4f23-a28e-d2253b684468"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "hS0nanhbvotpi2qJqVqpoQ,\"start\",\"end\"",
+                "n": {
+                  "hS0nanhbvotpi2qJqVqpoQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "hS0nanhbvotpi2qJqVqpoQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            12
+                          ],
+                          "o": "start",
+                          "l": 20,
+                          "c": "Промокоды_шторка.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "MAwhJ7o8Rj93",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80a5-8deb-c8b75ed86164": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80a5-8deb-c8b75ed86164",
+            "version": 5,
+            "type": "column",
+            "content": [
+              "871c40b3-b7d1-83f3-9106-81e508395b05"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521394723,
+            "last_edited_time": 1792521394728,
+            "parent_id": "3ffc40b3-b7d1-80a8-a26a-c830732498de",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "xY9MmDSyT-Dk9AuNSfOX2A,\"start\",\"end\"",
+                "n": {
+                  "xY9MmDSyT-Dk9AuNSfOX2A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "xY9MmDSyT-Dk9AuNSfOX2A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8042-806e-fc6bd84b4431": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8042-806e-fc6bd84b4431",
+            "version": 5,
+            "type": "column",
+            "content": [
+              "9e9c40b3-b7d1-82fd-8e02-81bf5d2422ef"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521394725,
+            "last_edited_time": 1792521394728,
+            "parent_id": "3ffc40b3-b7d1-80a8-a26a-c830732498de",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "kiraQC35rFloXtMqWP29Pg,\"start\",\"end\"",
+                "n": {
+                  "kiraQC35rFloXtMqWP29Pg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "kiraQC35rFloXtMqWP29Pg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "871c40b3-b7d1-83f3-9106-81e508395b05": {
+        "value": {
+          "value": {
+            "id": "871c40b3-b7d1-83f3-9106-81e508395b05",
+            "version": 19,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "394.6 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Промокоды кб и скидки.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:56d1c7c0-4622-4aec-86dd-210587eab768:Промокоды_кб_и_скидки.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 315,
+              "display_source": "attachment:56d1c7c0-4622-4aec-86dd-210587eab768:Промокоды_кб_и_скидки.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80be-a192-dda7742b1a76",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958620,
+            "last_edited_time": 1792521396612,
+            "parent_id": "3ffc40b3-b7d1-80a5-8deb-c8b75ed86164",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80be-a192-dda7742b1a76",
+            "file_ids": [
+              "d54b4a24-7b04-4556-bcee-30ed3f6dc70e",
+              "56d1c7c0-4622-4aec-86dd-210587eab768"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "XkZj0AUmcTMFg0_Z6Us1QA,\"start\",\"end\"",
+                "n": {
+                  "XkZj0AUmcTMFg0_Z6Us1QA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "XkZj0AUmcTMFg0_Z6Us1QA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            22
+                          ],
+                          "o": "start",
+                          "l": 25,
+                          "c": "Промокоды кб и скидки.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "7d1r4JkvPvUO",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -21
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "9e9c40b3-b7d1-82fd-8e02-81bf5d2422ef": {
+        "value": {
+          "value": {
+            "id": "9e9c40b3-b7d1-82fd-8e02-81bf5d2422ef",
+            "version": 17,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "380.6 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Промокоды чекаут.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:e068be98-79ba-4f0c-9cf8-7f5b143c9a99:Промокоды_чекаут.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 315,
+              "display_source": "attachment:e068be98-79ba-4f0c-9cf8-7f5b143c9a99:Промокоды_чекаут.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80fc-84aa-e4c34449eaa9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958620,
+            "last_edited_time": 1792521414501,
+            "parent_id": "3ffc40b3-b7d1-8042-806e-fc6bd84b4431",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80fc-84aa-e4c34449eaa9",
+            "file_ids": [
+              "bed9db48-3927-4242-be46-237b30e8468e",
+              "e068be98-79ba-4f0c-9cf8-7f5b143c9a99"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "168c40b3-b7d1-8227-8a5e-818b98edb487",
+            "crdt_data": {
+              "title": {
+                "r": "RMS1-Gj0g8SqOgXYwl0FJw,\"start\",\"end\"",
+                "n": {
+                  "RMS1-Gj0g8SqOgXYwl0FJw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "RMS1-Gj0g8SqOgXYwl0FJw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            24
+                          ],
+                          "o": "start",
+                          "l": 20,
+                          "c": "Промокоды чекаут.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "d0tvnZC1_QYl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -23
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      }
+    },
+    "collection": {
+      "c4fc40b3-b7d1-82d7-878b-877957027a84": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "version": 52,
+            "name": [
+              [
+                "Проекты"
+              ]
+            ],
+            "schema": {
+              ";mfe": {
+                "name": "Date",
+                "type": "date"
+              },
+              "title": {
+                "name": "Name",
+                "type": "title"
+              }
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8181-a9e5-000bd3abdcae",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "property_visibility": [
+                {
+                  "property": ";mfe",
+                  "visibility": "show"
+                },
+                {
+                  "property": "mrCe",
+                  "visibility": "hide"
+                }
+              ],
+              "collection_page_properties": [
+                {
+                  "visible": false,
+                  "property": "vTK["
+                },
+                {
+                  "visible": false,
+                  "property": "vXp}"
+                },
+                {
+                  "visible": false,
+                  "property": "\\@]N"
+                },
+                {
+                  "visible": true,
+                  "property": "_GA;",
+                  "statusShowAs": "select"
+                }
+              ]
+            },
+            "parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8181-a9e5-000bd3abdcae",
+            "migrated": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "deleted_schema": {
+              "mrCe": {
+                "name": "Status",
+                "type": "status",
+                "groups": [
+                  {
+                    "id": "67bb17a8-8695-4427-9540-041e7d8f1ddf",
+                    "name": "To-do",
+                    "color": "gray",
+                    "optionIds": [
+                      "1cfd3cda-f9a1-4973-9521-70ec87eb32c0"
+                    ]
+                  },
+                  {
+                    "id": "96d417bd-e6c6-4ad1-ada2-4dbfce197132",
+                    "name": "In progress",
+                    "color": "blue",
+                    "optionIds": [
+                      "87531401-787d-4096-b8a6-080818654c6a"
+                    ]
+                  },
+                  {
+                    "id": "ae6217f6-0eb5-4dd6-9b97-839e5e747d1a",
+                    "name": "Complete",
+                    "color": "green",
+                    "optionIds": [
+                      "335974e0-2ff3-4a13-ab7c-cbd97c9cad55"
+                    ]
+                  }
+                ],
+                "options": [
+                  {
+                    "id": "1cfd3cda-f9a1-4973-9521-70ec87eb32c0",
+                    "value": "Not started"
+                  },
+                  {
+                    "id": "87531401-787d-4096-b8a6-080818654c6a",
+                    "color": "blue",
+                    "value": "In progress"
+                  },
+                  {
+                    "id": "335974e0-2ff3-4a13-ab7c-cbd97c9cad55",
+                    "color": "green",
+                    "value": "Done"
+                  }
+                ],
+                "defaultOption": "Not started"
+              }
+            },
+            "created_time": 1791225956695,
+            "last_edited_time": 1792697788455,
+            "created_by_table": "notion_user",
+            "created_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "nav_parent_table": "block",
+            "nav_parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15"
+          },
+          "role": "reader"
+        }
+      }
+    },
+    "collection_view": {
+      "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b",
+            "version": 102,
+            "type": "gallery",
+            "name": "Т-Банк",
+            "format": {
+              "table_wrap": false,
+              "card_layout": {
+                "mode": "list"
+              },
+              "description": "",
+              "gallery_cover": {
+                "type": "page_content_first"
+              },
+              "show_page_icon": false,
+              "board_columns_by": {
+                "sort": {
+                  "type": "ascending"
+                },
+                "type": "status",
+                "groupBy": "option",
+                "property": "mrCe",
+                "hideEmptyGroups": false
+              },
+              "property_filters": [
+                {
+                  "id": "7f1955e1-eaaa-4cb3-a0d2-c1b85a89e7a4",
+                  "filter": {
+                    "filter": {
+                      "value": {
+                        "type": "exact"
+                      },
+                      "operator": "enum_is"
+                    },
+                    "property": "vTK["
+                  }
+                }
+              ],
+              "collection_pointer": {
+                "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "gallery_cover_size": "large",
+              "gallery_properties": [
+                {
+                  "wrap": false,
+                  "visible": true,
+                  "property": "title"
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "vTK["
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "J?`]"
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "_GA;"
+                }
+              ],
+              "gallery_cover_aspect": "cover",
+              "subitem_filter_scope": "parents",
+              "hide_linked_collection_name": false,
+              "table_subitem_toggle_column": "title"
+            },
+            "parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "parent_table": "block",
+            "alive": true,
+            "page_sort": [
+              "033c40b3-b7d1-82ed-9781-812cc64d90b5",
+              "bd1c40b3-b7d1-83e5-a666-01e2f64ab95f",
+              "5a9c40b3-b7d1-8240-ae6a-81e56497c0ac",
+              "28ac40b3-b7d1-80e7-9960-fc1fa83208e2",
+              "3fbc40b3-b7d1-80ff-a3ca-d2272ef2e438",
+              "168c40b3-b7d1-8227-8a5e-818b98edb487",
+              "853c40b3-b7d1-8212-84d6-016e42797a79",
+              "d5bc40b3-b7d1-8282-9f96-013d037e648e",
+              "273c40b3-b7d1-8077-94d1-e71743b4ff60",
+              "1cdc40b3-b7d1-8144-ba6b-d346d3e2edcd",
+              "5958d723-caa0-48b4-bdf2-4125d460fef9",
+              "14fb3d74-6596-4210-a7f4-509a5b8d1601",
+              "af93eee3-762b-49c2-82fc-3cb0f78672f9"
+            ],
+            "query2": {
+              "calendar_by": "~vOm",
+              "timeline_by": ";mfe"
+            },
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "created_time": 1791225956695,
+            "last_edited_time": 1792697799560,
+            "created_by_table": "notion_user",
+            "created_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "nav_parent_table": "block",
+            "nav_parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15"
+          },
+          "role": "reader"
+        }
+      }
+    }
+  }
+}

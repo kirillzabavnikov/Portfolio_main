@@ -1,0 +1,73 @@
+Minsk Metro Map
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Minsk Metro Map
+Assignment: design a Minsk Metro map for other cities to be jealous of.
+The centre
+The main idea was to show the centre thoroughly and to simplify the rest. In the central part of the city, landmarks, parks, the river, streets and the location of the station exits are shown. This makes the map evenly dense, attractive for tourists and useful for the locals. Trees and bridges are given special love. The buildings are highly detailed, but shown in calm colours to not obstruct the main information layer.
+Line being built
+The label of the green line that is under construction, which is denoted by a neat dot pattern, also includes the planned year of completion.
+Legend
+The legend is nowhere to be found on the map: all non-obvious elements are labeled in-place.
+Index
+To keep the map clean from the coordinate grid and facilitate the station lookup, the station index is relying on “Compass” system, first used in my
+Moscow Metro map of 2013.
+To find a station, just look in the direction of an arrow.
+The map will look great both in train carriages and in booklets. Art director –
+Ilya Birman.
+Designers –  Ivan Zviahin and
+Konstantin Evstratenko.
+Press:
+Transit Maps
+Absolutely beautiful map
+Onliner
+Российский арт-директор и белорусские дизайнеры разработали новую схему минского метро — такую, чтобы другие города завидовали
+KYKY
+Дизайнеры нарисовали альтернативный вариант схемы минского метро
+ТR
+Схема минского метро от Ильи Бирмана стала предметом споров россиян и белорусов
+Village
+Илья Бирман разработал схему минского метро с ошибками
+,
+Илья Бирман исправит ошибки в схеме минского метро
+NN
+Расійскія дызайнеры распрацавалі альтэрнатыўную схему мінскага метро, адмовіліся ад беларускай лацінкі
+Citydog
+Дизайнеры разработали альтернативную схему минского метро
+Бизнес-линч Студии Лебедева
+Рецензировал Людвиг Быстроновский
+BTW
+Схема минского метро, такая, что другие города завидуют
+2177
+2016
+personalproject
+Next
+Navigation for Sportfamily
+1208
+2017
+Website Crossfit Martell
+New website CrossFit Martell solves two problems: tells beginner athletes of CrossFit and convinces local and foreign people to register for classes.
+825
+2018
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

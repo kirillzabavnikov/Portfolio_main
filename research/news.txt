@@ -1,0 +1,196 @@
+News card in personal feed · Tinkoff
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+News card in personal feed · Tinkoff
+How we made a news card in the feed and increased CTR of first card by 32%, 1-week retention rate of the feed by 8%, open rate by 4% and engagement rate by 35%.
+Tinkoff
+is an online ecosystem or super app based on financial and lifestyle services. The best mobile privetely-held bank in the world according to Global Finance. The third largest bank in the CIS with 30,000,000 customers.
+A personal feed is a product. With the help of which we are building a communication platform where people learn all about finance, save money and have fun. Businesses need a personal feed to sell financial products through it. Users need to have fun, learn something new, be part of an expert community. In simple words, it’s just a feed of events and news.
+Problem for users
+Analyzing different types of cards and collections, we noticed an increase in interest in news cards, especially when we combine them into collections. Based on this insight, we decided that we need to develop in this direction.
+Hence the problem — people want to be able to see an up-to-date selection of news based on their interests. They don’t want to collect this news in different places, they want to see it all at once. Most importantly, this was confirmed in a series of user interviews that were aimed at finding the answer “Why do users use the feed?”
+We decided that it needed to be checked somehow cheaply. And we collected a selection of news based on the type of card already available.
+After such an experiment, we noticed a significant increase (+24%) in the CTR of this card relative to the most popular card in this place. So we realized that we need to improve the user experience of this card and come up with maximum ways to engage a person.
+Problem for business
+We are always looking for ways to increase CTR with the feed cards. Because with the growth of CTR → engagement grows. With the growth of engagement, the loyalty of users grows, and with the growth of loyalty, the revenue from sales of our internal services grows.
+Audience
+The audience is very wide and diverse. But we aimed at all our bank users with an active lifestyle. I can’t share the audience of the personal feed, but it makes up the majority of the total number of customers. Considering that we have 30,000,000 customers, the scale of the product is confirmed. Wow!
+Success criteria
+We will consider the success criterion to be CTR of this card, which will be higher than CTR of the news card from the experiment above (which means it will be higher than any other card in the first place of the feed).
+Additionally, we will look at the open and 1-week retention rate of the feed, because the first card will be visible in a hidden state.
+Discovery · Interview
+Fortunately, quite by chance, we conducted a series of interviews with our users in parallel. We were trying to find an answer to the question of why users read the feed. We had a small product market fit, but we didn’t understand exactly why it happened.
+Total 19 in-depth interviews. The latest news got into the top 3 insights. This confirms our initial insight. In addition, we realized that we need to recommend news in a personalized format and give only a selection of headlines.
+Discovery · Analysis of similar products
+Next, we went to see how different products aggregate different information into a card. Here we found some interesting ideas.
+First, almost all cards with no more than four lines of content. If more, then do a horizontal scroll. Secondly, it is important to understand the date of publication, how new the material is. Third, currency exchange rates and investment stickers look cool together with a selection of news as a single widget. Fourth, the introductory description, as an engagement tool, creates the effect of personalization. Additionally a personal address by name attracts a lot of attention. (everyone already knows that)
+Wow! As a result, we had a lot of ideas. We have described them in the form of hypotheses below
+Hypothesis formulation and low-fi prototypes
+Now the card is colored and we know that this is important. When the feed is hidden, a piece of the card is visible and it attracts attention. We decided not to experiment with this and further considered it only in color.
+Dates.
+If we display the publication dates of articles, it may affect card CTR.
+Pictures.
+If we add pictures to the news, it may affect card CTR.
+Personalisation.
+If we display news based on user interests, it may affect CTR and retention rate.
+Name.
+If we contact to you personally, it may affect feed open rate.
+Introductory text.
+If we write a humorous introductory text, it may affect retention rate.
+Currency rates.
+If we display currency rates and share price, it may affect retention rate.
+Priority
+I set up a meeting with the product manager and engineers to estimate all hypotheses according to two parameters: technical complexity of the implementation (from 1 to 5) and business value (from 1 to 5). We divided one into the other and got an hi-level prioritisation coefficient. So...
+Card CTR
+Dates.
+If we display the publication dates of articles, it may affect card CTR.
+3 ⁄ 1 = 3
+Pictures.
+If we add pictures to the news, it may affect card CTR.
+3 ⁄ 1 = 3
+Personalisation.
+If we display news based on user interests, it may affect card CTR and retention rate.
+5 ⁄ 5 = 1
+Open rate
+Name.
+If we contact to you personally, it may affect open rate.
+3 ⁄ 1 = 3
+Retention rate
+Introductory text.
+If we write a humorous introductory text, it may affect retention rate.
+3 ⁄ 2 = 1.5
+Currency rates.
+If we display currency rates and share price, it may affect retention rate.
+2 ⁄ 2 = 1
+Scoping
+We divide all into iterations in order to deliver a valuable product as quickly as possible. We focus on three metrics card CTR, retention rate and feed open rate. Therefore, we can take one hypothesis for each metric in each iteration. Of course, we understood that they could influence each other, but speed is more important.
+Iteration 1
+We definitely make a news card with dates right away. We had a dispute about the pictures, the product manager believed that it would work better without pictures. We agreed on an AB test. Additionally, we will take the appeal by name, since it affects another metric.  We do not take hypotheses aimed at retention rate in the first iteration due to the fact that they are complex, and we want to deliver value as early as possible.
+Dates.
+If we display the publication dates of articles, it may affect card CTR.
+Pictures.
+If we add pictures to the news, it may affect card CTR.
+Name.
+If we contact to you personally, it may affect open rate.
+Iteration 2
+The text-introduction will be launched separately. Potentially, this can affect the retention rate individually, it is interesting to check.
+Introductory text.
+If we write a humorous introductory text, it may affect retention rate.
+Iteration 3
+After that, we will add a widget with currency rates and investment tickers. It is also interesting to test them separately because this hypothesis is also aimed at the retention rate.
+Currency rates.
+If we display currency rates and share price, it may affect retention rate.
+Iteration 4
+Next, we try to personalize the news (a difficult thing), so in the end.
+Personalisation.
+If we display news based on user interests, it may affect CTR and retention.
+— Let’s go!
+Iteration 1 · hi-fi
+We added only 4 news, it seems enough to start and looks easy. We tried to make the interface as simple as possible, we have already made mistakes with this many times in the collections. And there was an insight from users that they want to see all the current news in a list at once. We borrowed the algorithm from a web magazine, it is already ready there, current news.
+We had two options:
+I chose the second option. It looks simpler and more aesthetically pleasing. Next...
+Added dates. There are not too many options for how this can be shown, so we made it as simple as possible. We already have a date display style in other cards.
+We enter the dates according to special rules that I have formed.
+Have
+Show
+≤ 5 min
+just now
+<
+1 hour
+56 min ago
+<
+2 hours
+1 hour ago
+<
+1 day
+23 hours ago
+<
+2 days
+yesterday
+<
+8 days
+6 days ago
+≥ 8 days
+18 february
+≥ 1 year
+18 february 2020
+Added an appeal by name. I made it as simple as possible, using the available styles from other cards. That’s where we stopped.
+Added pictures. As I said before, we had disagreements on this, so it got into the first iteration, we will run them AB test. Option A without pictures, option B with pictures. We will show the card 50-50, we will look at the card CTR.
+That is all.
+We didn’t do any interface tests, because it seems to us that there is nothing to check here. I checked only the list of
+self-checking the interface.
+So, it was → will be.
+First launch and results
+AB test results. At the first visit, users tap better on the news card without pictures. The relative uplift in CTR is 9%. It does not affect taps when re-entering. It does not affect the return to the feed. The card without pictures won, I cried :-(
+In general, first card CTR +8% (new format and dates) and feed open rate +4% (address by name). Cool! Let’s move on to the next iterations.
+This is a product manager, his name is Nikita. Nikita is glad that he won the AB test. He was for the option without pictures
+Moving on!
+Iteration 2 · hi-fi
+Hello again! It’s time to work with the retention rate as part of the news card and we have an introductory text on this. The main idea is that we want to make an introductory text that will change every day. It should have a welcoming meaning.
+We strongly believe that the text should be humorous, this was confirmed in user interviews, people want something entertaining, a lot of sad things are happening in the world anyway. This can be a great reward for action.
+We have not found an editor resource that will write an introductory text every day for several days ahead. So I came up with and wrote them myself. I really want to test this.
+What might it look like? We didn’t want to come up with something new (so as not to complicate the idea of test) yet, so we took the text style from other cards as a basis and applied it in our news card. The main thing is that it should be readable, simple and understandable. We have reduced the number of articles to make it look easier visually. We removed the “current news” descriptor and moved it inside the introductory text to make it all look easier.
+An important learn that we found. We are well aware that it is ideal to use the hook model for the retention rate boost. And we even figured out how to do it. The reason is the position of the feed in the app and the policy of contacts to send push messages. We promised ourselves to try it after moving the feed to a more accessible place in the app. But about this in another story.
+While we design a text, another idea came up. What if we ask some interesting question in the introductory text, and somewhere in the middle of the feed we give an answer in the form of a story card. If we use the story card, we won’t need to develop anything additionally – perfect for the test. It seems that in addition to the retention rate, we can influence the engagement rate of the feed.
+feed engagement rate = (user tap + like + bookmark + share + swipe) / all users × 100%
+The idea should work because people will look for an answer, react to it and get involved in other content. Sounds interesting?
+Sure! Sounds interesting. So, it was and will be. Of course, guys, we started with an AB test to understand the impact of the second iteration on the result.
+Second launch and results
+In general, feed 1-week retention rate +8% (introductory text with a question and answer) and feed engagement rate +35% (introductory text with a question and answer). It’s hard to understand why it affected engagement so much, but I like it. The test did not affect the CTR of the first card and the open rate in any way, which is also important.
+Iteration 3 and 4 · not done
+An interesting thing happened, we decided to redo the concept of the feed as a whole and separate the news selection from the text and the address by name. The introductory text and the appeal should become part of the feed itself and be independent, but that’s another story.
+So, we have postponed working with currency exchange rates and personalisation. But I want to show you the layouts and developments on these tasks, they should not be lost. We will return to them later, but in another story.
+Role and platforms
+I participated in the formulation and confirmation of the problem together with the product manager. I communicated with analysts to find out insides. I participated in user interviews and analysis of similar products. The research team helped me a lot, thanks to them.
+I formulated hypotheses and participated in prioritization together with the product manager and engineers. Together with the manager, we divided all the hypotheses into iterations. I designed lo-fi and hi-fi mockups and described the requirements together with the technologists and engineers. I helped QA engineers to run all the flow and described bugs. I wrote dozens of introductory texts for the news card. Basically, all solutions work on android and iOS.
+Reflection and final results
+Although the results cannot be called super-high, but they can be called real.
+We achieved:
+first card CTR without development +24%
+first card CTR with development +8%
+feed open rate +4%
+feed 1-week retention rate +8%
+feed engagement rate +35%
+I would certainly like more. Unfortunately, we couldn’t do all the planned iterations, but it was influenced by external factors. Plus, in the second iteration, it was hard for me to throw out the subscription model. But we understood that it was too early to give such functionality, the card does not take into account interests.
+The story looks real and confirms the theory of
+my design process,
+which works in practice. Next time we’ll try to do more iterations. See you in the next episodes, thank you!
+Here I’m telling the same story, only live:
+Don’t forget to turn on the subtitles, this presentation is in English and I’m speaking in my native language
+9402
+2023
+app
+casestudy
+checklist
+process
+tinkoff
+Next
+Design process
+Globally, each and every designer faces three types of tasks in their daily life. The first type is just about fixing something
+8347
+2022
+Goal and mission
+962
+2021
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

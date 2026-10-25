@@ -1,0 +1,47 @@
+{
+  "imported": 26,
+  "missing": [
+    {
+      "id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+      "source": "attachment:4095cce3-d4d5-4924-88f5-46e34fffc577:photo_2024-11-24_11-35-34.jpg",
+      "title": "Портрет Кирилла Забавникова",
+      "project": "notion-home"
+    },
+    {
+      "id": "2a6c40b3-b7d1-830b-880a-0127a08e24a0",
+      "source": "attachment:0c819372-ae95-495a-9685-96b9243fce9d:dresser-Стортовый_экран_редактора_после_перехода_с_пуша_(3).png",
+      "title": "dresser-Стортовый экран редактора после перехода с пуша (3).png",
+      "project": "bd1c40b3-b7d1-83e5-a666-01e2f64ab95f"
+    },
+    {
+      "id": "3f9c40b3-b7d1-8052-a846-ea5b9c88e194",
+      "source": "attachment:805e5b3f-e537-413e-a735-baa8c75f7490:Стортовый_экран_редактора_после_перехода_с_пуша.png",
+      "title": "Стортовый экран редактора после перехода с пуша.png",
+      "project": "bd1c40b3-b7d1-83e5-a666-01e2f64ab95f"
+    },
+    {
+      "id": "3fec40b3-b7d1-80fc-9384-e6f215fcf2cc",
+      "source": "attachment:5d73a2d8-9e6d-404c-875b-94d6798de004:dresser-SheetContainer.png",
+      "title": "dresser-SheetContainer.png",
+      "project": "5a9c40b3-b7d1-8240-ae6a-81e56497c0ac"
+    },
+    {
+      "id": "271c40b3-b7d1-821e-be46-81acdf9a833b",
+      "source": "attachment:c718fa32-3893-4141-9b17-5db09db78603:dresser-Group_2147224080.png",
+      "title": "dresser-Group 2147224080.png",
+      "project": "853c40b3-b7d1-8212-84d6-016e42797a79"
+    },
+    {
+      "id": "d7cc40b3-b7d1-834a-87be-01662e7a2bec",
+      "source": "attachment:57113d15-1367-4522-a358-f1531a6910e1:dresser-Гросери.png",
+      "title": "dresser-Гросери.png",
+      "project": "168c40b3-b7d1-8227-8a5e-818b98edb487"
+    },
+    {
+      "id": "61fc40b3-b7d1-8323-a145-0198c870850f",
+      "source": "attachment:e771b10c-d708-4f3c-86ff-4241c53fd47f:dresser-Лента_МБ2x.png",
+      "title": "dresser-Лента МБ@2x.png",
+      "project": "033c40b3-b7d1-82ed-9781-812cc64d90b5"
+    }
+  ]
+}

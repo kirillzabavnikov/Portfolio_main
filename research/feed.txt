@@ -1,0 +1,162 @@
+New feed entry point · Tinkoff
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+New feed entry point · Tinkoff
+How we made the personal feed in the bank app more readable by increasing 1-week feed retention rate several times over.
+Tinkoff
+is an online ecosystem or super app based on financial and lifestyle services. The best mobile privetely-held bank in the world according to Global Finance. The third largest bank in the CIS with 30,000,000 customers.
+A personal feed is a product. With the help of which we are building a communication platform where people learn all about finance, save money and have fun. Businesses need a personal feed to sell financial products through it. Users need to have fun, learn something new, be part of an expert community. In simple words, it’s just a feed of events and news.
+The personal feed is having a positive impact. We test disabling the feed on new users and compare metrics across our products. There has been a drop in metrics, including cashback, bonuses and airline tickets. The product is working well, but we need to make it more efficient.
+The feed is in a difficult-to-reach place on the interface. To get to it, you have to open the “City” tab, which doesn’t tell you what’s on there. You have to look at a complicated screen and open the bottom sheet with the feed.
+People say the feed is hard to find. If people can’t access the feed, they won’t come back. If they don’t come back, they won’t use the product.
+By comparison, the stories on the home screen get visited several times more often and people come back more often, even though both are feeds with content, just in different formats.
+Problem for users
+We want to make the feed accessible. To make you more likely to open the feed on the mobile app. It’s heavily hidden at the moment.
+Problem for business
+Increase retention rate in the feed. If we increase the retention rate in the feed, customers will be more engaged with our products. If customers use more products, the bank will make more money.
+Audience
+The audience is very wide and diverse. But we aimed at all our bank users with an active lifestyle. I can’t share the audience of the personal feed, but it makes up the majority of the total number of customers. Considering that we have 30,000,000 customers, the scale of the product is confirmed. Wow!
+Success criteria
+↑ 1-week feed retention rate
+↑ 1-week app retention rate
+We also need to keep people engaged in the feed, which will be difficult.
+Discovery
+We’re looking for a solution in other products, but we haven’t found any yet. So, we’ll have to come up with a solution ourselves. We looked at what our users had to say. We’ve put together a job spec for a Data Analyst. But...
+But I find interesting is this. It’s not just about moving the feed. How do you get people to go there? The analysis shows us this:
+We already have a big audience that goes to the bank every day. We just need to put the feed on the home screen and get people interested.
+We already have content on the home page in the form of Stories, which is a great product.
+So, what we have
+This scheme helped us make some guesses.
+Hypothesis formulation and low-fi prototypes
+These are the hypotheses.
+Main screen.
+Adding the feed to the home screen will make it easier to access and more likely to be used.
+We had many more options than I’m going to show you. I’ll show you the best ideas and how they look. I thought the best idea was to put content in a separate tab.
+We stopped because we realised it was unrealistic to expect people to read content on secondary screens in the bank. We tried adding stories to secondary screens. It doesn’t work. Right, let’s move on.
+The second idea was to just put the feed under all the accounts, as there aren’t that many of them on average.
+We saw that people don’t scroll past the second screen. How can we open it from the first screen? We added a right swipe option.
+It’s cool, but it looks complicated. It’s not natural. Turn the story feed into a smart widget.
+Interesting idea, but we don’t have the guts to do it. There’s a big risk we’d mess up the stories and it’d all fall apart. But on day five, we had a brainwave...
+It’s much more straightforward to swipe down than to swipe right. Pull to refresh is no longer necessary as all the data is updated in real time. It seems to be the best idea, so we’ve decided to go with it. And opening quick tools works the same way in iOS, which gave us the green light to go ahead with it.  We showed this idea to everyone who was interested: the product managers, the designers and the stakeholders of the home screen. We got a few doubts in response, but everyone was generally on board with this solution. We gave this to user testing, and we were pleased with the results. Let’s consider some other possibilities.
+Interest.
+Make an entry point interesting to increase its open and retention rate.
+The simplest way to get people interested is to create an information trigger on the outside. I think stories are probably the best trigger, but it’s tricky to make stories and a feed one platform. It’ll probably be a separate story soon.
+But for now, we just need something simple. And here’s the thing: if you’ve been keeping up with our content, you’ll have noticed that we recently added a
+news card in the feed.
+It would be great to take the most interesting words from the introductory text and put them outside.
+Let’s move on to the next item on the agenda.
+Clear.
+Make the opening of the feed simple and clear to increase accessibility.
+Somehow we have to teach people how to use the new feed. At first we tried to come up with some kind of detailed training, but then we realised that the easiest way to do was to just pull the feed a few times. And stop when the person has done it.
+Habit.
+If we don’t change user habits, we’ll keep old stuff.
+Some people use the current feed the old way. We shouldn’t break their habit. Let’s add a history button. This is about the new way to access the feed. Don’t show it for a long time. If the user opens the feed, we’ll remove the button.
+Additional entry points.
+Finding more entry points will increase availability.
+When we spoke with users we found something interesting. When people contact the support team (chat) they go to watch stories on the home screen because they’re afraid to close the app (in general!!!). We must find a way to deal with these situations. This could affect how accessible the feed is.
+We knew this idea wouldn’t make it into the first version, so we didn’t make a prototype. But you can imagine it in your mind.
+Priority
+I met with the product manager and engineers to estimate the hypotheses according to two parameters: business value and technical complexity. We made a list of priorities.
+Main screen.
+Adding the feed to the home screen will make it easier to access and more likely to be used.
+∞ ⁄ 5 = ∞
+Interest.
+Make an entry point interesting to increase its open and retention rate.
+3 ⁄1 = 3
+Clear.
+Make the opening of the feed simple and clear to increase accessibility.
+3/1 = 3
+Habit.
+If we don’t change user habits, we’ll keep old stuff.
+3 ⁄ 2 = 1.5
+Additional entry points.
+Finding more entry points will increase availability.
+4 ⁄ 4 = 1
+Scoping
+We break down our ideas into iterations to get the product to users quickly and make sure it’s perfect.
+Iteration 1
+Main screen.
+If we make the feed on the home screen, it will increase its accessibility and retention rate. This is our main idea, we will  make it.
+Interest.
+Make an entry point interesting to increase its open and retention rate. I really want to do it at once, so that it will be the cherry on the cake. But if we don’t have time, we’ll put it in a separate iteration. Of course, it will be an ab-test to understand the impact of this particular idea.
+Next iterations
+Clear.
+Make the opening of the feed simple and clear to increase accessibility. Let’s test it separately, in case this problem doesn’t exist and it is clear and simple without some additional activities.
+Habit.
+If we don’t change user habits, we’ll keep old stuff. Important stuff. But we’ll run the first iteration only for new users and if everything is good there, we’ll make this idea and publish an update for everyone.
+Additional entry points.
+Finding more entry points will increase availability. Oh, it’s definitely a contender to make it out of the first round!
+— Let’s go!
+Iteration 1 · hi-fi
+I just wanted to point out that our lo-fi prototypes already sounded pretty hi-fi. Having said that, we didn’t come across any major technical issues. So, all the ideas from the concepts made it through to the hi-fi stage, which is pretty unusual.
+But the final solution was this. The feed on the main screen looks like a top sheet that you can open by swiping from the top to the bottom. Plus, we made it so you can just click on the dragger and text to open it. We figured this out during the UX tests, but we assumed it in advance.
+Above the dragger is a shortened descriptor from the feed, which changes every day along with the full descriptor inside the feed. You can read about this in the case study about
+the news card.
+Just then, Sergei Egorov came along. The second designer to join us. I needed to move on to other things. Sergei took the reins as the second designer on the project. The second half of the work on the final layouts is creating animations of opening and closing the feed. Based on my prototype, Sergei put together a much more detailed one with a description of all the details.
+To close the feed, just hit the close button or swipe down. When we were testing it out, we realised that we needed to make closing by swiping up, so that it’s the reverse of opening. This meant there were three ways to close the feed in total. This way, everyone would know how it worked.
+We had to get the most complex interactive feature in the Tinkoff app up and running at the time, which was a big challenge for the whole team. It was pretty straightforward to develop the animation and the feed itself on Android, but we hit a few snags on iOS. But we managed to get around all those limitations in the end. Sometimes we had to switch up our strategy and come up with quick fixes, so Sergei spent a lot of evenings with the engineers. Sergei says,
+“We often sat with the engineers late into the night tweaking details and catching endless bugs together. I even picked up a few lines of code in Xcode.”
+At some point, we got everything to a state that could be called a release state. And it was so lovely to see that happen!
+First launch and results
+We released it as an AB test for a new audience. At the same time, we ran a separate AB test on the description. Here’s what we found out.
+We saw a big jump in the number of people who stuck around and checked out the feed on a weekly basis (1-week feed retention rate).
+The percentage of users accessing the feed on the app shot up several times. This indicator saw a nice increase, even if it couldn’t help but grow.
+The engagement rate of the feed saw a slight decrease. This is because more people are now entering the feed, but the quality of these users has dropped. They’re not as active as they could be. We’ll be addressing this in the next episodes.
+There was no change to the weekly retention rate of the app, statistically speaking. We were disappointed, but not overly so. It’s really difficult to make changes.
+The descriptor did the job. Without it, the retention and open rates in the feed were lower.
+I’m happy to say that we met our goals, and we’re all proud of that.
+Role and platforms
+I participated in the formulation and confirmation of the problem together with the product manager.
+I did the primary research.
+I formulated hypotheses and participated in prioritization together with the product manager and engineers.
+Together with the manager, we divided all the hypotheses into iterations.
+I designed lo-fi and and first part of hi-fi mockups and described the requirements together with the technologists and engineers.
+Half of the layouts and animations were designed by Sergei Egorov. He joined us in the middle of the project as the second designer. Sergei helped QA engineers to run all the flow and described bugs.
+Basically, all solutions work on android and iOS.
+Reflection
+I think the first version of the personal feed opening could have been made much simpler, but it’s great that we overestimated the requirement at the start and made the transition above the level of the traditional design approach in the company. I’m really proud of this little project. See you in the next episodes, thank you!
+Story about the same, but from Sergei, only in Russian
+10276
+2024
+app
+casestudy
+process
+tinkoff
+Next
+Toll service on the form · av.by
+How we added a paid service on the ad submission form and increased the conversion to purchase this service by 48 %.
+3092
+2021
+Design career paths
+35398
+2023
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+Your comment
+Sign in via
+Submit
+Ctrl + Enter
+Your comment
+Sign in via
+Submit
+Ctrl + Enter
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

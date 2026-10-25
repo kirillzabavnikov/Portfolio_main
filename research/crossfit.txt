@@ -1,0 +1,43 @@
+Website Crossfit Martell
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Website Crossfit Martell
+New website CrossFit Martell solves two problems: tells beginner athletes of CrossFit and convinces local and foreign people to register for classes.
+If the user is familiar with CrossFit, the user can easily check schedules, prices, and register for classes. For this purpose we developed a separate webpage that the user can access using a menu.
+If the user has additional questions he can directly ask the trainer via moving button. It opens a modal window with messages, phone numbers and email addresses.
+The website is mobile compatible.
+I designed pages for a website. Sasha Fazulin contacted the client and edited pictures.
+Natasha Nikonova and Alina Mishurdnko wrote the context. Maksim Ilyaxov was an art director for the project and Sasha Ivanov wrote HTML and CSS codes for the website.
+crossfitmartell.com
+825
+2018
+personalproject
+Next
+Navigation for Sportfamily
+1208
+2017
+Minsk Metro Map
+2177
+2016
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

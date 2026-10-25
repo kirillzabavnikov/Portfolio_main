@@ -1,0 +1,102 @@
+Design process
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Design process
+Globally, each and every designer faces three types of tasks in their daily life. The first type is just about fixing something. The second group are likely to resolve some small problem. And lastly, they happen to do a big project. Depending on the type of task, there may come a different approach.
+“Fix something” is by far the simplest one. There is no rocket science in here. What we do is go handle it. It might be difficult from the point of view of the process to do something wrong here.
+“Solve a small problem” in a large project. For instance, we may desire to add up the ability to like publications in the news feed or attach the ability to build on QR codes to your profile. To read
+process for a small task
+go straight to point five.
+“Do a large project”. This is something way bigger, which consists of dozens, hundreds, thousands of tasks from the second point. And  most importantly, in this approach we are to break a large project into smaller tasks. So, when it comes to the third type, then first you need to ↓
+1. Understanding goals
+As a rule, this is a meeting with all stakeholders. Together we describe
+goal and mission
+and  define the
+audience
+for which we the product will be made. We write out the main hypotheses that have a direct connection with the goal and mission. For each hypothesis, the success criteria are described and outlined — a set of high-level metrics and indicators.
+More about understanding
+Naer and Zviahin so far only in russian
+2. Taking a birdview of product
+In here we have to understand the scope of the product and what other systems the product can potentially hook. There are a few simple ways that I tap into to sort it out. It must be noted that most often is it better to make use of everything to broaden your horizons.
+System diagrams. The temptation for many designers is to go straight to interface development. Yet designing interactions at such an early stage can interfere with the development of the basics of your product. As part of a workshop with all stakeholders, you need to describe the project through system diagrams.
+Applying systems thinking in product design
+Shekman Tang
+Creating systems not destinations
+Paul Adams
+User journey map. It helps tremendously to look at the product from another perspective. We go beyond the edges of the product and try to understand how the user will find the product, how he will understand the specifics of the work, etc. What are the roles, what are the stages, what are the goals and actions at these stages. As part of a workshop with all stakeholders, you need to describe the product through a user journey map. It is important to note that this is just our representation and the representation of stakeholders. In reality, everything may be different and you need to verify this card with potential users at the discovery stage.
+Miroverse Step – 2 – CJM
+Kate Syuma
+It is a good practice at this meeting to outline a potential discovery plan.
+3. Make sure we are on the right track
+It is time to validate the concept and search for growth points. I have a few simple ways to accomplish this.
+In-depth interviews.
+A great way to find new insights, point-by-point. However, you should not immediately take them to work, it is best to validate them with points 2 and 3.
+Surveys. A quantitative study that can confirm the insights from point 1 and give reasons for reflection in isolation from qualitative research.
+Data analysis. A quantitative study that can confirm the insights from point 1 and give reasons for reflection in isolation from qualitative research.
+Competitor analysis. Top-level view of the set of functions of your direct and indirect competitors. This will help find something new and check out what you already have.
+Analysis of the metrics used. Desk research. As a rule, we are not the first in the world to do this, and quite a lot of articles with research and best solutions have already been written about many practices. We cannot say that they will suit us, but they are worth studying.
+Analysis of user feedback. Work with reviews in stores and with what arrives at the support service. There are often diamonds there that can confirm your idea or hypothesis.
+All these ways can change your model from point two.
+4. Prioritizing it and splitting into versions
+Next, we need to divide our entire concept into small user stories, prioritize them and divide them into versions.
+So, a map of user stories. This is such a visualization of the solution scope, which helps us determine the minimum valuable product and its evolution. Below is a good video that explains how it works in three minutes.
+To prioritize stories by importance, you can use
+moscow framework,
+and
+t-shirt size framework
+for technical complexity.
+As a result, we have dozens, hundreds, thousands of user stories that are prioritized and divided into versions.
+5. Approaching each story individually
+In a while, we work with each story (a small task) by a similar process, but still a little different.
+Understanding the task
+Discovery
+Formulation of hypotheses and low-fi prototypes
+Scouping and high-fi prototypes
+Review the result and launch!
+Result analysis and new iterations
+Learn more about the design process of a small task →
+Poster, PDF 2.3 MB
+8347
+2022
+about
+casestudy
+process
+Next
+Corridor tests
+So, at this stage you already have prototypes and formulated hypotheses. Now it remains to shake this bag and make sure that everything works as intended
+2311
+2022
+Toll service on the form · av.by
+3092
+2021
+Design process · task
+2365
+2021
+Popularize systems thinking and simplicity through lens of design
+2084
+2021
+Competitor analysis
+2707
+2022
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

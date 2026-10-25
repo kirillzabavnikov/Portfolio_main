@@ -1,0 +1,111 @@
+Design career paths
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Design career paths
+How we made design career paths and criteria for transition from one role to another for designers and got an effective tool to make a personal development plan. Additionally, we helped designers understand how they can develop and what level they are at now.
+Intro
+A classic problem in a design team is that designers need to become managers in order to grow their careers. And we faced this problem too. Before some changes, each designer could only develop along one track: from middle to senior, and then please only go to management. After all, this was the only way for a designer to feel career growth and start earning more.
+That’s not cool, especially when we started running into situations where experienced designers don’t want to become managers. They want to be experts and grow further as designers, not peоple managers. There were two such cases in my time. Necessary to change something and we formulated the problem.
+Problem
+Designers don’t understand how they can grow in their career path. Plus they don’t understand what level they are at now.
+From team to team, designers have different development plans, and some have none at all, or they have them, but not about development.
+Designers think they can earn more and grow only if they become people managers.
+We conducted a survey of three questions. We collected more than 35 answers. The results confirmed the problems described above. The survey could not have been conducted, it was enough that this problem was confirmed by design managers. But it’s better to be sure than to make a mistake.
+Additionally, we suspected that many experienced designers go into people-management, burn out and quit afterward. We couldn’t confirm this because of the difficulty of collecting reliable data.
+Criteria for success and audience
+Quantitative survey shows that designers
+understand how they can grow
+, where they are now, and where they aspire to go in the future. All designers
+have a personalized development plan
+and are aligned together.
+The problem was solved within the Tinkoff Bank company, which is more than 200 designers of different levels and specializations. Graphic, interface, communication designers.
+Actions
+Obviously, we need some kind of explicitly described path-map that explains to designers how to develop. What were my actions?
+I researched how other companies do it.
+I looked for similar problems on the internet. There are plenty of them too.
+I called 4 design and not only design managers from other companies for an interview to share how it’s done.
+I analyzed the results and finally realized that there are different development tracks: people-manager track and individual contributor track. We can also build something similar.
+But a path-map is not enough, we need something that will help us evaluate the designer and hint how we can develop further.
+I don’t believe in schemes where everything is described in detail: what books to read, what courses to take, something else to do. Because I haven’t come across a single successful case where it worked. Plus I have tried to build such schemes myself before and it is very difficult and expensive to keep such schemes up to date. Moreover, it turns out in reality that it is not necessary.
+As it turns out, each person is individual and the situation is also individual. We just need some role boundaries and growth criteria. Then it’s a matter of the specific situation and communication between the designer and his manager. The main thing is that development plans should include not work tasks, but actions that will help the designer to grow as a specialist.
+We need to make
+Design career paths
+Criteria for transition from one role to another
+1. Design career paths
+Sooo, paths. I want to remove some of the legalities. We have done dozens of iterations and the result is this one. It’s perfect for me. Design career paths edited due to the fact that I had to hide sensitive information.
+The most popular question was this. What is the difference between a design lead and an expert designer? There is no difference between the roles, they are both the same level of knowledge specialists. There is a difference in focus.
+Expert designer focus are future, conceptual design, product vision, design strategy, interface quality, visual language. Design lead are process, x-communication, reward and recognition, performance, underperformance, hiring. Everything else is common.
+2. Criteria for transition
+Everything is clear with career paths, now we need to somehow understand what are the criteria for transition from one role to another. 60% of all criteria I wrote based on my expert opinion, 40% I looked up something in other companies. We did more than 20 iterations to improve the structure and content. Showed the map to design leaders, collected feedback. Selectively showed it to designers in 1-on-1 meetings.
+After the final collection of feedback we realized that some criteria are not clear to designers, but for the sake of speed we simplified the description and came up with a scheme where we will describe the criteria in detail in separate articles to be written by designers themselves. After the articles were written, we started adding links in the table as additional information and clarification.
+We chose the easiest format to launch the tool as early as possible and that’s Google Docs.
+The criteria are clear, but how can a supervisor create a growth plan for designers? For this we came up with a simple method that consists of several steps.
+Make a copy of the table and make a separate page for each designer.
+Independently evaluate each designer for each point, for example from 1 to 3. I like coloring the table cells in shades of one color.
+Ask each of your designers to do the same thing independently. Let them also do this on their own. Then discuss the results 1 on 1 and combine these two tables into one.
+Choose the right development strategy, considering the interests of the designer and the team. Choose 1-3 most important growth points (not more!) and develop a plan. We trust mentors to decide specifically what needs to be done. Such issues are resolved personally and I don’t believe it can be formalized in any way. Each person is an individual and each person needs their own approach.
+Hurrah! The plans exist and now they do not consist only of work tasks. Furthermore, each manager now has at least one topic for discussion at 1-on-1 meetings to monitor the progress of each designer. It is on these meetings that progress needs to be supported.
+By the way, after all this, you can easily compare one designer with others and draw conclusions what portrait of the team as a whole. We tested it on five designers, made minor changes.
+Launch
+It seems like it’s time to implement. We needed to do it in a way that would get minimal resistance from the designers. I came up with a plan like this:
+Conduct a test development plan and conduct a criteria review for four designers selectively and gather feedback.
+Ask the lead designers to show design career paths and criteria in 1 on 1 meetings and collect feedback.
+Once changes are added, make a public announcement to the entire design department.
+Hold 2-3 public workshops.
+Make final edits.
+That’s exactly what we did. Bow!
+Results
+I went through more than 20 development plans. In the end, I saw clear development plans with growth points and no work tasks. This is a success, but we need to keep monitoring this further and add this to the onboarding of new designers.
+I conducted an anonymous survey among designers and got these results.
+Issue
+Yes, %
+No, %
+You know about the competency map?
+81,8
+18,2
+Do you understand how you can develop in the company as a whole?
+83,4
+16,6
+Do you know what you need to develop in yourself to move further along your career path?
+78,8
+21,2
+Next steps
+I plan to collect feedback and make improvements. If the topic takes root, make it more convenient in a separate software that is being developed by the internal product team in the company. Separately write detailed articles on different topics from the criteria and insert links in the table with the criteria. I want these articles to be written by the designers themselves.
+Role and reflection
+I was the owner of this project, so I made career paths and criteria myself, but with the help of a huge number of our designers. My manager validated the directions of thought. Special thanks to the design managers and designers who implemented it all to themselves and wrote feedback. I take my hat off to you all.
+I didn’t come up with anything new. But I am proud that I was able to convince everyone and implement  it in such a big company. I am proud of the work we have done together. See you in the next episodes, thank you!
+Poster, PDF 3.4 MB
+35398
+2023
+casestudy
+Next
+Toll service on the form · av.by
+How we added a paid service on the ad submission form and increased the conversion to purchase this service by 48 %.
+3092
+2021
+Design process
+Globally, each and every designer faces three types of tasks in their daily life. The first type is just about fixing something
+8347
+2022
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea

@@ -1,0 +1,4765 @@
+{
+  "recordMap": {
+    "block": {
+      "853c40b3-b7d1-8212-84d6-016e42797a79": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "version": 172,
+            "type": "page",
+            "properties": {
+              "title": [
+                [
+                  "Супермаркеты: геймификация"
+                ]
+              ]
+            },
+            "content": [
+              "271c40b3-b7d1-821e-be46-81acdf9a833b",
+              "0e6c40b3-b7d1-8267-8452-011e5dbcba26",
+              "aedc40b3-b7d1-83d9-900b-819be2ed6b27",
+              "21dc40b3-b7d1-82e6-a972-01ecb9032258",
+              "590c40b3-b7d1-832d-bdb8-011b648dff0b",
+              "d65c40b3-b7d1-8293-870d-81eef82eca86",
+              "8c6c40b3-b7d1-83f8-9f43-017023e4b743",
+              "170c40b3-b7d1-8332-a8c1-017ab1a46802",
+              "8e1c40b3-b7d1-834b-9347-810332eaca04",
+              "3ddc40b3-b7d1-8386-9aba-81feaa8347e6",
+              "761c40b3-b7d1-82ca-a594-817cd7856b5b",
+              "e0ec40b3-b7d1-82c7-aeb6-81fab138f1b2",
+              "6acc40b3-b7d1-83e6-b1fd-01103c1cbbc1",
+              "d56c40b3-b7d1-82aa-9ab6-811b169e6b86",
+              "182c40b3-b7d1-8338-acab-018421c01a56",
+              "aa3c40b3-b7d1-8229-9855-012447acfb0a",
+              "783c40b3-b7d1-8216-986c-81dd1294ff20",
+              "fa0c40b3-b7d1-83d1-bb9f-01beafdb54ba",
+              "19dc40b3-b7d1-836b-886b-016cc736cd7c",
+              "ab6c40b3-b7d1-82ce-b1a6-81d739bafe7d",
+              "705c40b3-b7d1-83e1-b5ac-01ddd79c984c",
+              "506c40b3-b7d1-828e-88a9-0130de43d7b1",
+              "0f8c40b3-b7d1-83fe-a85b-818d5e15924f",
+              "6bbc40b3-b7d1-83fd-9710-81718b688381",
+              "a82c40b3-b7d1-825f-a337-012dce6325de",
+              "98ac40b3-b7d1-822c-a1ae-81672570e1d6",
+              "bfcc40b3-b7d1-82e8-aebd-819ffc7f7efe",
+              "828c40b3-b7d1-8273-8b03-0102ce1f1326",
+              "895c40b3-b7d1-82c1-80a8-81ec0815539e",
+              "34cc40b3-b7d1-82ec-9cbd-8186e99b46da",
+              "b9ec40b3-b7d1-820e-8c5a-81ffec894286",
+              "b4fc40b3-b7d1-8396-996d-01dfc372d1bd",
+              "be4c40b3-b7d1-8304-b080-81d5866ff046",
+              "6e1c40b3-b7d1-830d-811e-01e3f7a7f73b",
+              "266c40b3-b7d1-83c3-bacb-81103c2078a8",
+              "6fbc40b3-b7d1-8327-b486-8126c0d4652e",
+              "3ffc40b3-b7d1-808e-8443-c28fbfc65115",
+              "050c40b3-b7d1-83b3-9c3f-81d2a9242fce",
+              "3ffc40b3-b7d1-80df-bba0-e58b172d7d3e",
+              "3ffc40b3-b7d1-8047-9404-d8bbaf77a5ba",
+              "3ffc40b3-b7d1-80e0-8ba8-e02629d8804d",
+              "3ffc40b3-b7d1-806c-ae24-d72470daaa11",
+              "3ffc40b3-b7d1-80f6-a36f-eec9ad422088",
+              "3ffc40b3-b7d1-8097-b9b8-ef5606482a11",
+              "3ffc40b3-b7d1-8056-a7df-f750ecf74b2d"
+            ],
+            "format": {
+              "copied_from_pointer": {
+                "id": "39bc40b3-b7d1-8079-9105-ea4c352b2529",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "social_media_image_preview_url": "attachment:47e595c4-c4f5-4add-88da-daa54f354581:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1791225958764,
+            "last_edited_time": 1792521976892,
+            "parent_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "parent_table": "collection",
+            "alive": true,
+            "copied_from": "39bc40b3-b7d1-8079-9105-ea4c352b2529",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "collection",
+            "nav_parent_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "crdt_data": {
+              "title": {
+                "r": "u0_GDGI_4ifoytPLVPh91Q,\"start\",\"end\"",
+                "n": {
+                  "u0_GDGI_4ifoytPLVPh91Q,\"start\",\"end\"": {
+                    "s": {
+                      "x": "u0_GDGI_4ifoytPLVPh91Q",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            65
+                          ],
+                          "o": "start",
+                          "l": 1,
+                          "c": "С"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            68
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            65
+                          ],
+                          "l": 3,
+                          "c": "упе"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            74
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            70
+                          ],
+                          "l": 7,
+                          "c": "рмаркет"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            83
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            80
+                          ],
+                          "l": 1,
+                          "c": "ы"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            81
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            80
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            71
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            70
+                          ],
+                          "l": -3
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            66
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            65
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            39
+                          ],
+                          "o": "start",
+                          "l": -9
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            48
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            47
+                          ],
+                          "l": 3,
+                          "c": ": г"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            53
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            50
+                          ],
+                          "l": 11,
+                          "c": "еймификация"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            64
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            63
+                          ],
+                          "l": -1
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uX6f41ZD7M-1",
+                            51
+                          ],
+                          "o": [
+                            "uX6f41ZD7M-1",
+                            50
+                          ],
+                          "l": -2
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "uqjI3To4Qgey",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -38
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "4fbc40b3-b7d1-8244-bc24-01ef99019c15": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "version": 37,
+            "type": "collection_view",
+            "view_ids": [
+              "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b"
+            ],
+            "collection_id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "format": {
+              "block_locked": false,
+              "block_locked_by": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+              "collection_pointer": {
+                "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "collection_pointers": [
+                {
+                  "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                  "table": "collection",
+                  "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+                }
+              ],
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8131-91d2-ecdf6e91e6e0",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "installation_imprint": {
+                "pointer": {
+                  "id": "1cdd872b-594c-81ee-9872-007bcf02ae94",
+                  "table": "marketplace_installation"
+                }
+              },
+              "hide_inline_collection_name": true,
+              "source_collection_page_count": 6,
+              "social_media_image_preview_url": "attachment:33b8390a-0878-4533-b68c-e1b20101b2ae:SocialMediaPreviewImage.png"
+            },
+            "created_time": 1791225956696,
+            "last_edited_time": 1792697796448,
+            "parent_id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8131-91d2-ecdf6e91e6e0",
+            "file_ids": [
+              "33b8390a-0878-4533-b68c-e1b20101b2ae"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "crdt_data": {
+              "title": {
+                "r": "EQ9PtWuj39FhvOcUuwhavg,\"start\",\"end\"",
+                "n": {
+                  "EQ9PtWuj39FhvOcUuwhavg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "EQ9PtWuj39FhvOcUuwhavg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3f0c40b3-b7d1-8028-83be-dec0ab47fdd8",
+            "version": 122,
+            "type": "page",
+            "properties": {
+              "title": [
+                [
+                  "Кирилл Забавников"
+                ]
+              ]
+            },
+            "content": [
+              "d86c40b3-b7d1-828f-9b06-01dacd2b6777",
+              "3b2c40b3-b7d1-835e-8ef4-819073ef0fb2",
+              "64bc40b3-b7d1-8358-80e7-81b181a04040",
+              "317c40b3-b7d1-8227-b232-01c7bbc25329",
+              "f05c40b3-b7d1-8310-bfd2-0166ad24e48a",
+              "401c40b3-b7d1-80e5-a57f-f99d31aa81e5",
+              "b13c40b3-b7d1-8217-adf1-81420aa729b1",
+              "3f0c40b3-b7d1-808f-8ace-d7868ff42602",
+              "3f0c40b3-b7d1-8057-9cf5-ed3d78132573",
+              "3f0c40b3-b7d1-803a-9c2c-f524eaa99183",
+              "3f0c40b3-b7d1-80ce-b5ec-ea773f32b943",
+              "3f0c40b3-b7d1-8011-9248-e564ef55c0f4",
+              "ab2c40b3-b7d1-83e0-a491-813691fce769",
+              "e3cc40b3-b7d1-837b-b4fa-015a400b9e63",
+              "c66c40b3-b7d1-829d-96a2-81884b7eb5c3",
+              "5e0c40b3-b7d1-83f3-a452-81ce74b52ce6",
+              "c0cc40b3-b7d1-8256-ae3e-01cf5dc9882e",
+              "253c40b3-b7d1-82a7-ae63-015d3f7a71a0",
+              "21cc40b3-b7d1-820b-ab4c-810e55eb2118",
+              "bc7c40b3-b7d1-8263-b010-01f700a8c4de",
+              "5a9c40b3-b7d1-828d-b9b5-01e84a901522",
+              "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+              "101c40b3-b7d1-8340-b1c7-0126b04ba09b",
+              "3dac40b3-b7d1-82b9-980f-016c1abd8fa4",
+              "b71c40b3-b7d1-8398-8704-010667a8ab9a",
+              "002c40b3-b7d1-8242-9e46-815f96d2cb47",
+              "7c5c40b3-b7d1-828a-9051-817923780bb8",
+              "034c40b3-b7d1-83ec-bd28-81764fb7e15e",
+              "389c40b3-b7d1-837f-a0db-818a87407eef",
+              "d43c40b3-b7d1-82fb-9ed5-816b5e650c1e",
+              "148c40b3-b7d1-82f5-b1df-01b9ccb1428e"
+            ],
+            "format": {
+              "page_icon": "attachment:4095cce3-d4d5-4924-88f5-46e34fffc577:photo_2024-11-24_11-35-34.jpg",
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8032-b512-d96857f86207",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "page_cover_position": 0.6,
+              "installation_imprint": {
+                "pointer": {
+                  "id": "1cdd872b-594c-81ee-9872-007bcf02ae94",
+                  "table": "marketplace_installation"
+                }
+              }
+            },
+            "permissions": [
+              {
+                "role": "reader",
+                "type": "public_permission",
+                "added_timestamp": 1792077330224,
+                "is_public_share_link": true
+              }
+            ],
+            "created_time": 1791225956201,
+            "last_edited_time": 1792699244412,
+            "parent_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "parent_table": "space",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8032-b512-d96857f86207",
+            "file_ids": [
+              "4095cce3-d4d5-4924-88f5-46e34fffc577"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "space",
+            "nav_parent_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_data": {
+              "title": {
+                "r": "x-KMivfVpmK8h_kJjE-JHg,\"start\",\"end\"",
+                "n": {
+                  "x-KMivfVpmK8h_kJjE-JHg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "x-KMivfVpmK8h_kJjE-JHg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vLHVfsmvyNbl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 17,
+                          "c": "Кирилл Забавников"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vLHVfsmvyNbl",
+                            18
+                          ],
+                          "o": [
+                            "vLHVfsmvyNbl",
+                            17
+                          ],
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "271c40b3-b7d1-821e-be46-81acdf9a833b": {
+        "value": {
+          "value": {
+            "id": "271c40b3-b7d1-821e-be46-81acdf9a833b",
+            "version": 14,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "1.1 MiB"
+                ]
+              ],
+              "title": [
+                [
+                  "dresser-Group 2147224080.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:c718fa32-3893-4141-9b17-5db09db78603:dresser-Group_2147224080.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 710,
+              "display_source": "attachment:c718fa32-3893-4141-9b17-5db09db78603:dresser-Group_2147224080.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 0.5626566416040101,
+              "copied_from_pointer": {
+                "id": "39bc40b3-b7d1-8076-aa56-e1e8e1b0a22c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791314224527,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "39bc40b3-b7d1-8076-aa56-e1e8e1b0a22c",
+            "file_ids": [
+              "a72993ab-87ac-4087-a1fd-7adb983acbd7",
+              "c718fa32-3893-4141-9b17-5db09db78603"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "_G8JoUOMOL20-Nh6sZyz7Q,\"start\",\"end\"",
+                "n": {
+                  "_G8JoUOMOL20-Nh6sZyz7Q,\"start\",\"end\"": {
+                    "s": {
+                      "x": "_G8JoUOMOL20-Nh6sZyz7Q",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YLw_QvtVCoeR",
+                            21
+                          ],
+                          "o": "start",
+                          "l": 28,
+                          "c": "dresser-Group 2147224080.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "lKGAUuTGOyeC",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -20
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "0e6c40b3-b7d1-8267-8452-011e5dbcba26": {
+        "value": {
+          "value": {
+            "id": "0e6c40b3-b7d1-8267-8452-011e5dbcba26",
+            "version": 2,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Вводные"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-808b-a1f6-dd403bf953bb",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-808b-a1f6-dd403bf953bb",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "2d9tGxB7zs7U-jUtBoULiA,\"start\",\"end\"",
+                "n": {
+                  "2d9tGxB7zs7U-jUtBoULiA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "2d9tGxB7zs7U-jUtBoULiA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "zkuyVPprl9wY",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 7,
+                          "c": "Вводные"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "aedc40b3-b7d1-83d9-900b-819be2ed6b27": {
+        "value": {
+          "value": {
+            "id": "aedc40b3-b7d1-83d9-900b-819be2ed6b27",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Чтобы повысить активность и удержание пользователей, мы решили внедрить в Супермаркеты механику заданий. Пользователь выполняет целевые действия внутри сервиса и получает за них гарантированную дополнительную выгоду — повышенный кэшбэк."
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-808a-9cf9-dbb2cd0ed085",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-808a-9cf9-dbb2cd0ed085",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "yyr7Fsy6vZ6uWmpAP2rPJA,\"start\",\"end\"",
+                "n": {
+                  "yyr7Fsy6vZ6uWmpAP2rPJA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "yyr7Fsy6vZ6uWmpAP2rPJA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "_Xdk51oXtpNl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 236,
+                          "c": "Чтобы повысить активность и удержание пользователей, мы решили внедрить в Супермаркеты механику заданий. Пользователь выполняет целевые действия внутри сервиса и получает за них гарантированную дополнительную выгоду — повышенный кэшбэк."
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "21dc40b3-b7d1-82e6-a972-01ecb9032258": {
+        "value": {
+          "value": {
+            "id": "21dc40b3-b7d1-82e6-a972-01ecb9032258",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Основной вызов заключался в том, чтобы создать не разовую промомеханику, а долгосрочную систему, которая:"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80e4-90f5-d0d80be2726a",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80e4-90f5-d0d80be2726a",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "epH5K3zmEZs1NG3E8cXfAQ,\"start\",\"end\"",
+                "n": {
+                  "epH5K3zmEZs1NG3E8cXfAQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "epH5K3zmEZs1NG3E8cXfAQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "WxqD5-IdawX9",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 105,
+                          "c": "Основной вызов заключался в том, чтобы создать не разовую промомеханику, а долгосрочную систему, которая:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "590c40b3-b7d1-832d-bdb8-011b648dff0b": {
+        "value": {
+          "value": {
+            "id": "590c40b3-b7d1-832d-bdb8-011b648dff0b",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "работает с пользователями на разных этапах жизненного цикла"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8037-96e4-d06724384834",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8037-96e4-d06724384834",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "mz5xGFyn_ttKTs8OAgOYow,\"start\",\"end\"",
+                "n": {
+                  "mz5xGFyn_ttKTs8OAgOYow,\"start\",\"end\"": {
+                    "s": {
+                      "x": "mz5xGFyn_ttKTs8OAgOYow",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "pkNKEvrzaCM2",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 59,
+                          "c": "работает с пользователями на разных этапах жизненного цикла"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "d65c40b3-b7d1-8293-870d-81eef82eca86": {
+        "value": {
+          "value": {
+            "id": "d65c40b3-b7d1-8293-870d-81eef82eca86",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "влияет не только на первую, но и на последующие покупки"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8093-b72f-f50ecd0b90a7",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8093-b72f-f50ecd0b90a7",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "yobnJNYSFiOkdK6vqHfgUw,\"start\",\"end\"",
+                "n": {
+                  "yobnJNYSFiOkdK6vqHfgUw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "yobnJNYSFiOkdK6vqHfgUw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "PJ1epNCXd_BO",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 55,
+                          "c": "влияет не только на первую, но и на последующие покупки"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "8c6c40b3-b7d1-83f8-9f43-017023e4b743": {
+        "value": {
+          "value": {
+            "id": "8c6c40b3-b7d1-83f8-9f43-017023e4b743",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "масштабируется на другие сервисы Города и Выгодных покупок"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-802a-91bf-cfbca1a1a11e",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-802a-91bf-cfbca1a1a11e",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "6vsK7op5sY85CMqwKyau8g,\"start\",\"end\"",
+                "n": {
+                  "6vsK7op5sY85CMqwKyau8g,\"start\",\"end\"": {
+                    "s": {
+                      "x": "6vsK7op5sY85CMqwKyau8g",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "5ed-9apQrQKw",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 58,
+                          "c": "масштабируется на другие сервисы Города и Выгодных покупок"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "170c40b3-b7d1-8332-a8c1-017ab1a46802": {
+        "value": {
+          "value": {
+            "id": "170c40b3-b7d1-8332-a8c1-017ab1a46802",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "остаётся консистентной с общей экосистемой геймификации"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80c2-b572-ed537d056289",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80c2-b572-ed537d056289",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "fo7E0ErDo3lZ8RjlkrgCRQ,\"start\",\"end\"",
+                "n": {
+                  "fo7E0ErDo3lZ8RjlkrgCRQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "fo7E0ErDo3lZ8RjlkrgCRQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "aSfkN7qWE1h7",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 55,
+                          "c": "остаётся консистентной с общей экосистемой геймификации"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "8e1c40b3-b7d1-834b-9347-810332eaca04": {
+        "value": {
+          "value": {
+            "id": "8e1c40b3-b7d1-834b-9347-810332eaca04",
+            "version": 2,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Моя роль"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8008-933c-f68a61f6bd8e",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8008-933c-f68a61f6bd8e",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "XT2AnkHsZCbxTtu-Y37z9w,\"start\",\"end\"",
+                "n": {
+                  "XT2AnkHsZCbxTtu-Y37z9w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "XT2AnkHsZCbxTtu-Y37z9w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "RS9mgmdEXp0t",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 8,
+                          "c": "Моя роль"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ddc40b3-b7d1-8386-9aba-81feaa8347e6": {
+        "value": {
+          "value": {
+            "id": "3ddc40b3-b7d1-8386-9aba-81feaa8347e6",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Ответственность за продуктовый подход и дизайн интеграции заданий в Супермаркеты — от определения принципов механики до проработки пользовательских сценариев и передачи решения в разработку."
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8013-9eba-e767ac8efb65",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8013-9eba-e767ac8efb65",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "qJUmxVQ4IzNSlLqE3raC-w,\"start\",\"end\"",
+                "n": {
+                  "qJUmxVQ4IzNSlLqE3raC-w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "qJUmxVQ4IzNSlLqE3raC-w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "poaWYiXxkLlz",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 190,
+                          "c": "Ответственность за продуктовый подход и дизайн интеграции заданий в Супермаркеты — от определения принципов механики до проработки пользовательских сценариев и передачи решения в разработку."
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "761c40b3-b7d1-82ca-a594-817cd7856b5b": {
+        "value": {
+          "value": {
+            "id": "761c40b3-b7d1-82ca-a594-817cd7856b5b",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Ключевые зоны ответственности:"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80ee-a977-e8933a818a7b",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80ee-a977-e8933a818a7b",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "tDMAYlOfpDgqLFyomE9icw,\"start\",\"end\"",
+                "n": {
+                  "tDMAYlOfpDgqLFyomE9icw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "tDMAYlOfpDgqLFyomE9icw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "KT8bOG8o7VE9",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 30,
+                          "c": "Ключевые зоны ответственности:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "e0ec40b3-b7d1-82c7-aeb6-81fab138f1b2": {
+        "value": {
+          "value": {
+            "id": "e0ec40b3-b7d1-82c7-aeb6-81fab138f1b2",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "формирование подхода к развитию геймификации"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8001-8598-ed37384c2fe9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8001-8598-ed37384c2fe9",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "Cwhv2qsoNqi_epXHkLVJiw,\"start\",\"end\"",
+                "n": {
+                  "Cwhv2qsoNqi_epXHkLVJiw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Cwhv2qsoNqi_epXHkLVJiw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "acxvZ8UmAGyn",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 44,
+                          "c": "формирование подхода к развитию геймификации"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "6acc40b3-b7d1-83e6-b1fd-01103c1cbbc1": {
+        "value": {
+          "value": {
+            "id": "6acc40b3-b7d1-83e6-b1fd-01103c1cbbc1",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "синхронизация с командой Призограда и другими бизнес-линиями"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80dc-82e3-db55899b8b07",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80dc-82e3-db55899b8b07",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "Lnr_dXY7IuTqDoqiWNWGeQ,\"start\",\"end\"",
+                "n": {
+                  "Lnr_dXY7IuTqDoqiWNWGeQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Lnr_dXY7IuTqDoqiWNWGeQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "tgEq0jAZTq4e",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 60,
+                          "c": "синхронизация с командой Призограда и другими бизнес-линиями"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "d56c40b3-b7d1-82aa-9ab6-811b169e6b86": {
+        "value": {
+          "value": {
+            "id": "d56c40b3-b7d1-82aa-9ab6-811b169e6b86",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "проработка точек входа на разных этапах CJM"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8016-84bb-ea0ef4d983ec",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8016-84bb-ea0ef4d983ec",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "kvM6gVFeQVcuXoGjZO9Saw,\"start\",\"end\"",
+                "n": {
+                  "kvM6gVFeQVcuXoGjZO9Saw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "kvM6gVFeQVcuXoGjZO9Saw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "WY27VE2Q8lKg",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 43,
+                          "c": "проработка точек входа на разных этапах CJM"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "182c40b3-b7d1-8338-acab-018421c01a56": {
+        "value": {
+          "value": {
+            "id": "182c40b3-b7d1-8338-acab-018421c01a56",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "проектирование экрана «Задания и подарки»"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8087-abbb-ed299291137c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8087-abbb-ed299291137c",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "Mr-m7LIwQaaBpgzk_AbzBQ,\"start\",\"end\"",
+                "n": {
+                  "Mr-m7LIwQaaBpgzk_AbzBQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Mr-m7LIwQaaBpgzk_AbzBQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "-ssoe64ImIJU",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 41,
+                          "c": "проектирование экрана «Задания и подарки»"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "aa3c40b3-b7d1-8229-9855-012447acfb0a": {
+        "value": {
+          "value": {
+            "id": "aa3c40b3-b7d1-8229-9855-012447acfb0a",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "поиск масштабируемого и консистентного компонентного решения"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8063-8859-f7324c532f24",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8063-8859-f7324c532f24",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "zNDgzYYIklLD3hYT4m5PiA,\"start\",\"end\"",
+                "n": {
+                  "zNDgzYYIklLD3hYT4m5PiA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "zNDgzYYIklLD3hYT4m5PiA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bh4rTTX9qv31",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 60,
+                          "c": "поиск масштабируемого и консистентного компонентного решения"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "783c40b3-b7d1-8216-986c-81dd1294ff20": {
+        "value": {
+          "value": {
+            "id": "783c40b3-b7d1-8216-986c-81dd1294ff20",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "защита решений перед стейкхолдерами"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8060-929d-f077d4acbd6d",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8060-929d-f077d4acbd6d",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "6GAEu5VsY9aliXVlDCcpbA,\"start\",\"end\"",
+                "n": {
+                  "6GAEu5VsY9aliXVlDCcpbA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "6GAEu5VsY9aliXVlDCcpbA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "TrJ78vGk3mwR",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 35,
+                          "c": "защита решений перед стейкхолдерами"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "fa0c40b3-b7d1-83d1-bb9f-01beafdb54ba": {
+        "value": {
+          "value": {
+            "id": "fa0c40b3-b7d1-83d1-bb9f-01beafdb54ba",
+            "version": 2,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Цель бизнеса и миссия пользователя"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80b1-a004-d784d3edf9c9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80b1-a004-d784d3edf9c9",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "jdrLqxMIzHC_yws0gOLQoA,\"start\",\"end\"",
+                "n": {
+                  "jdrLqxMIzHC_yws0gOLQoA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "jdrLqxMIzHC_yws0gOLQoA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "iHQTXJfBYTN5",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 34,
+                          "c": "Цель бизнеса и миссия пользователя"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "19dc40b3-b7d1-836b-886b-016cc736cd7c": {
+        "value": {
+          "value": {
+            "id": "19dc40b3-b7d1-836b-886b-016cc736cd7c",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Цель бизнеса",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8090-b4c4-f25d96ab2ff8",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8090-b4c4-f25d96ab2ff8",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "4ofxTs6wVGkKcocqrBuMgw,\"start\",\"end\"",
+                "n": {
+                  "4ofxTs6wVGkKcocqrBuMgw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "4ofxTs6wVGkKcocqrBuMgw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "DybhxkCBUjLi",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 12,
+                          "c": "Цель бизнеса",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "4ofxTs6wVGkKcocqrBuMgw",
+                              "l": "",
+                              "i": [
+                                "DybhxkCBUjLi",
+                                13
+                              ],
+                              "s": {
+                                "i": [
+                                  "DybhxkCBUjLi",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": "end",
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "e",
+                          "b": []
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "ab6c40b3-b7d1-82ce-b1a6-81d739bafe7d": {
+        "value": {
+          "value": {
+            "id": "ab6c40b3-b7d1-82ce-b1a6-81d739bafe7d",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Повысить удержание и активность пользователей внутри Супермаркетов:"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-803a-afc4-d878d145a3d6",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-803a-afc4-d878d145a3d6",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "vC-dXD1s8j5l-5ZEUFt5Zw,\"start\",\"end\"",
+                "n": {
+                  "vC-dXD1s8j5l-5ZEUFt5Zw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "vC-dXD1s8j5l-5ZEUFt5Zw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "aXCadBwspuAl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 67,
+                          "c": "Повысить удержание и активность пользователей внутри Супермаркетов:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "705c40b3-b7d1-83e1-b5ac-01ddd79c984c": {
+        "value": {
+          "value": {
+            "id": "705c40b3-b7d1-83e1-b5ac-01ddd79c984c",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "увеличить Retention"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80c2-9545-c420208780ad",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80c2-9545-c420208780ad",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "yNrxpLyUFYiRWk8p1E7E9w,\"start\",\"end\"",
+                "n": {
+                  "yNrxpLyUFYiRWk8p1E7E9w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "yNrxpLyUFYiRWk8p1E7E9w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "AI_ubwGN1CPl",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 19,
+                          "c": "увеличить Retention"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "506c40b3-b7d1-828e-88a9-0130de43d7b1": {
+        "value": {
+          "value": {
+            "id": "506c40b3-b7d1-828e-88a9-0130de43d7b1",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "обеспечить долгосрочное влияние на годовое удержание"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80ba-b364-d2fa00a0bfa1",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80ba-b364-d2fa00a0bfa1",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "aCBXdPjdhCT-hyo3bCsjiQ,\"start\",\"end\"",
+                "n": {
+                  "aCBXdPjdhCT-hyo3bCsjiQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "aCBXdPjdhCT-hyo3bCsjiQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "yUx5V1MgQeK6",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 52,
+                          "c": "обеспечить долгосрочное влияние на годовое удержание"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "0f8c40b3-b7d1-83fe-a85b-818d5e15924f": {
+        "value": {
+          "value": {
+            "id": "0f8c40b3-b7d1-83fe-a85b-818d5e15924f",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "увеличить GMV и количество покупок"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8048-8e67-d3276ed4b5af",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8048-8e67-d3276ed4b5af",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "Hj16T5PG0t2cXc3Hznzs2A,\"start\",\"end\"",
+                "n": {
+                  "Hj16T5PG0t2cXc3Hznzs2A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Hj16T5PG0t2cXc3Hznzs2A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "H7dsp1A8klXJ",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 34,
+                          "c": "увеличить GMV и количество покупок"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "6bbc40b3-b7d1-83fd-9710-81718b688381": {
+        "value": {
+          "value": {
+            "id": "6bbc40b3-b7d1-83fd-9710-81718b688381",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "стимулировать целевые действия: добавление товаров в корзину и оформление заказа"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80a4-bc9d-edb5ca517412",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80a4-bc9d-edb5ca517412",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "YrLDHwvh_7ulTLDoPwj4ig,\"start\",\"end\"",
+                "n": {
+                  "YrLDHwvh_7ulTLDoPwj4ig,\"start\",\"end\"": {
+                    "s": {
+                      "x": "YrLDHwvh_7ulTLDoPwj4ig",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "GNnaYRfQGn7X",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 80,
+                          "c": "стимулировать целевые действия: добавление товаров в корзину и оформление заказа"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "a82c40b3-b7d1-825f-a337-012dce6325de": {
+        "value": {
+          "value": {
+            "id": "a82c40b3-b7d1-825f-a337-012dce6325de",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "снизить зависимость от Повышенного кэшбэка за счёт персонализации количества и сложности заданий"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-809e-a53e-c6523d0c63c3",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-809e-a53e-c6523d0c63c3",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "MX_8VLP6kwWBcLgCoNUYHg,\"start\",\"end\"",
+                "n": {
+                  "MX_8VLP6kwWBcLgCoNUYHg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "MX_8VLP6kwWBcLgCoNUYHg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "KLDPS0asFKRI",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 96,
+                          "c": "снизить зависимость от Повышенного кэшбэка за счёт персонализации количества и сложности заданий"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "98ac40b3-b7d1-822c-a1ae-81672570e1d6": {
+        "value": {
+          "value": {
+            "id": "98ac40b3-b7d1-822c-a1ae-81672570e1d6",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Миссия пользователя",
+                  [
+                    [
+                      "b"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8002-9c6d-d06ee6d8f22c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8002-9c6d-d06ee6d8f22c",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "fNUZ4_2xJmZxKY0i4P4G_A,\"start\",\"end\"",
+                "n": {
+                  "fNUZ4_2xJmZxKY0i4P4G_A,\"start\",\"end\"": {
+                    "s": {
+                      "x": "fNUZ4_2xJmZxKY0i4P4G_A",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "bFOp2B3D5Xj3",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 19,
+                          "c": "Миссия пользователя",
+                          "b": [
+                            {
+                              "t": "a",
+                              "x": "fNUZ4_2xJmZxKY0i4P4G_A",
+                              "l": "",
+                              "i": [
+                                "bFOp2B3D5Xj3",
+                                20
+                              ],
+                              "s": {
+                                "i": [
+                                  "bFOp2B3D5Xj3",
+                                  1
+                                ],
+                                "a": "b"
+                              },
+                              "e": {
+                                "i": "end",
+                                "a": "b"
+                              },
+                              "a": [
+                                "b"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "t": "e",
+                          "b": []
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "bfcc40b3-b7d1-82e8-aebd-819ffc7f7efe": {
+        "value": {
+          "value": {
+            "id": "bfcc40b3-b7d1-82e8-aebd-819ffc7f7efe",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Выполнять понятные действия и получать за них гарантированный повышенный кэшбэк, контролируя свой прогресс и заранее понимая итоговую выгоду."
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-801b-8903-f45037f76f31",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-801b-8903-f45037f76f31",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "zc8ygnCl699GlIfcp__ElQ,\"start\",\"end\"",
+                "n": {
+                  "zc8ygnCl699GlIfcp__ElQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "zc8ygnCl699GlIfcp__ElQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "WudbYKzZedr-",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 141,
+                          "c": "Выполнять понятные действия и получать за них гарантированный повышенный кэшбэк, контролируя свой прогресс и заранее понимая итоговую выгоду."
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "828c40b3-b7d1-8273-8b03-0102ce1f1326": {
+        "value": {
+          "value": {
+            "id": "828c40b3-b7d1-8273-8b03-0102ce1f1326",
+            "version": 2,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Ключевое решение"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8079-b3d4-d403c7579c0c",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8079-b3d4-d403c7579c0c",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "vrTsMblaZeoJGWAIGENxjA,\"start\",\"end\"",
+                "n": {
+                  "vrTsMblaZeoJGWAIGENxjA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "vrTsMblaZeoJGWAIGENxjA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "qHx4lNbdhg3D",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 16,
+                          "c": "Ключевое решение"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "895c40b3-b7d1-82c1-80a8-81ec0815539e": {
+        "value": {
+          "value": {
+            "id": "895c40b3-b7d1-82c1-80a8-81ec0815539e",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "На старте рассматривалась возможность создать отдельную геймификацию внутри Супермаркетов. Я отстоял позицию, что обособленная механика приведёт к дублированию решений и сделает пользовательский опыт менее консистентным."
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8094-806c-d747df7b0afe",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8094-806c-d747df7b0afe",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "zG9yegqUMRLRMoUjC79cww,\"start\",\"end\"",
+                "n": {
+                  "zG9yegqUMRLRMoUjC79cww,\"start\",\"end\"": {
+                    "s": {
+                      "x": "zG9yegqUMRLRMoUjC79cww",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "2rPjy4HA4nBa",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 220,
+                          "c": "На старте рассматривалась возможность создать отдельную геймификацию внутри Супермаркетов. Я отстоял позицию, что обособленная механика приведёт к дублированию решений и сделает пользовательский опыт менее консистентным."
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "34cc40b3-b7d1-82ec-9cbd-8186e99b46da": {
+        "value": {
+          "value": {
+            "id": "34cc40b3-b7d1-82ec-9cbd-8186e99b46da",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Вместо этого мы выбрали интеграцию с Призоградом как единым центром геймификации внутри банка. Такой подход позволял развивать механику совместно с другими бизнес-линиями и в дальнейшем масштабировать задания на разные сервисы."
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8038-a4ef-c46b395a036a",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8038-a4ef-c46b395a036a",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "qXoDEKmsYJ2nmIKjcnkuMw,\"start\",\"end\"",
+                "n": {
+                  "qXoDEKmsYJ2nmIKjcnkuMw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "qXoDEKmsYJ2nmIKjcnkuMw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vI-7bjUTa1nI",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 227,
+                          "c": "Вместо этого мы выбрали интеграцию с Призоградом как единым центром геймификации внутри банка. Такой подход позволял развивать механику совместно с другими бизнес-линиями и в дальнейшем масштабировать задания на разные сервисы."
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "b9ec40b3-b7d1-820e-8c5a-81ffec894286": {
+        "value": {
+          "value": {
+            "id": "b9ec40b3-b7d1-820e-8c5a-81ffec894286",
+            "version": 2,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Со стороны Супермаркетов я проработал:"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8016-bd75-c4dfe2ef9fc4",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1791225958757,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8016-bd75-c4dfe2ef9fc4",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "ypcqsx7j78iGndtVxaiQNg,\"start\",\"end\"",
+                "n": {
+                  "ypcqsx7j78iGndtVxaiQNg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "ypcqsx7j78iGndtVxaiQNg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "qFYWtp__-s_v",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 38,
+                          "c": "Со стороны Супермаркетов я проработал:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "b4fc40b3-b7d1-8396-996d-01dfc372d1bd": {
+        "value": {
+          "value": {
+            "id": "b4fc40b3-b7d1-8396-996d-01dfc372d1bd",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "точки входа в задания на разных этапах пользовательского пути"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8093-97e5-d1fa36e72b9e",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8093-97e5-d1fa36e72b9e",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "AFtoaqCQH_O5EeiB4YV4yQ,\"start\",\"end\"",
+                "n": {
+                  "AFtoaqCQH_O5EeiB4YV4yQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "AFtoaqCQH_O5EeiB4YV4yQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "aP994VBOn8-S",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 61,
+                          "c": "точки входа в задания на разных этапах пользовательского пути"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "be4c40b3-b7d1-8304-b080-81d5866ff046": {
+        "value": {
+          "value": {
+            "id": "be4c40b3-b7d1-8304-b080-81d5866ff046",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "экран «Задания и подарки»"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80c0-b00b-e464e2949664",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958759,
+            "last_edited_time": 1791225958759,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80c0-b00b-e464e2949664",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "l8WQzCkcdUnMU8hciN8Aug,\"start\",\"end\"",
+                "n": {
+                  "l8WQzCkcdUnMU8hciN8Aug,\"start\",\"end\"": {
+                    "s": {
+                      "x": "l8WQzCkcdUnMU8hciN8Aug",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "fFVRe6WGLvWe",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 25,
+                          "c": "экран «Задания и подарки»"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "6e1c40b3-b7d1-830d-811e-01e3f7a7f73b": {
+        "value": {
+          "value": {
+            "id": "6e1c40b3-b7d1-830d-811e-01e3f7a7f73b",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "сценарии отображения прогресса и награды"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8066-96ef-e0beed28bae6",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8066-96ef-e0beed28bae6",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "9Kulc5Yl52wiahEuZPlP0w,\"start\",\"end\"",
+                "n": {
+                  "9Kulc5Yl52wiahEuZPlP0w,\"start\",\"end\"": {
+                    "s": {
+                      "x": "9Kulc5Yl52wiahEuZPlP0w",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "fn-UY_XiLtCK",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 40,
+                          "c": "сценарии отображения прогресса и награды"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "266c40b3-b7d1-83c3-bacb-81103c2078a8": {
+        "value": {
+          "value": {
+            "id": "266c40b3-b7d1-83c3-bacb-81103c2078a8",
+            "version": 2,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "интеграцию заданий в общую механику Призограда"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-805f-a66a-d03fcf45aaf4",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1791225958758,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-805f-a66a-d03fcf45aaf4",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "le4R4URPLKPDWQnpNpN0eg,\"start\",\"end\"",
+                "n": {
+                  "le4R4URPLKPDWQnpNpN0eg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "le4R4URPLKPDWQnpNpN0eg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "Q0VxzENrno5J",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 46,
+                          "c": "интеграцию заданий в общую механику Призограда"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "6fbc40b3-b7d1-8327-b486-8126c0d4652e": {
+        "value": {
+          "value": {
+            "id": "6fbc40b3-b7d1-8327-b486-8126c0d4652e",
+            "version": 68,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Итоговое решение"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-804d-bd46-ff3086e93603",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958758,
+            "last_edited_time": 1792521568361,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-804d-bd46-ff3086e93603",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "xHpk7qnh34oeaW9G7eUknA,\"start\",\"end\"",
+                "n": {
+                  "xHpk7qnh34oeaW9G7eUknA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "xHpk7qnh34oeaW9G7eUknA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "dswrqc-9jXAZ",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -9
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            10
+                          ],
+                          "o": [
+                            "dswrqc-9jXAZ",
+                            9
+                          ],
+                          "l": -9
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "kXHNTaDsJe2bKcllGoKssw,[\"I4D750e5wLmH\",206],[\"I4D750e5wLmH\",103]"
+                    ]
+                  },
+                  "kXHNTaDsJe2bKcllGoKssw,[\"I4D750e5wLmH\",206],[\"I4D750e5wLmH\",103]": {
+                    "s": {
+                      "x": "kXHNTaDsJe2bKcllGoKssw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            206
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            103
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "kXHNTaDsJe2bKcllGoKssw,[\"I4D750e5wLmH\",103],\"end\""
+                    ]
+                  },
+                  "kXHNTaDsJe2bKcllGoKssw,[\"I4D750e5wLmH\",103],\"end\"": {
+                    "s": {
+                      "x": "kXHNTaDsJe2bKcllGoKssw",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            103
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "zign4SsXOKPx",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -82
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            104
+                          ],
+                          "o": [
+                            "zign4SsXOKPx",
+                            82
+                          ],
+                          "l": -82
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "v2yuCdCukFOg9hN83X6QJA,[\"I4D750e5wLmH\",78],[\"I4D750e5wLmH\",39]"
+                    ]
+                  },
+                  "v2yuCdCukFOg9hN83X6QJA,[\"I4D750e5wLmH\",78],[\"I4D750e5wLmH\",39]": {
+                    "s": {
+                      "x": "v2yuCdCukFOg9hN83X6QJA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            78
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            39
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "v2yuCdCukFOg9hN83X6QJA,[\"I4D750e5wLmH\",39],\"end\""
+                    ]
+                  },
+                  "v2yuCdCukFOg9hN83X6QJA,[\"I4D750e5wLmH\",39],\"end\"": {
+                    "s": {
+                      "x": "v2yuCdCukFOg9hN83X6QJA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            39
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "P0euKjaF6z-6",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -18
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            40
+                          ],
+                          "o": [
+                            "P0euKjaF6z-6",
+                            18
+                          ],
+                          "l": -18
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "wVJf1-Iz_TMyqmjQcqNTfA,[\"I4D750e5wLmH\",136],[\"I4D750e5wLmH\",68]"
+                    ]
+                  },
+                  "wVJf1-Iz_TMyqmjQcqNTfA,[\"I4D750e5wLmH\",136],[\"I4D750e5wLmH\",68]": {
+                    "s": {
+                      "x": "wVJf1-Iz_TMyqmjQcqNTfA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            136
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            68
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "wVJf1-Iz_TMyqmjQcqNTfA,[\"I4D750e5wLmH\",68],\"end\""
+                    ]
+                  },
+                  "wVJf1-Iz_TMyqmjQcqNTfA,[\"I4D750e5wLmH\",68],\"end\"": {
+                    "s": {
+                      "x": "wVJf1-Iz_TMyqmjQcqNTfA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            68
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "9tOWDtvo6SQT",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -47
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            69
+                          ],
+                          "o": [
+                            "9tOWDtvo6SQT",
+                            47
+                          ],
+                          "l": -47
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "GNR74oqnK6OjxLb-WWhuTQ,[\"I4D750e5wLmH\",126],[\"I4D750e5wLmH\",63]"
+                    ]
+                  },
+                  "GNR74oqnK6OjxLb-WWhuTQ,[\"I4D750e5wLmH\",126],[\"I4D750e5wLmH\",63]": {
+                    "s": {
+                      "x": "GNR74oqnK6OjxLb-WWhuTQ",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            126
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            63
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "GNR74oqnK6OjxLb-WWhuTQ,[\"I4D750e5wLmH\",63],\"end\""
+                    ]
+                  },
+                  "GNR74oqnK6OjxLb-WWhuTQ,[\"I4D750e5wLmH\",63],\"end\"": {
+                    "s": {
+                      "x": "GNR74oqnK6OjxLb-WWhuTQ",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            63
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "YF81gEhasu2L",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -42
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            64
+                          ],
+                          "o": [
+                            "YF81gEhasu2L",
+                            42
+                          ],
+                          "l": -42
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "y9jXTEh5aZ06eJqfiDADlA,[\"I4D750e5wLmH\",106],[\"I4D750e5wLmH\",53]"
+                    ]
+                  },
+                  "y9jXTEh5aZ06eJqfiDADlA,[\"I4D750e5wLmH\",106],[\"I4D750e5wLmH\",53]": {
+                    "s": {
+                      "x": "y9jXTEh5aZ06eJqfiDADlA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            106
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            53
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "y9jXTEh5aZ06eJqfiDADlA,[\"I4D750e5wLmH\",53],\"end\""
+                    ]
+                  },
+                  "y9jXTEh5aZ06eJqfiDADlA,[\"I4D750e5wLmH\",53],\"end\"": {
+                    "s": {
+                      "x": "y9jXTEh5aZ06eJqfiDADlA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            53
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "l7Odqnlnhnqy",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -32
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            54
+                          ],
+                          "o": [
+                            "l7Odqnlnhnqy",
+                            32
+                          ],
+                          "l": -32
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "FAuT5J48ed8gvYR2dtrvCA,[\"I4D750e5wLmH\",396],[\"I4D750e5wLmH\",198]"
+                    ]
+                  },
+                  "FAuT5J48ed8gvYR2dtrvCA,[\"I4D750e5wLmH\",396],[\"I4D750e5wLmH\",198]": {
+                    "s": {
+                      "x": "FAuT5J48ed8gvYR2dtrvCA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            396
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            198
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "T"
+                    },
+                    "c": [
+                      "FAuT5J48ed8gvYR2dtrvCA,[\"I4D750e5wLmH\",198],\"end\""
+                    ]
+                  },
+                  "FAuT5J48ed8gvYR2dtrvCA,[\"I4D750e5wLmH\",198],\"end\"": {
+                    "s": {
+                      "x": "FAuT5J48ed8gvYR2dtrvCA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            198
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            397
+                          ],
+                          "o": [
+                            "I4D750e5wLmH",
+                            198
+                          ],
+                          "l": 16,
+                          "c": "Итоговое решение"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "RLjgs8RW3VOQ",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -177
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            199
+                          ],
+                          "o": [
+                            "RLjgs8RW3VOQ",
+                            177
+                          ],
+                          "l": -177
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": [
+                      "O_-QbupZsM0Ii0yyfmuUiA,[\"I4D750e5wLmH\",21],\"end\""
+                    ]
+                  },
+                  "O_-QbupZsM0Ii0yyfmuUiA,[\"I4D750e5wLmH\",21],\"end\"": {
+                    "s": {
+                      "x": "O_-QbupZsM0Ii0yyfmuUiA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            21
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-808e-8443-c28fbfc65115": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-808e-8443-c28fbfc65115",
+            "version": 10,
+            "type": "column_list",
+            "content": [
+              "3ffc40b3-b7d1-8049-8cee-c24c97644e14",
+              "3ffc40b3-b7d1-80f6-a07c-f0f6a4d98c0d"
+            ],
+            "created_time": 1792521792718,
+            "last_edited_time": 1792521906507,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "qlMu__OX-CDY-G7g-F3-pw,\"start\",\"end\"",
+                "n": {
+                  "qlMu__OX-CDY-G7g-F3-pw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "qlMu__OX-CDY-G7g-F3-pw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "050c40b3-b7d1-83b3-9c3f-81d2a9242fce": {
+        "value": {
+          "value": {
+            "id": "050c40b3-b7d1-83b3-9c3f-81d2a9242fce",
+            "version": 15,
+            "type": "column_list",
+            "content": [
+              "3ffc40b3-b7d1-8022-bdcc-c923bbcffab6",
+              "1b3c40b3-b7d1-83c5-9956-81fc617db68f"
+            ],
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8006-9921-e0584b004019",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958757,
+            "last_edited_time": 1792521993838,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8006-9921-e0584b004019",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "LTmOKjMZTBsQ7nWZ1x3UhA,\"start\",\"end\"",
+                "n": {
+                  "LTmOKjMZTBsQ7nWZ1x3UhA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "LTmOKjMZTBsQ7nWZ1x3UhA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80df-bba0-e58b172d7d3e": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80df-bba0-e58b172d7d3e",
+            "version": 8,
+            "type": "sub_sub_header",
+            "properties": {
+              "title": [
+                [
+                  "Результат"
+                ]
+              ]
+            },
+            "created_time": 1792521556023,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "pVuQDFQXK-sEiHFk8Jb4sA,\"start\",[\"I4D750e5wLmH\",1]",
+                "n": {
+                  "pVuQDFQXK-sEiHFk8Jb4sA,\"start\",[\"I4D750e5wLmH\",1]": {
+                    "s": {
+                      "x": "pVuQDFQXK-sEiHFk8Jb4sA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            2
+                          ],
+                          "o": "start",
+                          "l": 9,
+                          "c": "Результат"
+                        },
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            1
+                          ],
+                          "o": "start"
+                        }
+                      ],
+                      "l": "L"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8047-9404-d8bbaf77a5ba": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8047-9404-d8bbaf77a5ba",
+            "version": 4,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Масштабируемое решение было синхронизировано с Призоградом и передано в разработку"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "a41c40b3-b7d1-83e6-9013-81c596b9fda2",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556512,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "a41c40b3-b7d1-83e6-9013-81c596b9fda2",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "mNGrzW0c6KGlEo2cN0qzLQ,\"start\",\"end\"",
+                "n": {
+                  "mNGrzW0c6KGlEo2cN0qzLQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "mNGrzW0c6KGlEo2cN0qzLQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "HqXpw92j4JAT",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 82,
+                          "c": "Масштабируемое решение было синхронизировано с Призоградом и передано в разработку"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80e0-8ba8-e02629d8804d": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80e0-8ba8-e02629d8804d",
+            "version": 4,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "По итогу получили:"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "18fc40b3-b7d1-8319-8ee0-8142789443b7",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556513,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "18fc40b3-b7d1-8319-8ee0-8142789443b7",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "uTZIPc0xCosUxxmWQCSsvg,\"start\",\"end\"",
+                "n": {
+                  "uTZIPc0xCosUxxmWQCSsvg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "uTZIPc0xCosUxxmWQCSsvg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "4KOqBDnp6VEg",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 18,
+                          "c": "По итогу получили:"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-806c-ae24-d72470daaa11": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-806c-ae24-d72470daaa11",
+            "version": 4,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "статистически значимый рост GMV (цифры под NDA)"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "09cc40b3-b7d1-8223-9825-81eb57a19fbb",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556514,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "09cc40b3-b7d1-8223-9825-81eb57a19fbb",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "k0LWJKU7v5EmgZsXpkqhzw,\"start\",\"end\"",
+                "n": {
+                  "k0LWJKU7v5EmgZsXpkqhzw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "k0LWJKU7v5EmgZsXpkqhzw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "_ROyC4gvmmPU",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 47,
+                          "c": "статистически значимый рост GMV (цифры под NDA)"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80f6-a36f-eec9ad422088": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80f6-a36f-eec9ad422088",
+            "version": 4,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "положительный эффект на количество покупок"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "93cc40b3-b7d1-83fb-9a4c-01dc0ff172bd",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556514,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "93cc40b3-b7d1-83fb-9a4c-01dc0ff172bd",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "sc8-Kq4TCJO4fcr6oloyJg,\"start\",\"end\"",
+                "n": {
+                  "sc8-Kq4TCJO4fcr6oloyJg,\"start\",\"end\"": {
+                    "s": {
+                      "x": "sc8-Kq4TCJO4fcr6oloyJg",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "QjkpvU9IZ2rk",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 42,
+                          "c": "положительный эффект на количество покупок"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8097-b9b8-ef5606482a11": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8097-b9b8-ef5606482a11",
+            "version": 4,
+            "type": "bulleted_list",
+            "properties": {
+              "title": [
+                [
+                  "положительную динамику Retention"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "72cc40b3-b7d1-8316-af6e-8196ce1099db",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556515,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "72cc40b3-b7d1-8316-af6e-8196ce1099db",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "GIvGtqzXvW2AueGNpv_IcQ,\"start\",\"end\"",
+                "n": {
+                  "GIvGtqzXvW2AueGNpv_IcQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "GIvGtqzXvW2AueGNpv_IcQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "KIeImVu0pUE8",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 32,
+                          "c": "положительную динамику Retention"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8056-a7df-f750ecf74b2d": {
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8056-a7df-f750ecf74b2d",
+            "version": 5,
+            "type": "text",
+            "properties": {
+              "title": [
+                [
+                  "Решение подтвердило потенциал заданий как инструмента роста ключевых продуктовых метрик и заложило основу для дальнейшего развития геймификации в Супермаркетах и других сервисах"
+                ]
+              ]
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "f0dc40b3-b7d1-833e-9d5d-01600f7b0ab3",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1792521556516,
+            "last_edited_time": 1792521556522,
+            "parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "f0dc40b3-b7d1-833e-9d5d-01600f7b0ab3",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "GzCr9scst4c_Xa62-c-njw,\"start\",\"end\"",
+                "n": {
+                  "GzCr9scst4c_Xa62-c-njw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "GzCr9scst4c_Xa62-c-njw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "MoWWzutIelVr",
+                            1
+                          ],
+                          "o": "start",
+                          "l": 177,
+                          "c": "Решение подтвердило потенциал заданий как инструмента роста ключевых продуктовых метрик и заложило основу для дальнейшего развития геймификации в Супермаркетах и других сервисах"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": [
+                      "pVuQDFQXK-sEiHFk8Jb4sA,[\"I4D750e5wLmH\",1],\"end\""
+                    ]
+                  },
+                  "pVuQDFQXK-sEiHFk8Jb4sA,[\"I4D750e5wLmH\",1],\"end\"": {
+                    "s": {
+                      "x": "pVuQDFQXK-sEiHFk8Jb4sA",
+                      "i": [
+                        {
+                          "t": "p",
+                          "i": [
+                            "I4D750e5wLmH",
+                            1
+                          ],
+                          "o": "start"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": "l"
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8049-8cee-c24c97644e14": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8049-8cee-c24c97644e14",
+            "version": 10,
+            "type": "column",
+            "content": [
+              "e01c40b3-b7d1-82ac-b001-8173a60423d9"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521792717,
+            "last_edited_time": 1792521906507,
+            "parent_id": "3ffc40b3-b7d1-808e-8443-c28fbfc65115",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "FalwvP9mHQoUNAkjAxa_Zw,\"start\",\"end\"",
+                "n": {
+                  "FalwvP9mHQoUNAkjAxa_Zw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "FalwvP9mHQoUNAkjAxa_Zw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-80f6-a07c-f0f6a4d98c0d": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-80f6-a07c-f0f6a4d98c0d",
+            "version": 10,
+            "type": "column",
+            "content": [
+              "237c40b3-b7d1-838e-b55e-0123ac466540"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521792719,
+            "last_edited_time": 1792521906507,
+            "parent_id": "3ffc40b3-b7d1-808e-8443-c28fbfc65115",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "Z1EH-qEJgBY9eZkreDeCpQ,\"start\",\"end\"",
+                "n": {
+                  "Z1EH-qEJgBY9eZkreDeCpQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "Z1EH-qEJgBY9eZkreDeCpQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "e01c40b3-b7d1-82ac-b001-8173a60423d9": {
+        "value": {
+          "value": {
+            "id": "e01c40b3-b7d1-82ac-b001-8173a60423d9",
+            "version": 21,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "296.4 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Задания_разводящая.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:3793ffaf-2765-4e13-b75e-00e3281ac8fe:Задания_разводящая.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 691.9874877929688,
+              "display_source": "attachment:3793ffaf-2765-4e13-b75e-00e3281ac8fe:Задания_разводящая.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8076-9413-f51215b6db6d",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958760,
+            "last_edited_time": 1792521792722,
+            "parent_id": "3ffc40b3-b7d1-8049-8cee-c24c97644e14",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8076-9413-f51215b6db6d",
+            "file_ids": [
+              "e2be7098-7c44-430d-b2ba-d6fcfbc8ea7a",
+              "3793ffaf-2765-4e13-b75e-00e3281ac8fe"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "WM4vP0jQ0mxWVzquxAXrOQ,\"start\",\"end\"",
+                "n": {
+                  "WM4vP0jQ0mxWVzquxAXrOQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "WM4vP0jQ0mxWVzquxAXrOQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            12
+                          ],
+                          "o": "start",
+                          "l": 22,
+                          "c": "Задания_разводящая.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "wbSWG76NTN6C",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "237c40b3-b7d1-838e-b55e-0123ac466540": {
+        "value": {
+          "value": {
+            "id": "237c40b3-b7d1-838e-b55e-0123ac466540",
+            "version": 20,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "636 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Задания и подарки.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:dc971e30-081c-400f-9d6b-d21c79e2e3af:Задания_и_подарки.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 1596,
+              "display_source": "attachment:dc971e30-081c-400f-9d6b-d21c79e2e3af:Задания_и_подарки.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-805e-8a39-c115be81e77e",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958760,
+            "last_edited_time": 1792521838034,
+            "parent_id": "3ffc40b3-b7d1-80f6-a07c-f0f6a4d98c0d",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-805e-8a39-c115be81e77e",
+            "file_ids": [
+              "286cc34c-912f-49a8-92bb-ceff69e9091f",
+              "dc971e30-081c-400f-9d6b-d21c79e2e3af"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "nfuI55Z4dnAGhsopFGf_uw,\"start\",\"end\"",
+                "n": {
+                  "nfuI55Z4dnAGhsopFGf_uw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "nfuI55Z4dnAGhsopFGf_uw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            21
+                          ],
+                          "o": "start",
+                          "l": 21,
+                          "c": "Задания и подарки.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "jPKcotFRKUKV",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -20
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "3ffc40b3-b7d1-8022-bdcc-c923bbcffab6": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "3ffc40b3-b7d1-8022-bdcc-c923bbcffab6",
+            "version": 6,
+            "type": "column",
+            "content": [
+              "1b2c40b3-b7d1-82bf-a9dc-818bf24be7f9"
+            ],
+            "format": {
+              "column_ratio": 0.5
+            },
+            "created_time": 1792521993835,
+            "last_edited_time": 1792521993838,
+            "parent_id": "050c40b3-b7d1-83b3-9c3f-81d2a9242fce",
+            "parent_table": "block",
+            "alive": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "K3j2zKk7zYBXzhhbEb1KZw,\"start\",\"end\"",
+                "n": {
+                  "K3j2zKk7zYBXzhhbEb1KZw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "K3j2zKk7zYBXzhhbEb1KZw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "1b3c40b3-b7d1-83c5-9956-81fc617db68f": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "1b3c40b3-b7d1-83c5-9956-81fc617db68f",
+            "version": 11,
+            "type": "column",
+            "content": [
+              "d0fc40b3-b7d1-8389-876a-81f425cbfcb1"
+            ],
+            "format": {
+              "column_ratio": 0.5000000000000001,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80b9-aaf7-f6254124632d",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958760,
+            "last_edited_time": 1792521993838,
+            "parent_id": "050c40b3-b7d1-83b3-9c3f-81d2a9242fce",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80b9-aaf7-f6254124632d",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "YOTapbe6I_SksgUik5Z5sQ,\"start\",\"end\"",
+                "n": {
+                  "YOTapbe6I_SksgUik5Z5sQ,\"start\",\"end\"": {
+                    "s": {
+                      "x": "YOTapbe6I_SksgUik5Z5sQ",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "1b2c40b3-b7d1-82bf-a9dc-818bf24be7f9": {
+        "value": {
+          "value": {
+            "id": "1b2c40b3-b7d1-82bf-a9dc-818bf24be7f9",
+            "version": 24,
+            "type": "image",
+            "properties": {
+              "size": [
+                [
+                  "245.3 KiB"
+                ]
+              ],
+              "title": [
+                [
+                  "Шторка с наградой.png"
+                ]
+              ],
+              "source": [
+                [
+                  "attachment:c35a7790-6b71-4877-bb12-02878794f461:Шторка_с_наградой.png"
+                ]
+              ]
+            },
+            "format": {
+              "block_width": 1596,
+              "display_source": "attachment:c35a7790-6b71-4877-bb12-02878794f461:Шторка_с_наградой.png",
+              "block_full_width": false,
+              "block_page_width": true,
+              "block_aspect_ratio": 2.1653333333333333,
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-8027-968c-f23d22a2dac9",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "block_preserve_scale": true
+            },
+            "created_time": 1791225958760,
+            "last_edited_time": 1792521993838,
+            "parent_id": "3ffc40b3-b7d1-8022-bdcc-c923bbcffab6",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-8027-968c-f23d22a2dac9",
+            "file_ids": [
+              "09535e5f-5567-4de5-b8e1-ac02d0fdba74",
+              "c35a7790-6b71-4877-bb12-02878794f461"
+            ],
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "LzZjohrb3-BiLEOdv9VaFw,\"start\",\"end\"",
+                "n": {
+                  "LzZjohrb3-BiLEOdv9VaFw,\"start\",\"end\"": {
+                    "s": {
+                      "x": "LzZjohrb3-BiLEOdv9VaFw",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "I4D750e5wLmH",
+                            12
+                          ],
+                          "o": "start",
+                          "l": 21,
+                          "c": "Шторка с наградой.png"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "EKiGRuf28Gwe",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -11
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      },
+      "d0fc40b3-b7d1-8389-876a-81f425cbfcb1": {
+        "value": {
+          "value": {
+            "id": "d0fc40b3-b7d1-8389-876a-81f425cbfcb1",
+            "version": 11,
+            "type": "sub_sub_header",
+            "format": {
+              "copied_from_pointer": {
+                "id": "3bfc40b3-b7d1-80ab-93f5-e98b244f61da",
+                "table": "block",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              }
+            },
+            "created_time": 1791225958760,
+            "last_edited_time": 1792521996816,
+            "parent_id": "1b3c40b3-b7d1-83c5-9956-81fc617db68f",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "3bfc40b3-b7d1-80ab-93f5-e98b244f61da",
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "crdt_format_version": 1,
+            "nav_parent_table": "block",
+            "nav_parent_id": "853c40b3-b7d1-8212-84d6-016e42797a79",
+            "crdt_data": {
+              "title": {
+                "r": "fYboogM3sBPsrQRLk_40CA,\"start\",\"end\"",
+                "n": {
+                  "fYboogM3sBPsrQRLk_40CA,\"start\",\"end\"": {
+                    "s": {
+                      "x": "fYboogM3sBPsrQRLk_40CA",
+                      "i": [
+                        {
+                          "t": "s"
+                        },
+                        {
+                          "t": "t",
+                          "i": [
+                            "vfO0NXwu7i6N",
+                            1
+                          ],
+                          "o": "start",
+                          "l": -7
+                        },
+                        {
+                          "t": "e"
+                        }
+                      ],
+                      "l": ""
+                    },
+                    "c": []
+                  }
+                }
+              }
+            }
+          },
+          "role": "reader"
+        }
+      }
+    },
+    "collection": {
+      "c4fc40b3-b7d1-82d7-878b-877957027a84": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+            "version": 52,
+            "name": [
+              [
+                "Проекты"
+              ]
+            ],
+            "schema": {
+              ";mfe": {
+                "name": "Date",
+                "type": "date"
+              },
+              "title": {
+                "name": "Name",
+                "type": "title"
+              }
+            },
+            "format": {
+              "copied_from_pointer": {
+                "id": "1cdc40b3-b7d1-8181-a9e5-000bd3abdcae",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "property_visibility": [
+                {
+                  "property": ";mfe",
+                  "visibility": "show"
+                },
+                {
+                  "property": "mrCe",
+                  "visibility": "hide"
+                }
+              ],
+              "collection_page_properties": [
+                {
+                  "visible": false,
+                  "property": "vTK["
+                },
+                {
+                  "visible": false,
+                  "property": "vXp}"
+                },
+                {
+                  "visible": false,
+                  "property": "\\@]N"
+                },
+                {
+                  "visible": true,
+                  "property": "_GA;",
+                  "statusShowAs": "select"
+                }
+              ]
+            },
+            "parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "parent_table": "block",
+            "alive": true,
+            "copied_from": "1cdc40b3-b7d1-8181-a9e5-000bd3abdcae",
+            "migrated": true,
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "deleted_schema": {
+              "mrCe": {
+                "name": "Status",
+                "type": "status",
+                "groups": [
+                  {
+                    "id": "67bb17a8-8695-4427-9540-041e7d8f1ddf",
+                    "name": "To-do",
+                    "color": "gray",
+                    "optionIds": [
+                      "1cfd3cda-f9a1-4973-9521-70ec87eb32c0"
+                    ]
+                  },
+                  {
+                    "id": "96d417bd-e6c6-4ad1-ada2-4dbfce197132",
+                    "name": "In progress",
+                    "color": "blue",
+                    "optionIds": [
+                      "87531401-787d-4096-b8a6-080818654c6a"
+                    ]
+                  },
+                  {
+                    "id": "ae6217f6-0eb5-4dd6-9b97-839e5e747d1a",
+                    "name": "Complete",
+                    "color": "green",
+                    "optionIds": [
+                      "335974e0-2ff3-4a13-ab7c-cbd97c9cad55"
+                    ]
+                  }
+                ],
+                "options": [
+                  {
+                    "id": "1cfd3cda-f9a1-4973-9521-70ec87eb32c0",
+                    "value": "Not started"
+                  },
+                  {
+                    "id": "87531401-787d-4096-b8a6-080818654c6a",
+                    "color": "blue",
+                    "value": "In progress"
+                  },
+                  {
+                    "id": "335974e0-2ff3-4a13-ab7c-cbd97c9cad55",
+                    "color": "green",
+                    "value": "Done"
+                  }
+                ],
+                "defaultOption": "Not started"
+              }
+            },
+            "created_time": 1791225956695,
+            "last_edited_time": 1792697788455,
+            "created_by_table": "notion_user",
+            "created_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "nav_parent_table": "block",
+            "nav_parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15"
+          },
+          "role": "reader"
+        }
+      }
+    },
+    "collection_view": {
+      "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b": {
+        "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+        "value": {
+          "value": {
+            "id": "8dfc40b3-b7d1-8390-aba6-88d9df92ae9b",
+            "version": 102,
+            "type": "gallery",
+            "name": "Т-Банк",
+            "format": {
+              "table_wrap": false,
+              "card_layout": {
+                "mode": "list"
+              },
+              "description": "",
+              "gallery_cover": {
+                "type": "page_content_first"
+              },
+              "show_page_icon": false,
+              "board_columns_by": {
+                "sort": {
+                  "type": "ascending"
+                },
+                "type": "status",
+                "groupBy": "option",
+                "property": "mrCe",
+                "hideEmptyGroups": false
+              },
+              "property_filters": [
+                {
+                  "id": "7f1955e1-eaaa-4cb3-a0d2-c1b85a89e7a4",
+                  "filter": {
+                    "filter": {
+                      "value": {
+                        "type": "exact"
+                      },
+                      "operator": "enum_is"
+                    },
+                    "property": "vTK["
+                  }
+                }
+              ],
+              "collection_pointer": {
+                "id": "c4fc40b3-b7d1-82d7-878b-877957027a84",
+                "table": "collection",
+                "spaceId": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748"
+              },
+              "gallery_cover_size": "large",
+              "gallery_properties": [
+                {
+                  "wrap": false,
+                  "visible": true,
+                  "property": "title"
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "vTK["
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "J?`]"
+                },
+                {
+                  "wrap": false,
+                  "visible": false,
+                  "property": "_GA;"
+                }
+              ],
+              "gallery_cover_aspect": "cover",
+              "subitem_filter_scope": "parents",
+              "hide_linked_collection_name": false,
+              "table_subitem_toggle_column": "title"
+            },
+            "parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15",
+            "parent_table": "block",
+            "alive": true,
+            "page_sort": [
+              "033c40b3-b7d1-82ed-9781-812cc64d90b5",
+              "bd1c40b3-b7d1-83e5-a666-01e2f64ab95f",
+              "5a9c40b3-b7d1-8240-ae6a-81e56497c0ac",
+              "28ac40b3-b7d1-80e7-9960-fc1fa83208e2",
+              "3fbc40b3-b7d1-80ff-a3ca-d2272ef2e438",
+              "168c40b3-b7d1-8227-8a5e-818b98edb487",
+              "853c40b3-b7d1-8212-84d6-016e42797a79",
+              "d5bc40b3-b7d1-8282-9f96-013d037e648e",
+              "273c40b3-b7d1-8077-94d1-e71743b4ff60",
+              "1cdc40b3-b7d1-8144-ba6b-d346d3e2edcd",
+              "5958d723-caa0-48b4-bdf2-4125d460fef9",
+              "14fb3d74-6596-4210-a7f4-509a5b8d1601",
+              "af93eee3-762b-49c2-82fc-3cb0f78672f9"
+            ],
+            "query2": {
+              "calendar_by": "~vOm",
+              "timeline_by": ";mfe"
+            },
+            "space_id": "5cc05e23-4cf0-4a98-b94a-5b0213d3e748",
+            "created_time": 1791225956695,
+            "last_edited_time": 1792697799560,
+            "created_by_table": "notion_user",
+            "created_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "bc7110e9-c135-4763-b146-7f48e31dc98c",
+            "nav_parent_table": "block",
+            "nav_parent_id": "4fbc40b3-b7d1-8244-bc24-01ef99019c15"
+          },
+          "role": "reader"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "spec_revision": "6",
+  "observed_spec_revision": "6",
+  "state": "enforced",
+  "allowed_hosts": [
+    "app.notion.com",
+    "ivanzviahin.com",
+    "notion.so",
+    "www.ivanzviahin.com",
+    "www.notion.so"
+  ],
+  "image_download_error": "Tunnel connection failed: 403 Forbidden",
+  "missing_host": "file.notion.so"
+}

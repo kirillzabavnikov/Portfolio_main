@@ -1,0 +1,95 @@
+Toll service on the form · av.by
+Rose debug info
+---------------
+Your password
+I forgot
+Public computer
+Sign in
+Subscribe to this blog
+telegram
+RSS
+json
+ivan's blog
+about ivan
+·
+all notes
+Toll service on the form · av.by
+How we added a toll service on the ad submission form and increased the conversion to purchase this service by 48 %.
+av.by
+is an online board for car sales. 4 platforms are web mobile, web desktop, android, and ios apps. We have quite a big post base of 55 000 posts. Our company is 60 people with 1 500 000 users per month. This is the largest platform for the sale of cars in Belarus.
+Problem for the business
+We earn money by toll services to promote ads for the sale of cars. This happens in different places of the product. But up to now, we have never advertised toll services on the submission form. We thought it was a dark pattern. But after some time we noticed all competitors do it and this has become commonplace. We decided to test it and observe the results.
+We have a lot of sellers and each of them posts several ads per month. This proves that the submission form is a good place to sell promotion toll services. Therefore, we want to create the value of a toll service at the start of the sale for sellers and earn on it.
+Audience
+Our audience is sellers. For simplicity reasons, I will unite all car sellers in Belarus with one person. His name is Sasha, say hello to Sasha!
+Problem for sellers
+There is definitely no problem for sellers. The main challenge that needs to be solved is to conduct research and find the value of submitting an ad with the purchase of a toll service or rather accelerating the sale from the start of the sale.
+Success criteria
+Any increase in the sale of the toll service will be a success. Yet it is important that this not affect the conversion to ad submission in any way.
+Research
+We conducted more than 5 user interviews and realized that sellers are interested in buying a paid service at the start of the sale if we guarantee that the visibility of their ads will increase several times. And this will affect the reach of sellers and the speed of sales. We cannot guarantee an increase in the speed of sales. A lot of factors affect the speed.
+I have done an analysis of competitors. This helped us to find value and generate several hypotheses.
+Hypotheses and priorities
+Here I want to tell you about the ideas and show the prototypes.
+If we focus on increasing the visibility of the ad in the product, it could increase the number of sales. Sasha submits an ad by clicking on the blue button and filling out the submission form. In the end, we ask him about the promotion with an emphasis on the visibility of the ad.
+If we publish an ad in any case, it will not affect the conversion to submission in any way. If the service has been selected, we submit an ad and then send the seller to pay.
+If we make the toll option selected by default, it will help to increase the number of sales. It’s scary enough, but I want to test through A · B tests.
+If we make a service with a discount, it will motivate the seller to agree to purchase the service.
+We do not have a discount module, it is very expensive to make it technically.
+If we say how many people use the promotion, it will stimulate the seller to agree to the purchase.
+We didn’t really believe in this hypothesis, plus technically it’s not simple.
+If we offer to increase the price of the ad by the price of the service, it will increase the number of payments as it will make the purchase conditionally free.
+It’s also complicated and looks like cheating. We didn’t really believe in this hypothesis.
+Together with the product manager and engineers, we estimated each hypothesis according to two parameters: the complexity of implementation and value. As a result, we got priorities and decided that we would check only the first 3 hypotheses.
+1. If we focus on increasing the visibility of the ad in the product, it could increase sales
+We cannot guarantee that the speed of sales will increase. This is influenced by many factors. But we can guarantee that we will increase the visibility of the ad on the platform. We turned to a data analyst and he informed us that, on average, visibility increases by 5 times.
+So, at the end of the submission form, we need to place a block for choosing the publication method. With promotion or not. We don’t have many options on how to do this.
+The third option is good, but it’s scary to multiply the most important button. The second one is not very clear, it was confirmed on testing. We decided to go further with the first option.
+Sasha clicks ‘submit an ad’, fills in all the data about the car, and ends up seeing a toll service. There is a free ad submission and a toll one, in which we guarantee ×5 views after publication. A person will receive these views because after submitting the ad, the services of the TOP ad and price allocation will be applied to the ad.
+We conducted corridor tests that helped us find the best visual, vulnerable places in the interface and text. Plus, we realized that instead of a discount (we decided not to make this hypothesis, number 4), we would show the monetary benefit of buying a package relative to the services separately.
+2. If we publish an ad in any case, it will not affect the conversion to submission in any way
+We had two options for how to save the conversion into an ad submission.
+The second option is good, but we were afraid that showing promotions after submission was a bad idea. After completing the main action, the user has weaker attention to detail. Since the main action has already taken place and the person wants to quickly look at the result. Without tests, we decided to move on with the first option.
+Once the service has been selected, we submit an ad and send the seller for payment. Therefore, the paid service should not affect the conversion to submission.
+3. If we make the toll option selected by default, it will help to increase sales
+Since it’s scary to make a toll service selected by default, we decided to conduct an experiment. After all, this can also affect the conversion to submission. Option A → pre-selected standard sale, option B → pre-selected quick sale for 9 BYN.
+Release!
+A · B test results. Option A – they pay less and the conversion to ad submission does not change, option B – they pay more and the conversion to ad submission does not change. Therefore, we go further with option B.
+Results
++48% to the conversion to the purchase of this service, the conversion to ad submission has not changed.
+Platforms
+Basically, all solutions work on four platforms: web, android, and ios. We also made the desktop version, but I don’t show it because only 17% of the audience uses it.
+My role
+I was engaged in the analysis of competitors, the formation of hypotheses, their prioritization, interviews, prototypes, and mockups. Besides me, the team included: designer, product manager, engineers. I helped QA engineers to run all the flow and described bugs.
+Go to av.by
+3092
+2021
+casestudy
+Next
+Design career paths
+How we made design career paths and criteria for transition from one role to another for designers and got an effective tool to make a personal development plan. Additionally, we helped designers understand how they can develop and what level they are at now.
+35398
+2023
+Design process · task
+2365
+2021
+Comments in stories
+1
+7878
+2023
+News card in personal feed · Tinkoff
+9402
+2023
+Design process
+8347
+2022
+Do you want to discuss something? Just write to me!
+telegram
+or
+email
+©
+Ivan Zviahin
+, 2016–2026
+RSS
+Powered by
+Aegea
