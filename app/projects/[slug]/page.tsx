@@ -3,7 +3,7 @@ import Link from 'next/link';
 import {notFound} from 'next/navigation';
 import {Contact} from '@/components/Contact';
 import {ProjectVisual} from '@/components/ProjectVisual';
-import {getProjects, getAsset, getProjectHtml, site} from '@/lib/content';
+import {getProjects, getAsset, getProjectHtml, getProjectHref, site} from '@/lib/content';
 import {withNonBreakingSpaces as nbsp} from '@/lib/typography';
 
 export const dynamicParams = false;
@@ -27,7 +27,7 @@ export default async function ProjectPage({params}: {params: Promise<{slug:strin
       <div className="case-body" dangerouslySetInnerHTML={{__html:getProjectHtml(project)}} />
       <a className="source-link" href={`https://www.notion.so/${project.sourceId.replaceAll('-','')}`} target="_blank" rel="noreferrer">{nbsp('Полный кейс в Notion')}</a>
     </article>
-    <nav className="case-next" aria-label="Следующий проект"><span>Далее</span><Link href={`/projects/${next.slug}/`}>{nbsp(next.title)} →</Link><p>{nbsp(next.description)}</p></nav>
+    <nav className="case-next" aria-label="Следующий проект"><span>Далее</span><Link href={getProjectHref(next)}>{nbsp(next.title)} →</Link><p>{nbsp(next.description)}</p></nav>
     </main>
     <footer className="case-footer"><Contact /><Link href="/#projects">← Все проекты</Link></footer>
   </div>;

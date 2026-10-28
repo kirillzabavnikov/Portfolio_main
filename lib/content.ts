@@ -10,6 +10,8 @@ export type Project = {
   title: string; slug: string; description: string; cover: string; coverAlt: string;
   order: number; published: boolean; category: string; sourceId: string; year?: number;
   coverScreens?: {image: string; alt: string}[];
+  caseUrl?: string;
+  preview?: string;
   markdown: string;
 };
 export type Asset = { width: number; height: number; path: string };
@@ -27,12 +29,18 @@ export function getProjects(): Project[] {
     }
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(data.slug)) throw new Error(`${file}: invalid slug`);
     if (typeof data.published !== 'boolean' || !Number.isFinite(data.order)) throw new Error(`${file}: invalid published/order`);
+    if (data.caseUrl !== undefined && (typeof data.caseUrl !== 'string' || !URL.canParse(data.caseUrl) || new URL(data.caseUrl).protocol !== 'https:')) throw new Error(`${file}: invalid caseUrl`);
+    if (data.preview !== undefined && typeof data.preview !== 'string') throw new Error(`${file}: invalid preview`);
     return {...data, markdown: content} as Project;
   }).filter(project => project.published).sort((a,b) => a.order - b.order);
   if (new Set(projects.map(p => p.slug)).size !== projects.length) throw new Error('Duplicate project slug');
   return projects;
 }
-export function getProjectHtml(project: Project): string {
+export function getProjectHref(project: Project): string {
+  return project.caseUrl || `/projects/${project.slug}/`;
+}
+
+function createContentRenderer() {
   // Markdown is authored locally, never accepted from visitors.
   const renderer = new marked.Renderer();
   const renderText = renderer.text.bind(renderer);
@@ -48,5 +56,13 @@ export function getProjectHtml(project: Project): string {
     const asset = getAsset(id);
     return `<img src="${escape(href)}" alt="${escape(text)}" width="${asset.width}" height="${asset.height}" loading="lazy" decoding="async" />`;
   };
-  return marked.parse(project.markdown, {renderer, async: false}) as string;
+  return renderer;
+}
+
+export function getProjectHtml(project: Project): string {
+  return marked.parse(project.markdown, {renderer: createContentRenderer(), async: false}) as string;
+}
+
+export function getProjectPreviewHtml(project: Project): string {
+  return marked.parseInline(project.preview || '', {renderer: createContentRenderer(), async: false}) as string;
 }
