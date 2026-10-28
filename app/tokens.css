@@ -2,7 +2,7 @@
   /* Главная: значения сняты с ivanzviahin.com. Шрифт заменён на Inter. */
   --background: #eeedf1;
   --ink: #04142c;
-  --accent: #393eff;
+  --accent: #6b6b6b;
   --font: 'Inter Variable', Inter, Arial, sans-serif;
   --body-size: 18px;
   --body-leading: 23px;
@@ -19,8 +19,8 @@
   /* Внутренние страницы у референса имеют собственный белый фон и сетку. */
   --case-background: #fff;
   --case-ink: #000;
-  --case-link: #0580f2;
-  --case-hover: #01bf1f;
+  --case-link: #6b6b6b;
+  --case-hover: #505050;
   --case-width: 1300px;
   --case-copy-width: 720px;
   --case-title-size: 38px;
@@ -32,6 +32,5 @@
   :root {
     --background: color(display-p3 0.9333 0.9294 0.9451);
     --ink: color(display-p3 0.0157 0.0784 0.1726);
-    --accent: color(display-p3 0.3001 0.31111 0.96989);
   }
 }
