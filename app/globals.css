@@ -23,7 +23,6 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .home-main { min-width: 0; padding: 16px 16px 30px 4%; }
 .main-header { margin-bottom: var(--section-gap); }
 .main-header-title { max-width: 610px; margin-bottom: 12px; }
-.main-header-title span { color: var(--accent); }
 .main-header > p { max-width: 600px; }
 .main-content-prepend { margin-bottom: 16px; }
 .project-card { margin-bottom: var(--section-gap); }
