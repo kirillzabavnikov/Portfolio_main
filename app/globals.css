@@ -15,11 +15,10 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .header-group { margin-top: var(--edge); padding: 0 var(--edge); }
 .header-title { max-width: 330px; margin-bottom: 11px; text-transform: lowercase; }
 .header-description { max-width: 274px; }
-.header-nav { order: 2; padding: 0 6px; margin: 8px 0 16px; }
-.header-nav-link { display: inline-flex; padding: 2px 10px 5px; border-radius: 13px; }
 .navigation { display: flex; flex: 1; flex-direction: column; justify-content: flex-end; }
-.navigation-menu { padding: 0 16px; }
+.navigation-menu { padding: 0 16px 16px; }
 .navigation-menu-primary,.navigation-menu-secondary { padding: 0; list-style: none; text-transform: lowercase; }
+.navigation-menu-secondary { font-weight: 400; }
 .navigation-menu-primary li:first-child,.navigation-button,.navigation-close { display: none; }
 .home-main { min-width: 0; padding: 16px 16px 30px 4%; }
 .main-header { margin-bottom: var(--section-gap); }
@@ -45,8 +44,6 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
   .header-group { margin-top: 77px; padding: 0; }
   .header-title { max-width: none; }
   .header-description { max-width: 90%; margin: auto; }
-  .header-nav { position: fixed; top: 6px; left: 4px; padding: 0; margin: 0; }
-  .header-nav-link { background: rgb(238 237 241 / 10%); backdrop-filter: blur(12px); }
   .navigation-button { display: block; position: fixed; top: 4px; right: 4px; width: 46px; height: 43px; border: 0; border-radius: 13px; color: var(--accent); background: rgb(238 237 241 / 10%); backdrop-filter: blur(12px); }
   .navigation-button span { letter-spacing: 3px; padding-left: 3px; font-weight: 900; }
   .navigation-menu { position: fixed; inset: 0; z-index: 30; display: flex; flex-direction: column; overflow-y: auto; background: rgb(238 237 241 / 80%); backdrop-filter: blur(12px); padding: 0 0 env(safe-area-inset-bottom); opacity: 0; visibility: hidden; transform: scale(1.03); transition: transform var(--motion-duration), opacity var(--motion-duration), visibility var(--motion-duration); }

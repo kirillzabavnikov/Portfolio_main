@@ -30,13 +30,18 @@ export function Navigation() {
     return () => { cancelAnimationFrame(focusFrame); document.body.style.overflow = previous; document.removeEventListener('keydown', onKey); media.removeEventListener('change', onResize); };
   }, [open]);
   return <>
-    <div className="header-nav"><Link href="/#projects" className="header-nav-link display-heavy">проекты</Link></div>
     <div className="navigation">
       <button ref={trigger} className="navigation-button" aria-label={open ? 'Закрыть меню' : 'Открыть меню'} aria-expanded={open} aria-controls="portfolio-menu" onClick={() => setOpen(!open)}><span aria-hidden="true">•••</span></button>
       <nav id="portfolio-menu" ref={menu} className={`navigation-menu ${open ? 'is-open' : ''}`} aria-label="Основная навигация" onClick={e => { if ((e.target as HTMLElement).closest('a')) {setOpen(false);trigger.current?.focus();} }}>
         <div className="navigation-menu-container">
-          <ul className="navigation-menu-primary"><li><Link href="/">{site.name}</Link></li><li><a href={site.notion} target="_blank" rel="noreferrer">Notion</a></li></ul>
-          <ul className="navigation-menu-secondary"><li><a href={`mailto:${site.email}`}>email</a></li><li><a href={site.telegram} target="_blank" rel="noreferrer">telegram</a></li></ul>
+          <ul className="navigation-menu-primary"><li><Link href="/">{site.name}</Link></li></ul>
+          <ul className="navigation-menu-secondary">
+            <li><a href={site.notion} target="_blank" rel="noreferrer">Notion</a></li>
+            <li><a href={`mailto:${site.email}`}>email</a></li>
+            <li><a href={site.telegram} target="_blank" rel="noreferrer">telegram</a></li>
+            <li><a href={site.linkedin} target="_blank" rel="noreferrer">LinkedIn</a></li>
+            <li><a href={site.instagram} target="_blank" rel="noreferrer">Instagram</a></li>
+          </ul>
         </div>
         <button className="navigation-close display-heavy" onClick={() => {setOpen(false);trigger.current?.focus();}}>закрыть</button>
       </nav>
