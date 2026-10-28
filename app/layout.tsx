@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import '@fontsource-variable/inter';
 import './tokens.css';
 import './globals.css';
 import { site } from '@/lib/content';
