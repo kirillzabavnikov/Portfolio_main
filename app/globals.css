@@ -66,7 +66,7 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
   .project-caption p,.contact-copy { margin-left: auto; margin-right: auto; }
 }
 .case-page { min-height: 100vh; background: var(--case-background); color: var(--case-ink); font-size: var(--case-body-size); line-height: var(--case-body-leading); letter-spacing: 0; padding: 26px max(4%, calc((100% - var(--case-width)) / 2 + 26px)) 40px; }
-.case-page a { color: var(--case-link); border-bottom: 1px solid rgb(107 107 107 / 25%); transition: color .2s ease-out,border-color .2s ease-out; }
+.case-page a { color: var(--case-link); border-bottom: 1px solid rgb(168 168 168 / 25%); transition: color .2s ease-out,border-color .2s ease-out; }
 .case-page a:hover { color: var(--case-hover); border-color: currentColor; }
 .case-header { padding-top: 50px; padding-bottom: 60px; }
 .case-header .case-author { display: inline-block; margin-bottom: 2px; }
