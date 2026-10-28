@@ -18,7 +18,7 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .navigation { display: flex; flex: 1; flex-direction: column; justify-content: flex-end; }
 .navigation-menu { padding: 0 16px 16px; }
 .navigation-menu-primary,.navigation-menu-secondary { padding: 0; list-style: none; text-transform: lowercase; }
-.navigation-menu-secondary { font-weight: 400; }
+.navigation-menu-secondary { display: flex; flex-direction: column; gap: var(--contact-gap); font-weight: 400; }
 .navigation-menu-primary li:first-child,.navigation-button,.navigation-close { display: none; }
 .home-main { min-width: 0; padding: 16px 16px 30px 4%; }
 .main-header { margin-bottom: var(--section-gap); }
@@ -52,7 +52,7 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
   .navigation-menu-primary { padding: 30px 10px 10px; font-size: var(--display-size); line-height: var(--display-leading); font-weight: 900; }
   .navigation-menu-primary li:first-child { display: block; }
   .navigation-menu-primary a { display: block; padding: 8px; }
-  .navigation-menu-secondary { display: flex; flex-wrap: wrap; justify-content: center; padding: 0 30px; }
+  .navigation-menu-secondary { flex-direction: row; flex-wrap: wrap; justify-content: center; column-gap: 0; padding: 0 30px; }
   .navigation-menu-secondary a { display: block; padding: 8px; }
   .navigation-close { display: block; width: 100%; padding: 38px; background: transparent; border: 0; color: var(--accent); }
   .home-main { padding: 0 14px 36px; }
