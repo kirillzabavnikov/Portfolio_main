@@ -8,7 +8,7 @@ export default function Home() {
   const projects = getProjects();
   return <div className="portfolio-layout">
     <header className="header">
-      <div className="header-group"><h1 className="header-title display-heavy">{site.name}</h1><p className="header-description">{nbsp(site.role)}</p></div>
+      <div className="header-group"><h1 className="header-title display-heavy">{site.name}</h1><p className="header-description">{nbsp(site.role)}<br />{site.experience.replaceAll(' ', '\u00a0')}</p></div>
       <Navigation />
     </header>
     <main id="main" className="home-main">
