@@ -1,9 +1,9 @@
 :root {
-  /* Главная: значения сняты с ivanzviahin.com. Шрифт заменён на Inter. */
+  /* Главная: значения сняты с ivanzviahin.com. Шрифт заменён на Arial. */
   --background: #eeedf1;
   --ink: #04142c;
   --accent: #a8a8a8;
-  --font: 'Inter Variable', Inter, Arial, sans-serif;
+  --font: Arial, Helvetica, sans-serif;
   --body-size: 18px;
   --body-leading: 23px;
   --display-size: 33px;
