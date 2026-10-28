@@ -13,7 +13,7 @@ export default function Home() {
     </header>
     <main id="main" className="home-main">
       <section className="main-header" aria-label="Обо мне"><h2 className="main-header-title display-heavy">{nbsp(`${site.introAccent} ${site.introTitle}`)}</h2><p>{nbsp(site.intro)}</p></section>
-      <section id="projects" aria-label="Проекты"><p className="main-content-prepend">{nbsp(site.projectsLabel)}</p>{projects.map((project, index) => <ProjectCard key={project.slug} project={project} priority={index===0} />)}</section>
+      <section id="projects" aria-label="Проекты">{site.projectsLabel && <p className="main-content-prepend">{nbsp(site.projectsLabel)}</p>}{projects.map((project, index) => <ProjectCard key={project.slug} project={project} priority={index===0} />)}</section>
       <footer><Contact /></footer>
     </main>
   </div>;
