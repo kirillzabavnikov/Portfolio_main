@@ -3,6 +3,7 @@ import path from 'node:path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
 import site from '@/content/site.json';
+import {withNonBreakingSpaces} from '@/lib/typography';
 
 export { site };
 export type Project = {
@@ -34,6 +35,13 @@ export function getProjects(): Project[] {
 export function getProjectHtml(project: Project): string {
   // Markdown is authored locally, never accepted from visitors.
   const renderer = new marked.Renderer();
+  const renderText = renderer.text.bind(renderer);
+  renderer.text = token => {
+    const rendered = renderText(token);
+    // Nested tokens are handled recursively; never transform link/image attributes
+    // or code. A trailing space also binds to the word in a following inline tag.
+    return 'tokens' in token && token.tokens ? rendered : withNonBreakingSpaces(rendered);
+  };
   renderer.image = ({href, text}) => {
     const escape = (s: string) => s.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;').replaceAll('>','&gt;');
     const id = path.basename(href, '.webp');
