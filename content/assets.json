@@ -132,6 +132,8 @@
   "gamification-cover-composition": {
     "path": "/images/gamification-cover-composition.png",
     "width": 2400,
-    "height": 1865
+    "height": 1865,
+    "trimLeft": 277,
+    "fadeBottom": 20
   }
 }

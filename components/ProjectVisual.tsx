@@ -12,5 +12,12 @@ export function ProjectVisual({project, priority=false, large=false}: {project: 
     </div>;
   }
   const cover=getAsset(project.cover);
+  if (cover.trimLeft) {
+    const visibleWidth=cover.width-cover.trimLeft;
+    const fadeStart=100*(1-(cover.fadeBottom || 0)/cover.height);
+    return <div className="project-cover-frame">
+      <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '100vw' : '74vw'} style={{width:`${100*cover.width/visibleWidth}%`, maxWidth:'none', marginLeft:`${-100*cover.trimLeft/visibleWidth}%`, maskImage:`linear-gradient(to bottom, black ${fadeStart}%, transparent 100%)`}} />
+    </div>;
+  }
   return <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '94vw' : '64vw'} />;
 }
