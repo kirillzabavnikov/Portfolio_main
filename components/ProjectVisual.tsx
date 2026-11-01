@@ -16,9 +16,9 @@ export function ProjectVisual({project, priority=false, large=false}: {project: 
     const visibleWidth=cover.width-cover.trimLeft-(cover.trimRight || 0);
     const imageStyle={width:`${100*cover.width/visibleWidth}%`, maxWidth:'none', marginLeft:`${-100*cover.trimLeft/visibleWidth}%`};
     return <div className="project-cover-frame">
-      <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '100vw' : '84vw'} style={imageStyle} />
-      <div className="project-shadow-tail" aria-hidden="true" style={{aspectRatio:`${visibleWidth} / 48`}}>
-        <Image src={cover.path} width={cover.width} height={cover.height} alt="" sizes={large ? '100vw' : '84vw'} style={imageStyle} />
+      {cover.shadowFootprints?.map((shadow,index)=><span key={index} className="project-phone-shadow" aria-hidden="true" style={{left:`${100*(shadow.center-cover.trimLeft!)/visibleWidth}%`,width:`${100*shadow.width/visibleWidth}%`}} />)}
+      <div className="project-cover-crop">
+        <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '100vw' : '84vw'} style={{...imageStyle,maskImage:'linear-gradient(to bottom, black 99.3%, transparent 100%)'}} />
       </div>
     </div>;
   }

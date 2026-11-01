@@ -133,13 +133,29 @@
     "path": "/images/gamification-cover-composition.png",
     "width": 2400,
     "height": 1865,
-    "trimLeft": 277
+    "trimLeft": 277,
+    "shadowFootprints": [
+      {
+        "center": 1330,
+        "width": 760
+      }
+    ]
   },
   "promocodes-cover-composition": {
     "path": "/images/promocodes-cover-composition.png",
     "width": 2400,
     "height": 1865,
     "trimLeft": 300,
-    "trimRight": 275
+    "trimRight": 275,
+    "shadowFootprints": [
+      {
+        "center": 735,
+        "width": 740
+      },
+      {
+        "center": 1665,
+        "width": 740
+      }
+    ]
   }
 }

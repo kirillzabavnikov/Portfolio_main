@@ -14,7 +14,7 @@ export type Project = {
   preview?: string;
   markdown: string;
 };
-export type Asset = { width: number; height: number; path: string; trimLeft?: number; trimRight?: number };
+export type Asset = { width: number; height: number; path: string; trimLeft?: number; trimRight?: number; shadowFootprints?: {center: number; width: number}[] };
 export function getAsset(id: string): Asset {
   const file = path.join(process.cwd(), 'content/assets.json');
   const assets: Record<string, Asset> = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};

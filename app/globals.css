@@ -28,10 +28,10 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .project-card { margin-bottom: var(--section-gap); text-align: left; }
 .project-cover { display: block; margin-bottom: var(--caption-gap); }
 .project-cover > img { display: block; width: 100%; height: auto; border-radius: var(--radius); transition: transform var(--motion-duration) var(--motion-easing); }
-.project-cover-frame { overflow: hidden; transition: transform var(--motion-duration) var(--motion-easing); }
+.project-cover-frame { position: relative; container-type: inline-size; }
 .project-cover-frame img { display: block; height: auto; }
-.project-shadow-tail { position: relative; overflow: hidden; mask-image: linear-gradient(to bottom, black, transparent); }
-.project-shadow-tail img { position: absolute; bottom: 100%; transform: scaleY(-4); transform-origin: center bottom; }
+.project-cover-crop { position: relative; overflow: hidden; }
+.project-phone-shadow { position: absolute; bottom: -.2%; height: .8%; border-radius: 50%; background: rgb(18 19 25 / 22%); filter: blur(.8cqw); transform: translateX(-50%); }
 .project-visual { display: flex; justify-content: center; align-items: center; gap: 3%; aspect-ratio: 16 / 9; width: 100%; padding: 4% 6%; transition: transform var(--motion-duration) var(--motion-easing); }
 .project-visual img { display: block; height: 100%; width: auto; max-width: 32%; min-width: 0; object-fit: contain; }
 .project-cover .project-visual { justify-content: flex-start; padding: 0; }
