@@ -128,5 +128,10 @@
     "path": "/images/9e9c40b3-b7d1-82fd-8e02-81bf5d2422ef.webp",
     "width": 1108,
     "height": 2400
+  },
+  "gamification-cover-composition": {
+    "path": "/images/gamification-cover-composition.png",
+    "width": 2400,
+    "height": 1865
   }
 }
