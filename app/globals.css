@@ -27,7 +27,7 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .main-content-prepend { margin-bottom: 16px; }
 .project-card { margin-bottom: var(--section-gap); text-align: left; }
 .project-cover { display: block; margin-bottom: var(--caption-gap); }
-.project-cover > img { display: block; width: 100%; height: auto; border-radius: var(--radius); transition: transform var(--motion-duration) var(--motion-easing); }
+.project-cover > img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
 .project-cover-frame { position: relative; container-type: inline-size; }
 .project-cover-frame img { display: block; height: auto; }
 .project-cover-crop { position: relative; overflow: hidden; margin-inline: -14px; padding-inline: 14px; }
@@ -40,7 +40,6 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .project-caption p + p { margin-top: 8px; }
 .project-caption time { position: absolute; top: 0; right: 0; }
 .contact-copy { max-width: 480px; overflow-wrap: anywhere; }
-@media (hover: hover) and (pointer: fine) { .project-cover:hover > img,.project-cover:hover .project-visual { transform: scale(1.02); } .project-cover:active > img,.project-cover:active .project-visual { transform: scale(1); transition-duration: 150ms; } }
 @media (max-width: 1149px) { .project-caption time { position: static; display: block; margin-top: 12px; } .project-caption p + p { margin-top: 12px; } }
 @media (max-width: 999px) {
   .portfolio-layout { display: block; max-width: var(--mobile-width); margin: auto; text-align: center; }
