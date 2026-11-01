@@ -180,5 +180,22 @@
         "width": 740
       }
     ]
+  },
+  "comments-cover-composition": {
+    "path": "/images/comments-cover-composition.png",
+    "width": 2400,
+    "height": 1865,
+    "trimLeft": 300,
+    "trimRight": 275,
+    "shadowFootprints": [
+      {
+        "center": 735,
+        "width": 740
+      },
+      {
+        "center": 1665,
+        "width": 740
+      }
+    ]
   }
 }

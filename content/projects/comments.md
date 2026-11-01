@@ -4,12 +4,7 @@ slug: comments
 caseUrl: "https://app.notion.com/p/5a9c40b3b7d18240ae6a81e56497c0ac"
 preview: 'Сделал редизайн комментариев в социальной сети «Пульс» и других контентных продуктах Т-Банка. Подробнее — в кейсе [Пульс: редизайн комментариев](https://app.notion.com/p/5a9c40b3b7d18240ae6a81e56497c0ac).'
 description: "Переосмыслил комментарии как общую социальную механику контентных продуктов банка. Подготовил архитектуру для тредов и разложил развитие на итерации."
-cover: 3fac40b3-b7d1-80ab-bf70-e7fba4ee12f3
-coverScreens:
-  - image: 3fac40b3-b7d1-80ab-bf70-e7fba4ee12f3
-    alt: "Первая итерация комментариев Пульса"
-  - image: 873c40b3-b7d1-838a-bf98-81f79b6a225c
-    alt: "Концепция дальнейшего развития комментариев"
+cover: comments-cover-composition
 coverAlt: "Редизайн комментариев Пульса"
 order: 5
 published: true
