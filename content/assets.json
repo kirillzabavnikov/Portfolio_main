@@ -161,6 +161,7 @@
   "pulse-cover-composition": {
     "path": "/images/pulse-cover-composition.png",
     "width": 1712,
-    "height": 1828
+    "height": 1828,
+    "displayWidth": 98.35
   }
 }

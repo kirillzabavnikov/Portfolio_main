@@ -22,5 +22,5 @@ export function ProjectVisual({project, priority=false, large=false}: {project: 
       </div>
     </div>;
   }
-  return <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '94vw' : '64vw'} />;
+  return <Image src={cover.path} width={cover.width} height={cover.height} alt={project.coverAlt} priority={priority} sizes={large ? '94vw' : '64vw'} style={cover.displayWidth ? {width:`${cover.displayWidth}%`} : undefined} />;
 }
