@@ -163,5 +163,22 @@
     "width": 1712,
     "height": 1828,
     "displayWidth": 98.35
+  },
+  "editor-cover-composition": {
+    "path": "/images/editor-cover-composition.png",
+    "width": 2400,
+    "height": 1865,
+    "trimLeft": 300,
+    "trimRight": 275,
+    "shadowFootprints": [
+      {
+        "center": 735,
+        "width": 740
+      },
+      {
+        "center": 1665,
+        "width": 740
+      }
+    ]
   }
 }
