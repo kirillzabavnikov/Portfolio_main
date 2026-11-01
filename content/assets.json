@@ -135,5 +135,12 @@
     "height": 1865,
     "trimLeft": 277,
     "fadeBottom": 20
+  },
+  "promocodes-cover-composition": {
+    "path": "/images/promocodes-cover-composition.png",
+    "width": 2400,
+    "height": 1865,
+    "trimLeft": 300,
+    "fadeBottom": 12
   }
 }
