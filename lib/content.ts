@@ -43,6 +43,14 @@ export function getProjectHref(project: Project): string {
 function createContentRenderer() {
   // Markdown is authored locally, never accepted from visitors.
   const renderer = new marked.Renderer();
+  const renderLink=renderer.link.bind(renderer);
+  renderer.link=token=>{
+    const html=renderLink(token);
+    const hostname=URL.canParse(token.href) ? new URL(token.href).hostname : '';
+    return ['app.notion.com','notion.so','www.notion.so'].includes(hostname)
+      ? html.replace('<a ', '<a target="_blank" rel="noopener noreferrer" ')
+      : html;
+  };
   const renderText = renderer.text.bind(renderer);
   renderer.text = token => {
     const rendered = renderText(token);
