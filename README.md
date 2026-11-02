@@ -120,8 +120,8 @@ npm run build
 
 ## Публикация на GitHub Pages
 
-Основной репозиторий: https://github.com/kirillzabavnikov/Portfolio_main.
-Адрес сайта после активации Pages: https://kirillzabavnikov.github.io/Portfolio_main/.
+Основной репозиторий: https://github.com/kirillzabavnikov/kirillzabavnikov.github.io.
+Адрес сайта: https://kirillzabavnikov.github.io/.
 
 Один раз настройте репозиторий:
 
@@ -135,22 +135,20 @@ npm run build
 встроенный `GITHUB_TOKEN` с ограниченными правами.
 
 Workflow `.github/workflows/pages.yml` сам определяет базовый путь и адрес по
-имени репозитория. Изображения, значок вкладки, стили и внутренние ссылки
-поддерживают префикс `/Portfolio_main`. Не добавляйте этот префикс вручную в
-Markdown и `content/assets.json`.
+имени репозитория. Для `kirillzabavnikov.github.io` сайт публикуется в корне,
+без `/Portfolio_main`. Изображения, значок вкладки, стили и внутренние ссылки
+используют корневые пути. Не добавляйте старое имя репозитория в ссылки.
 
 Для проверки такой сборки в PowerShell:
 
 ```powershell
-$env:NEXT_PUBLIC_BASE_PATH = "/Portfolio_main"
-$env:NEXT_PUBLIC_SITE_URL = "https://kirillzabavnikov.github.io/Portfolio_main/"
 npm run build
-Remove-Item Env:NEXT_PUBLIC_BASE_PATH, Env:NEXT_PUBLIC_SITE_URL
 ```
 
-Без этих переменных собирается обычный сайт от корня домена, совместимый с Sites.
-Если репозиторий когда-нибудь будет переименован в `kirillzabavnikov.github.io`,
-workflow автоматически перейдёт на корневой адрес без `/Portfolio_main`.
+Сборка по умолчанию работает от корня домена. Адрес для метаданных указан в
+`content/site.json`; workflow также задаёт его автоматически. Для публикации на
+другом адресе можно передать `NEXT_PUBLIC_SITE_URL`, а для размещения в подпапке —
+`NEXT_PUBLIC_BASE_PATH`. Корневая сборка остаётся совместимой с Sites.
 
 ## Альтернативная публикация на Vercel
 
