@@ -2,10 +2,11 @@ import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
 import { marked } from 'marked';
-import site from '@/content/site.json';
+import siteContent from '@/content/site.json';
 import {withNonBreakingSpaces} from '@/lib/typography';
+import {assetUrl} from '@/lib/paths';
 
-export { site };
+export const site = {...siteContent, siteUrl: process.env.NEXT_PUBLIC_SITE_URL || siteContent.siteUrl};
 export type Project = {
   title: string; slug: string; description: string; cover: string; coverAlt: string;
   order: number; published: boolean; category: string; sourceId: string; year?: number;
@@ -18,7 +19,8 @@ export type Asset = { width: number; height: number; path: string; displayWidth?
 export function getAsset(id: string): Asset {
   const file = path.join(process.cwd(), 'content/assets.json');
   const assets: Record<string, Asset> = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
-  return assets[id] || { path: `/images/${id}.webp`, width: 1600, height: 900 };
+  const asset = assets[id] || { path: `/images/${id}.webp`, width: 1600, height: 900 };
+  return {...asset, path: assetUrl(asset.path)};
 }
 export function getProjects(): Project[] {
   const folder = path.join(process.cwd(), 'content/projects');
@@ -62,7 +64,7 @@ function createContentRenderer() {
     const escape = (s: string) => s.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;').replaceAll('>','&gt;');
     const id = path.basename(href, '.webp');
     const asset = getAsset(id);
-    return `<img src="${escape(href)}" alt="${escape(text)}" width="${asset.width}" height="${asset.height}" loading="lazy" decoding="async" />`;
+    return `<img src="${escape(assetUrl(href))}" alt="${escape(text)}" width="${asset.width}" height="${asset.height}" loading="lazy" decoding="async" />`;
   };
   return renderer;
 }

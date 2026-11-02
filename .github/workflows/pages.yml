@@ -1,0 +1,56 @@
+name: Publish portfolio to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Set Pages address
+        shell: bash
+        run: |
+          repo_name="${GITHUB_REPOSITORY#*/}"
+          owner_name="${GITHUB_REPOSITORY_OWNER,,}"
+          if [[ "${repo_name,,}" == "${owner_name}.github.io" ]]; then
+            site_base_path=""
+          else
+            site_base_path="/${repo_name}"
+          fi
+          echo "NEXT_PUBLIC_BASE_PATH=${site_base_path}" >> "$GITHUB_ENV"
+          echo "NEXT_PUBLIC_SITE_URL=https://${owner_name}.github.io${site_base_path}/" >> "$GITHUB_ENV"
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4

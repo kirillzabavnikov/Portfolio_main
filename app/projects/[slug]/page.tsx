@@ -5,6 +5,7 @@ import {Contact} from '@/components/Contact';
 import {ProjectVisual} from '@/components/ProjectVisual';
 import {getProjects, getAsset, getProjectHtml, getProjectHref, site} from '@/lib/content';
 import {withNonBreakingSpaces as nbsp} from '@/lib/typography';
+import {assetUrl} from '@/lib/paths';
 
 export const dynamicParams = false;
 export function generateStaticParams() { return getProjects().map(p => ({slug:p.slug})); }
@@ -12,7 +13,7 @@ export async function generateMetadata({params}: {params: Promise<{slug:string}>
   const {slug} = await params;
   const project = getProjects().find(p => p.slug===slug);
   if (!project) return {};
-  return {title:project.title,description:project.description,alternates:{canonical:`/projects/${slug}/`},openGraph:{title:project.title,description:project.description,type:'article',url:`/projects/${slug}/`,images:[{url:getAsset(project.cover).path,alt:project.coverAlt}]}};
+  return {title:project.title,description:project.description,alternates:{canonical:assetUrl(`/projects/${slug}/`)},openGraph:{title:project.title,description:project.description,type:'article',url:assetUrl(`/projects/${slug}/`),images:[{url:getAsset(project.cover).path,alt:project.coverAlt}]}};
 }
 export default async function ProjectPage({params}: {params: Promise<{slug:string}>}) {
   const {slug} = await params;
