@@ -5,12 +5,20 @@ import './globals.css';
 import { site } from '@/lib/content';
 import {assetUrl} from '@/lib/paths';
 
+const shareImage = {
+  url: assetUrl('/images/portfolio-share-cover.png'),
+  width: 2400,
+  height: 1865,
+  type: 'image/png',
+  alt: 'Портфолио Кирилла Забавникова — Product Designer',
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(new URL(site.siteUrl).origin),
   title: {default: `${site.name} — Product Designer`, template: `%s — ${site.name}`},
   description: site.intro,
-  openGraph: {title: `${site.name} — Product Designer`, description: site.intro, url:site.siteUrl, locale:'ru_RU', type:'website', images:[{url:assetUrl('/images/237c40b3-b7d1-838e-b55e-0123ac466540.webp'),alt:'Задания и подарки в Супермаркетах Т-Банка'}]},
-  twitter: {card:'summary_large_image'},
+  openGraph: {title: `${site.name} — Product Designer`, description: site.intro, url:site.siteUrl, locale:'ru_RU', type:'website', images:[shareImage]},
+  twitter: {card:'summary_large_image', images:[{url:shareImage.url,alt:shareImage.alt}]},
 };
 export default function RootLayout({children}: Readonly<{children: React.ReactNode}>) {
   return <html lang="ru"><body><a className="skip-link" href="#main">К содержанию</a>{children}</body></html>;
