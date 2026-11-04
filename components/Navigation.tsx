@@ -31,7 +31,7 @@ export function Navigation() {
   }, [open]);
   return <>
     <div className="navigation">
-      <button ref={trigger} className="navigation-button" aria-label={open ? 'Закрыть меню' : 'Открыть меню'} aria-expanded={open} aria-controls="portfolio-menu" onClick={() => setOpen(!open)}><span aria-hidden="true">•••</span></button>
+      <button ref={trigger} className="navigation-button" aria-label={open ? 'Закрыть меню' : 'Открыть меню'} aria-expanded={open} aria-controls="portfolio-menu" onClick={() => setOpen(!open)}><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true" focusable="false"><path d="M4 6h16M4 12h16M4 18h16" /></svg></button>
       <nav id="portfolio-menu" ref={menu} className={`navigation-menu ${open ? 'is-open' : ''}`} aria-label="Основная навигация" onClick={e => { if ((e.target as HTMLElement).closest('a')) {setOpen(false);trigger.current?.focus();} }}>
         <div className="navigation-menu-container">
           <ul className="navigation-menu-primary"><li><Link href="/">{site.name}</Link></li></ul>
