@@ -19,6 +19,7 @@ a:focus-visible,button:focus-visible { outline: 2px solid var(--accent); outline
 .navigation-menu { padding: 0 16px 16px; }
 .navigation-menu-primary,.navigation-menu-secondary { padding: 0; list-style: none; text-transform: lowercase; }
 .navigation-menu-secondary { display: flex; flex-direction: column; gap: var(--contact-gap); font-weight: 400; }
+.navigation-cv { text-transform: none; }
 .navigation-menu-primary li:first-child,.navigation-button,.navigation-close { display: none; }
 .home-main { min-width: 0; padding: 16px 16px 30px 4%; }
 .main-header { margin-bottom: var(--section-gap); }
