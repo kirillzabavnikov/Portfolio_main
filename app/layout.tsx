@@ -6,10 +6,10 @@ import { site } from '@/lib/content';
 import {assetUrl} from '@/lib/paths';
 
 const shareImage = {
-  url: assetUrl('/images/portfolio-share-cover.png'),
-  width: 2400,
-  height: 1865,
-  type: 'image/png',
+  url: assetUrl('/images/portfolio-share-cover-v2.jpg'),
+  width: 1200,
+  height: 933,
+  type: 'image/jpeg',
   alt: 'Портфолио Кирилла Забавникова — Product Designer',
 };
 
