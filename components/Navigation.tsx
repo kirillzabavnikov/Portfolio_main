@@ -37,7 +37,7 @@ export function Navigation() {
         <div className="navigation-menu-container">
           <ul className="navigation-menu-primary"><li><Link href="/">{site.name}</Link></li></ul>
           <ul className="navigation-menu-secondary">
-            <li><a className="navigation-cv" href={assetUrl(site.cv)} target="_blank" rel="noopener noreferrer">CV</a></li>
+            <li><a className="navigation-cv" href={assetUrl(site.cv)} target="_blank" rel="noopener noreferrer">cv</a></li>
             <li><a href={site.notion} target="_blank" rel="noreferrer">Notion</a></li>
             <li><a href={`mailto:${site.email}`}>email</a></li>
             <li><a href={site.telegram} target="_blank" rel="noreferrer">telegram</a></li>
